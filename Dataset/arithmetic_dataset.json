@@ -1,0 +1,4002 @@
+[
+  {
+    "type": "addition",
+    "problem": "134 + 448",
+    "correct_equation": "134 + 448 = 582",
+    "incorrect_equation": "134 + 448 = 528",
+    "a": 134,
+    "b": 448,
+    "correct_answer": 582,
+    "incorrect_answer": 528
+  },
+  {
+    "type": "addition",
+    "problem": "410 + 71",
+    "correct_equation": "410 + 71 = 481",
+    "incorrect_equation": "410 + 71 = 339",
+    "a": 410,
+    "b": 71,
+    "correct_answer": 481,
+    "incorrect_answer": 339
+  },
+  {
+    "type": "addition",
+    "problem": "884 + 108",
+    "correct_equation": "884 + 108 = 992",
+    "incorrect_equation": "884 + 108 = 991",
+    "a": 884,
+    "b": 108,
+    "correct_answer": 992,
+    "incorrect_answer": 991
+  },
+  {
+    "type": "addition",
+    "problem": "489 + 590",
+    "correct_equation": "489 + 590 = 1079",
+    "incorrect_equation": "489 + 590 = 1047",
+    "a": 489,
+    "b": 590,
+    "correct_answer": 1079,
+    "incorrect_answer": 1047
+  },
+  {
+    "type": "addition",
+    "problem": "747 + 765",
+    "correct_equation": "747 + 765 = 1512",
+    "incorrect_equation": "747 + 765 = 1521",
+    "a": 747,
+    "b": 765,
+    "correct_answer": 1512,
+    "incorrect_answer": 1521
+  },
+  {
+    "type": "addition",
+    "problem": "33 + 476",
+    "correct_equation": "33 + 476 = 509",
+    "incorrect_equation": "33 + 476 = 510",
+    "a": 33,
+    "b": 476,
+    "correct_answer": 509,
+    "incorrect_answer": 510
+  },
+  {
+    "type": "addition",
+    "problem": "574 + 110",
+    "correct_equation": "574 + 110 = 684",
+    "incorrect_equation": "574 + 110 = 464",
+    "a": 574,
+    "b": 110,
+    "correct_answer": 684,
+    "incorrect_answer": 464
+  },
+  {
+    "type": "addition",
+    "problem": "280 + 894",
+    "correct_equation": "280 + 894 = 1174",
+    "incorrect_equation": "280 + 894 = 1175",
+    "a": 280,
+    "b": 894,
+    "correct_answer": 1174,
+    "incorrect_answer": 1175
+  },
+  {
+    "type": "addition",
+    "problem": "517 + 742",
+    "correct_equation": "517 + 742 = 1259",
+    "incorrect_equation": "517 + 742 = 1265",
+    "a": 517,
+    "b": 742,
+    "correct_answer": 1259,
+    "incorrect_answer": 1265
+  },
+  {
+    "type": "addition",
+    "problem": "195 + 512",
+    "correct_equation": "195 + 512 = 707",
+    "incorrect_equation": "195 + 512 = 709",
+    "a": 195,
+    "b": 512,
+    "correct_answer": 707,
+    "incorrect_answer": 709
+  },
+  {
+    "type": "addition",
+    "problem": "480 + 863",
+    "correct_equation": "480 + 863 = 1343",
+    "incorrect_equation": "480 + 863 = 1335",
+    "a": 480,
+    "b": 863,
+    "correct_answer": 1343,
+    "incorrect_answer": 1335
+  },
+  {
+    "type": "addition",
+    "problem": "460 + 316",
+    "correct_equation": "460 + 316 = 776",
+    "incorrect_equation": "460 + 316 = 794",
+    "a": 460,
+    "b": 316,
+    "correct_answer": 776,
+    "incorrect_answer": 794
+  },
+  {
+    "type": "addition",
+    "problem": "294 + 410",
+    "correct_equation": "294 + 410 = 704",
+    "incorrect_equation": "294 + 410 = 710",
+    "a": 294,
+    "b": 410,
+    "correct_answer": 704,
+    "incorrect_answer": 710
+  },
+  {
+    "type": "addition",
+    "problem": "917 + 283",
+    "correct_equation": "917 + 283 = 1200",
+    "incorrect_equation": "917 + 283 = 1167",
+    "a": 917,
+    "b": 283,
+    "correct_answer": 1200,
+    "incorrect_answer": 1167
+  },
+  {
+    "type": "addition",
+    "problem": "630 + 321",
+    "correct_equation": "630 + 321 = 951",
+    "incorrect_equation": "630 + 321 = 958",
+    "a": 630,
+    "b": 321,
+    "correct_answer": 951,
+    "incorrect_answer": 958
+  },
+  {
+    "type": "addition",
+    "problem": "125 + 389",
+    "correct_equation": "125 + 389 = 514",
+    "incorrect_equation": "125 + 389 = 475",
+    "a": 125,
+    "b": 389,
+    "correct_answer": 514,
+    "incorrect_answer": 475
+  },
+  {
+    "type": "addition",
+    "problem": "702 + 361",
+    "correct_equation": "702 + 361 = 1063",
+    "incorrect_equation": "702 + 361 = 1034",
+    "a": 702,
+    "b": 361,
+    "correct_answer": 1063,
+    "incorrect_answer": 1034
+  },
+  {
+    "type": "addition",
+    "problem": "331 + 323",
+    "correct_equation": "331 + 323 = 654",
+    "incorrect_equation": "331 + 323 = 607",
+    "a": 331,
+    "b": 323,
+    "correct_answer": 654,
+    "incorrect_answer": 607
+  },
+  {
+    "type": "addition",
+    "problem": "662 + 665",
+    "correct_equation": "662 + 665 = 1327",
+    "incorrect_equation": "662 + 665 = 1337",
+    "a": 662,
+    "b": 665,
+    "correct_answer": 1327,
+    "incorrect_answer": 1337
+  },
+  {
+    "type": "addition",
+    "problem": "282 + 684",
+    "correct_equation": "282 + 684 = 966",
+    "incorrect_equation": "282 + 684 = 956",
+    "a": 282,
+    "b": 684,
+    "correct_answer": 966,
+    "incorrect_answer": 956
+  },
+  {
+    "type": "addition",
+    "problem": "958 + 643",
+    "correct_equation": "958 + 643 = 1601",
+    "incorrect_equation": "958 + 643 = 1552",
+    "a": 958,
+    "b": 643,
+    "correct_answer": 1601,
+    "incorrect_answer": 1552
+  },
+  {
+    "type": "addition",
+    "problem": "238 + 842",
+    "correct_equation": "238 + 842 = 1080",
+    "incorrect_equation": "238 + 842 = 1800",
+    "a": 238,
+    "b": 842,
+    "correct_answer": 1080,
+    "incorrect_answer": 1800
+  },
+  {
+    "type": "addition",
+    "problem": "195 + 451",
+    "correct_equation": "195 + 451 = 646",
+    "incorrect_equation": "195 + 451 = 638",
+    "a": 195,
+    "b": 451,
+    "correct_answer": 646,
+    "incorrect_answer": 638
+  },
+  {
+    "type": "addition",
+    "problem": "294 + 22",
+    "correct_equation": "294 + 22 = 316",
+    "incorrect_equation": "294 + 22 = 315",
+    "a": 294,
+    "b": 22,
+    "correct_answer": 316,
+    "incorrect_answer": 315
+  },
+  {
+    "type": "addition",
+    "problem": "883 + 175",
+    "correct_equation": "883 + 175 = 1058",
+    "incorrect_equation": "883 + 175 = 1039",
+    "a": 883,
+    "b": 175,
+    "correct_answer": 1058,
+    "incorrect_answer": 1039
+  },
+  {
+    "type": "addition",
+    "problem": "13 + 481",
+    "correct_equation": "13 + 481 = 494",
+    "incorrect_equation": "13 + 481 = 518",
+    "a": 13,
+    "b": 481,
+    "correct_answer": 494,
+    "incorrect_answer": 518
+  },
+  {
+    "type": "addition",
+    "problem": "736 + 659",
+    "correct_equation": "736 + 659 = 1395",
+    "incorrect_equation": "736 + 659 = 3195",
+    "a": 736,
+    "b": 659,
+    "correct_answer": 1395,
+    "incorrect_answer": 3195
+  },
+  {
+    "type": "addition",
+    "problem": "185 + 964",
+    "correct_equation": "185 + 964 = 1149",
+    "incorrect_equation": "185 + 964 = 1194",
+    "a": 185,
+    "b": 964,
+    "correct_answer": 1149,
+    "incorrect_answer": 1194
+  },
+  {
+    "type": "addition",
+    "problem": "31 + 951",
+    "correct_equation": "31 + 951 = 982",
+    "incorrect_equation": "31 + 951 = 928",
+    "a": 31,
+    "b": 951,
+    "correct_answer": 982,
+    "incorrect_answer": 928
+  },
+  {
+    "type": "addition",
+    "problem": "216 + 460",
+    "correct_equation": "216 + 460 = 676",
+    "incorrect_equation": "216 + 460 = 680",
+    "a": 216,
+    "b": 460,
+    "correct_answer": 676,
+    "incorrect_answer": 680
+  },
+  {
+    "type": "addition",
+    "problem": "220 + 944",
+    "correct_equation": "220 + 944 = 1164",
+    "incorrect_equation": "220 + 944 = 1172",
+    "a": 220,
+    "b": 944,
+    "correct_answer": 1164,
+    "incorrect_answer": 1172
+  },
+  {
+    "type": "addition",
+    "problem": "572 + 159",
+    "correct_equation": "572 + 159 = 731",
+    "incorrect_equation": "572 + 159 = 741",
+    "a": 572,
+    "b": 159,
+    "correct_answer": 731,
+    "incorrect_answer": 741
+  },
+  {
+    "type": "addition",
+    "problem": "653 + 970",
+    "correct_equation": "653 + 970 = 1623",
+    "incorrect_equation": "653 + 970 = 1599",
+    "a": 653,
+    "b": 970,
+    "correct_answer": 1623,
+    "incorrect_answer": 1599
+  },
+  {
+    "type": "addition",
+    "problem": "854 + 348",
+    "correct_equation": "854 + 348 = 1202",
+    "incorrect_equation": "854 + 348 = 1205",
+    "a": 854,
+    "b": 348,
+    "correct_answer": 1202,
+    "incorrect_answer": 1205
+  },
+  {
+    "type": "addition",
+    "problem": "154 + 841",
+    "correct_equation": "154 + 841 = 995",
+    "incorrect_equation": "154 + 841 = 998",
+    "a": 154,
+    "b": 841,
+    "correct_answer": 995,
+    "incorrect_answer": 998
+  },
+  {
+    "type": "addition",
+    "problem": "464 + 767",
+    "correct_equation": "464 + 767 = 1231",
+    "incorrect_equation": "464 + 767 = 1236",
+    "a": 464,
+    "b": 767,
+    "correct_answer": 1231,
+    "incorrect_answer": 1236
+  },
+  {
+    "type": "addition",
+    "problem": "93 + 363",
+    "correct_equation": "93 + 363 = 456",
+    "incorrect_equation": "93 + 363 = 450",
+    "a": 93,
+    "b": 363,
+    "correct_answer": 456,
+    "incorrect_answer": 450
+  },
+  {
+    "type": "addition",
+    "problem": "842 + 678",
+    "correct_equation": "842 + 678 = 1520",
+    "incorrect_equation": "842 + 678 = 164",
+    "a": 842,
+    "b": 678,
+    "correct_answer": 1520,
+    "incorrect_answer": 164
+  },
+  {
+    "type": "addition",
+    "problem": "199 + 289",
+    "correct_equation": "199 + 289 = 488",
+    "incorrect_equation": "199 + 289 = 485",
+    "a": 199,
+    "b": 289,
+    "correct_answer": 488,
+    "incorrect_answer": 485
+  },
+  {
+    "type": "addition",
+    "problem": "168 + 648",
+    "correct_equation": "168 + 648 = 816",
+    "incorrect_equation": "168 + 648 = 861",
+    "a": 168,
+    "b": 648,
+    "correct_answer": 816,
+    "incorrect_answer": 861
+  },
+  {
+    "type": "addition",
+    "problem": "790 + 985",
+    "correct_equation": "790 + 985 = 1775",
+    "incorrect_equation": "790 + 985 = 1750",
+    "a": 790,
+    "b": 985,
+    "correct_answer": 1775,
+    "incorrect_answer": 1750
+  },
+  {
+    "type": "addition",
+    "problem": "511 + 75",
+    "correct_equation": "511 + 75 = 586",
+    "incorrect_equation": "511 + 75 = 436",
+    "a": 511,
+    "b": 75,
+    "correct_answer": 586,
+    "incorrect_answer": 436
+  },
+  {
+    "type": "addition",
+    "problem": "34 + 335",
+    "correct_equation": "34 + 335 = 369",
+    "incorrect_equation": "34 + 335 = 367",
+    "a": 34,
+    "b": 335,
+    "correct_answer": 369,
+    "incorrect_answer": 367
+  },
+  {
+    "type": "addition",
+    "problem": "417 + 723",
+    "correct_equation": "417 + 723 = 1140",
+    "incorrect_equation": "417 + 723 = 1104",
+    "a": 417,
+    "b": 723,
+    "correct_answer": 1140,
+    "incorrect_answer": 1104
+  },
+  {
+    "type": "addition",
+    "problem": "531 + 365",
+    "correct_equation": "531 + 365 = 896",
+    "incorrect_equation": "531 + 365 = 893",
+    "a": 531,
+    "b": 365,
+    "correct_answer": 896,
+    "incorrect_answer": 893
+  },
+  {
+    "type": "addition",
+    "problem": "247 + 906",
+    "correct_equation": "247 + 906 = 1153",
+    "incorrect_equation": "247 + 906 = 1108",
+    "a": 247,
+    "b": 906,
+    "correct_answer": 1153,
+    "incorrect_answer": 1108
+  },
+  {
+    "type": "addition",
+    "problem": "991 + 886",
+    "correct_equation": "991 + 886 = 1877",
+    "incorrect_equation": "991 + 886 = 1867",
+    "a": 991,
+    "b": 886,
+    "correct_answer": 1877,
+    "incorrect_answer": 1867
+  },
+  {
+    "type": "addition",
+    "problem": "923 + 729",
+    "correct_equation": "923 + 729 = 1652",
+    "incorrect_equation": "923 + 729 = 1650",
+    "a": 923,
+    "b": 729,
+    "correct_answer": 1652,
+    "incorrect_answer": 1650
+  },
+  {
+    "type": "addition",
+    "problem": "273 + 739",
+    "correct_equation": "273 + 739 = 1012",
+    "incorrect_equation": "273 + 739 = 1016",
+    "a": 273,
+    "b": 739,
+    "correct_answer": 1012,
+    "incorrect_answer": 1016
+  },
+  {
+    "type": "addition",
+    "problem": "228 + 463",
+    "correct_equation": "228 + 463 = 691",
+    "incorrect_equation": "228 + 463 = 693",
+    "a": 228,
+    "b": 463,
+    "correct_answer": 691,
+    "incorrect_answer": 693
+  },
+  {
+    "type": "addition",
+    "problem": "232 + 836",
+    "correct_equation": "232 + 836 = 1068",
+    "incorrect_equation": "232 + 836 = 1060",
+    "a": 232,
+    "b": 836,
+    "correct_answer": 1068,
+    "incorrect_answer": 1060
+  },
+  {
+    "type": "addition",
+    "problem": "783 + 924",
+    "correct_equation": "783 + 924 = 1707",
+    "incorrect_equation": "783 + 924 = 1710",
+    "a": 783,
+    "b": 924,
+    "correct_answer": 1707,
+    "incorrect_answer": 1710
+  },
+  {
+    "type": "addition",
+    "problem": "18 + 823",
+    "correct_equation": "18 + 823 = 841",
+    "incorrect_equation": "18 + 823 = 858",
+    "a": 18,
+    "b": 823,
+    "correct_answer": 841,
+    "incorrect_answer": 858
+  },
+  {
+    "type": "addition",
+    "problem": "176 + 326",
+    "correct_equation": "176 + 326 = 502",
+    "incorrect_equation": "176 + 326 = 484",
+    "a": 176,
+    "b": 326,
+    "correct_answer": 502,
+    "incorrect_answer": 484
+  },
+  {
+    "type": "addition",
+    "problem": "348 + 517",
+    "correct_equation": "348 + 517 = 865",
+    "incorrect_equation": "348 + 517 = 685",
+    "a": 348,
+    "b": 517,
+    "correct_answer": 865,
+    "incorrect_answer": 685
+  },
+  {
+    "type": "addition",
+    "problem": "862 + 234",
+    "correct_equation": "862 + 234 = 1096",
+    "incorrect_equation": "862 + 234 = 1102",
+    "a": 862,
+    "b": 234,
+    "correct_answer": 1096,
+    "incorrect_answer": 1102
+  },
+  {
+    "type": "addition",
+    "problem": "682 + 50",
+    "correct_equation": "682 + 50 = 732",
+    "incorrect_equation": "682 + 50 = 237",
+    "a": 682,
+    "b": 50,
+    "correct_answer": 732,
+    "incorrect_answer": 237
+  },
+  {
+    "type": "addition",
+    "problem": "811 + 626",
+    "correct_equation": "811 + 626 = 1437",
+    "incorrect_equation": "811 + 626 = 1431",
+    "a": 811,
+    "b": 626,
+    "correct_answer": 1437,
+    "incorrect_answer": 1431
+  },
+  {
+    "type": "addition",
+    "problem": "457 + 564",
+    "correct_equation": "457 + 564 = 1021",
+    "incorrect_equation": "457 + 564 = 1028",
+    "a": 457,
+    "b": 564,
+    "correct_answer": 1021,
+    "incorrect_answer": 1028
+  },
+  {
+    "type": "addition",
+    "problem": "96 + 567",
+    "correct_equation": "96 + 567 = 663",
+    "incorrect_equation": "96 + 567 = 665",
+    "a": 96,
+    "b": 567,
+    "correct_answer": 663,
+    "incorrect_answer": 665
+  },
+  {
+    "type": "addition",
+    "problem": "821 + 640",
+    "correct_equation": "821 + 640 = 1461",
+    "incorrect_equation": "821 + 640 = 1472",
+    "a": 821,
+    "b": 640,
+    "correct_answer": 1461,
+    "incorrect_answer": 1472
+  },
+  {
+    "type": "addition",
+    "problem": "619 + 659",
+    "correct_equation": "619 + 659 = 1278",
+    "incorrect_equation": "619 + 659 = 1273",
+    "a": 619,
+    "b": 659,
+    "correct_answer": 1278,
+    "incorrect_answer": 1273
+  },
+  {
+    "type": "addition",
+    "problem": "307 + 646",
+    "correct_equation": "307 + 646 = 953",
+    "incorrect_equation": "307 + 646 = 956",
+    "a": 307,
+    "b": 646,
+    "correct_answer": 953,
+    "incorrect_answer": 956
+  },
+  {
+    "type": "addition",
+    "problem": "272 + 250",
+    "correct_equation": "272 + 250 = 522",
+    "incorrect_equation": "272 + 250 = 540",
+    "a": 272,
+    "b": 250,
+    "correct_answer": 522,
+    "incorrect_answer": 540
+  },
+  {
+    "type": "addition",
+    "problem": "187 + 802",
+    "correct_equation": "187 + 802 = 989",
+    "incorrect_equation": "187 + 802 = 1002",
+    "a": 187,
+    "b": 802,
+    "correct_answer": 989,
+    "incorrect_answer": 1002
+  },
+  {
+    "type": "addition",
+    "problem": "370 + 441",
+    "correct_equation": "370 + 441 = 811",
+    "incorrect_equation": "370 + 441 = 789",
+    "a": 370,
+    "b": 441,
+    "correct_answer": 811,
+    "incorrect_answer": 789
+  },
+  {
+    "type": "addition",
+    "problem": "555 + 914",
+    "correct_equation": "555 + 914 = 1469",
+    "incorrect_equation": "555 + 914 = 1489",
+    "a": 555,
+    "b": 914,
+    "correct_answer": 1469,
+    "incorrect_answer": 1489
+  },
+  {
+    "type": "addition",
+    "problem": "406 + 759",
+    "correct_equation": "406 + 759 = 1165",
+    "incorrect_equation": "406 + 759 = 1163",
+    "a": 406,
+    "b": 759,
+    "correct_answer": 1165,
+    "incorrect_answer": 1163
+  },
+  {
+    "type": "addition",
+    "problem": "468 + 258",
+    "correct_equation": "468 + 258 = 726",
+    "incorrect_equation": "468 + 258 = 210",
+    "a": 468,
+    "b": 258,
+    "correct_answer": 726,
+    "incorrect_answer": 210
+  },
+  {
+    "type": "addition",
+    "problem": "331 + 727",
+    "correct_equation": "331 + 727 = 1058",
+    "incorrect_equation": "331 + 727 = 1065",
+    "a": 331,
+    "b": 727,
+    "correct_answer": 1058,
+    "incorrect_answer": 1065
+  },
+  {
+    "type": "addition",
+    "problem": "418 + 843",
+    "correct_equation": "418 + 843 = 1261",
+    "incorrect_equation": "418 + 843 = 1240",
+    "a": 418,
+    "b": 843,
+    "correct_answer": 1261,
+    "incorrect_answer": 1240
+  },
+  {
+    "type": "addition",
+    "problem": "490 + 986",
+    "correct_equation": "490 + 986 = 1476",
+    "incorrect_equation": "490 + 986 = 1473",
+    "a": 490,
+    "b": 986,
+    "correct_answer": 1476,
+    "incorrect_answer": 1473
+  },
+  {
+    "type": "addition",
+    "problem": "339 + 861",
+    "correct_equation": "339 + 861 = 1200",
+    "incorrect_equation": "339 + 861 = 1188",
+    "a": 339,
+    "b": 861,
+    "correct_answer": 1200,
+    "incorrect_answer": 1188
+  },
+  {
+    "type": "addition",
+    "problem": "855 + 625",
+    "correct_equation": "855 + 625 = 1480",
+    "incorrect_equation": "855 + 625 = 1446",
+    "a": 855,
+    "b": 625,
+    "correct_answer": 1480,
+    "incorrect_answer": 1446
+  },
+  {
+    "type": "addition",
+    "problem": "65 + 363",
+    "correct_equation": "65 + 363 = 428",
+    "incorrect_equation": "65 + 363 = 406",
+    "a": 65,
+    "b": 363,
+    "correct_answer": 428,
+    "incorrect_answer": 406
+  },
+  {
+    "type": "addition",
+    "problem": "370 + 260",
+    "correct_equation": "370 + 260 = 630",
+    "incorrect_equation": "370 + 260 = 603",
+    "a": 370,
+    "b": 260,
+    "correct_answer": 630,
+    "incorrect_answer": 603
+  },
+  {
+    "type": "addition",
+    "problem": "901 + 980",
+    "correct_equation": "901 + 980 = 1881",
+    "incorrect_equation": "901 + 980 = 1876",
+    "a": 901,
+    "b": 980,
+    "correct_answer": 1881,
+    "incorrect_answer": 1876
+  },
+  {
+    "type": "addition",
+    "problem": "823 + 509",
+    "correct_equation": "823 + 509 = 1332",
+    "incorrect_equation": "823 + 509 = 3312",
+    "a": 823,
+    "b": 509,
+    "correct_answer": 1332,
+    "incorrect_answer": 3312
+  },
+  {
+    "type": "addition",
+    "problem": "232 + 553",
+    "correct_equation": "232 + 553 = 785",
+    "incorrect_equation": "232 + 553 = 816",
+    "a": 232,
+    "b": 553,
+    "correct_answer": 785,
+    "incorrect_answer": 816
+  },
+  {
+    "type": "addition",
+    "problem": "696 + 347",
+    "correct_equation": "696 + 347 = 1043",
+    "incorrect_equation": "696 + 347 = 1029",
+    "a": 696,
+    "b": 347,
+    "correct_answer": 1043,
+    "incorrect_answer": 1029
+  },
+  {
+    "type": "addition",
+    "problem": "705 + 405",
+    "correct_equation": "705 + 405 = 1110",
+    "incorrect_equation": "705 + 405 = 1157",
+    "a": 705,
+    "b": 405,
+    "correct_answer": 1110,
+    "incorrect_answer": 1157
+  },
+  {
+    "type": "addition",
+    "problem": "554 + 431",
+    "correct_equation": "554 + 431 = 985",
+    "incorrect_equation": "554 + 431 = 589",
+    "a": 554,
+    "b": 431,
+    "correct_answer": 985,
+    "incorrect_answer": 589
+  },
+  {
+    "type": "addition",
+    "problem": "821 + 356",
+    "correct_equation": "821 + 356 = 1177",
+    "incorrect_equation": "821 + 356 = 1183",
+    "a": 821,
+    "b": 356,
+    "correct_answer": 1177,
+    "incorrect_answer": 1183
+  },
+  {
+    "type": "addition",
+    "problem": "806 + 688",
+    "correct_equation": "806 + 688 = 1494",
+    "incorrect_equation": "806 + 688 = 1531",
+    "a": 806,
+    "b": 688,
+    "correct_answer": 1494,
+    "incorrect_answer": 1531
+  },
+  {
+    "type": "addition",
+    "problem": "386 + 274",
+    "correct_equation": "386 + 274 = 660",
+    "incorrect_equation": "386 + 274 = 690",
+    "a": 386,
+    "b": 274,
+    "correct_answer": 660,
+    "incorrect_answer": 690
+  },
+  {
+    "type": "addition",
+    "problem": "263 + 732",
+    "correct_equation": "263 + 732 = 995",
+    "incorrect_equation": "263 + 732 = 996",
+    "a": 263,
+    "b": 732,
+    "correct_answer": 995,
+    "incorrect_answer": 996
+  },
+  {
+    "type": "addition",
+    "problem": "26 + 367",
+    "correct_equation": "26 + 367 = 393",
+    "incorrect_equation": "26 + 367 = 430",
+    "a": 26,
+    "b": 367,
+    "correct_answer": 393,
+    "incorrect_answer": 430
+  },
+  {
+    "type": "addition",
+    "problem": "521 + 982",
+    "correct_equation": "521 + 982 = 1503",
+    "incorrect_equation": "521 + 982 = 1524",
+    "a": 521,
+    "b": 982,
+    "correct_answer": 1503,
+    "incorrect_answer": 1524
+  },
+  {
+    "type": "addition",
+    "problem": "783 + 436",
+    "correct_equation": "783 + 436 = 1219",
+    "incorrect_equation": "783 + 436 = 347",
+    "a": 783,
+    "b": 436,
+    "correct_answer": 1219,
+    "incorrect_answer": 347
+  },
+  {
+    "type": "addition",
+    "problem": "524 + 949",
+    "correct_equation": "524 + 949 = 1473",
+    "incorrect_equation": "524 + 949 = 1743",
+    "a": 524,
+    "b": 949,
+    "correct_answer": 1473,
+    "incorrect_answer": 1743
+  },
+  {
+    "type": "addition",
+    "problem": "347 + 847",
+    "correct_equation": "347 + 847 = 1194",
+    "incorrect_equation": "347 + 847 = 1191",
+    "a": 347,
+    "b": 847,
+    "correct_answer": 1194,
+    "incorrect_answer": 1191
+  },
+  {
+    "type": "addition",
+    "problem": "632 + 365",
+    "correct_equation": "632 + 365 = 997",
+    "incorrect_equation": "632 + 365 = 267",
+    "a": 632,
+    "b": 365,
+    "correct_answer": 997,
+    "incorrect_answer": 267
+  },
+  {
+    "type": "addition",
+    "problem": "374 + 615",
+    "correct_equation": "374 + 615 = 989",
+    "incorrect_equation": "374 + 615 = 990",
+    "a": 374,
+    "b": 615,
+    "correct_answer": 989,
+    "incorrect_answer": 990
+  },
+  {
+    "type": "addition",
+    "problem": "285 + 15",
+    "correct_equation": "285 + 15 = 300",
+    "incorrect_equation": "285 + 15 = 304",
+    "a": 285,
+    "b": 15,
+    "correct_answer": 300,
+    "incorrect_answer": 304
+  },
+  {
+    "type": "addition",
+    "problem": "242 + 559",
+    "correct_equation": "242 + 559 = 801",
+    "incorrect_equation": "242 + 559 = 830",
+    "a": 242,
+    "b": 559,
+    "correct_answer": 801,
+    "incorrect_answer": 830
+  },
+  {
+    "type": "addition",
+    "problem": "605 + 931",
+    "correct_equation": "605 + 931 = 1536",
+    "incorrect_equation": "605 + 931 = 1494",
+    "a": 605,
+    "b": 931,
+    "correct_answer": 1536,
+    "incorrect_answer": 1494
+  },
+  {
+    "type": "addition",
+    "problem": "550 + 275",
+    "correct_equation": "550 + 275 = 825",
+    "incorrect_equation": "550 + 275 = 859",
+    "a": 550,
+    "b": 275,
+    "correct_answer": 825,
+    "incorrect_answer": 859
+  },
+  {
+    "type": "addition",
+    "problem": "256 + 331",
+    "correct_equation": "256 + 331 = 587",
+    "incorrect_equation": "256 + 331 = 594",
+    "a": 256,
+    "b": 331,
+    "correct_answer": 587,
+    "incorrect_answer": 594
+  },
+  {
+    "type": "addition",
+    "problem": "250 + 50",
+    "correct_equation": "250 + 50 = 300",
+    "incorrect_equation": "250 + 50 = 274",
+    "a": 250,
+    "b": 50,
+    "correct_answer": 300,
+    "incorrect_answer": 274
+  },
+  {
+    "type": "addition",
+    "problem": "694 + 75",
+    "correct_equation": "694 + 75 = 769",
+    "incorrect_equation": "694 + 75 = 766",
+    "a": 694,
+    "b": 75,
+    "correct_answer": 769,
+    "incorrect_answer": 766
+  },
+  {
+    "type": "addition",
+    "problem": "638 + 967",
+    "correct_equation": "638 + 967 = 1605",
+    "incorrect_equation": "638 + 967 = 1596",
+    "a": 638,
+    "b": 967,
+    "correct_answer": 1605,
+    "incorrect_answer": 1596
+  },
+  {
+    "type": "addition",
+    "problem": "804 + 450",
+    "correct_equation": "804 + 450 = 1254",
+    "incorrect_equation": "804 + 450 = 1205",
+    "a": 804,
+    "b": 450,
+    "correct_answer": 1254,
+    "incorrect_answer": 1205
+  },
+  {
+    "type": "addition",
+    "problem": "879 + 627",
+    "correct_equation": "879 + 627 = 1506",
+    "incorrect_equation": "879 + 627 = 252",
+    "a": 879,
+    "b": 627,
+    "correct_answer": 1506,
+    "incorrect_answer": 252
+  },
+  {
+    "type": "addition",
+    "problem": "789 + 582",
+    "correct_equation": "789 + 582 = 1371",
+    "incorrect_equation": "789 + 582 = 207",
+    "a": 789,
+    "b": 582,
+    "correct_answer": 1371,
+    "incorrect_answer": 207
+  },
+  {
+    "type": "addition",
+    "problem": "85 + 198",
+    "correct_equation": "85 + 198 = 283",
+    "incorrect_equation": "85 + 198 = 282",
+    "a": 85,
+    "b": 198,
+    "correct_answer": 283,
+    "incorrect_answer": 282
+  },
+  {
+    "type": "addition",
+    "problem": "206 + 743",
+    "correct_equation": "206 + 743 = 949",
+    "incorrect_equation": "206 + 743 = 953",
+    "a": 206,
+    "b": 743,
+    "correct_answer": 949,
+    "incorrect_answer": 953
+  },
+  {
+    "type": "addition",
+    "problem": "18 + 429",
+    "correct_equation": "18 + 429 = 447",
+    "incorrect_equation": "18 + 429 = 463",
+    "a": 18,
+    "b": 429,
+    "correct_answer": 447,
+    "incorrect_answer": 463
+  },
+  {
+    "type": "addition",
+    "problem": "394 + 855",
+    "correct_equation": "394 + 855 = 1249",
+    "incorrect_equation": "394 + 855 = 1242",
+    "a": 394,
+    "b": 855,
+    "correct_answer": 1249,
+    "incorrect_answer": 1242
+  },
+  {
+    "type": "addition",
+    "problem": "250 + 591",
+    "correct_equation": "250 + 591 = 841",
+    "incorrect_equation": "250 + 591 = 837",
+    "a": 250,
+    "b": 591,
+    "correct_answer": 841,
+    "incorrect_answer": 837
+  },
+  {
+    "type": "addition",
+    "problem": "300 + 742",
+    "correct_equation": "300 + 742 = 1042",
+    "incorrect_equation": "300 + 742 = 1062",
+    "a": 300,
+    "b": 742,
+    "correct_answer": 1042,
+    "incorrect_answer": 1062
+  },
+  {
+    "type": "addition",
+    "problem": "977 + 423",
+    "correct_equation": "977 + 423 = 1400",
+    "incorrect_equation": "977 + 423 = 4100",
+    "a": 977,
+    "b": 423,
+    "correct_answer": 1400,
+    "incorrect_answer": 4100
+  },
+  {
+    "type": "addition",
+    "problem": "71 + 69",
+    "correct_equation": "71 + 69 = 140",
+    "incorrect_equation": "71 + 69 = 124",
+    "a": 71,
+    "b": 69,
+    "correct_answer": 140,
+    "incorrect_answer": 124
+  },
+  {
+    "type": "addition",
+    "problem": "157 + 294",
+    "correct_equation": "157 + 294 = 451",
+    "incorrect_equation": "157 + 294 = 463",
+    "a": 157,
+    "b": 294,
+    "correct_answer": 451,
+    "incorrect_answer": 463
+  },
+  {
+    "type": "addition",
+    "problem": "320 + 680",
+    "correct_equation": "320 + 680 = 1000",
+    "incorrect_equation": "320 + 680 = 994",
+    "a": 320,
+    "b": 680,
+    "correct_answer": 1000,
+    "incorrect_answer": 994
+  },
+  {
+    "type": "addition",
+    "problem": "126 + 837",
+    "correct_equation": "126 + 837 = 963",
+    "incorrect_equation": "126 + 837 = 693",
+    "a": 126,
+    "b": 837,
+    "correct_answer": 963,
+    "incorrect_answer": 693
+  },
+  {
+    "type": "addition",
+    "problem": "643 + 796",
+    "correct_equation": "643 + 796 = 1439",
+    "incorrect_equation": "643 + 796 = 1394",
+    "a": 643,
+    "b": 796,
+    "correct_answer": 1439,
+    "incorrect_answer": 1394
+  },
+  {
+    "type": "addition",
+    "problem": "831 + 646",
+    "correct_equation": "831 + 646 = 1477",
+    "incorrect_equation": "831 + 646 = 185",
+    "a": 831,
+    "b": 646,
+    "correct_answer": 1477,
+    "incorrect_answer": 185
+  },
+  {
+    "type": "addition",
+    "problem": "194 + 267",
+    "correct_equation": "194 + 267 = 461",
+    "incorrect_equation": "194 + 267 = 164",
+    "a": 194,
+    "b": 267,
+    "correct_answer": 461,
+    "incorrect_answer": 164
+  },
+  {
+    "type": "addition",
+    "problem": "605 + 390",
+    "correct_equation": "605 + 390 = 995",
+    "incorrect_equation": "605 + 390 = 959",
+    "a": 605,
+    "b": 390,
+    "correct_answer": 995,
+    "incorrect_answer": 959
+  },
+  {
+    "type": "addition",
+    "problem": "597 + 307",
+    "correct_equation": "597 + 307 = 904",
+    "incorrect_equation": "597 + 307 = 940",
+    "a": 597,
+    "b": 307,
+    "correct_answer": 904,
+    "incorrect_answer": 940
+  },
+  {
+    "type": "addition",
+    "problem": "962 + 816",
+    "correct_equation": "962 + 816 = 1778",
+    "incorrect_equation": "962 + 816 = 1772",
+    "a": 962,
+    "b": 816,
+    "correct_answer": 1778,
+    "incorrect_answer": 1772
+  },
+  {
+    "type": "addition",
+    "problem": "740 + 330",
+    "correct_equation": "740 + 330 = 1070",
+    "incorrect_equation": "740 + 330 = 1023",
+    "a": 740,
+    "b": 330,
+    "correct_answer": 1070,
+    "incorrect_answer": 1023
+  },
+  {
+    "type": "addition",
+    "problem": "185 + 899",
+    "correct_equation": "185 + 899 = 1084",
+    "incorrect_equation": "185 + 899 = 1087",
+    "a": 185,
+    "b": 899,
+    "correct_answer": 1084,
+    "incorrect_answer": 1087
+  },
+  {
+    "type": "addition",
+    "problem": "173 + 257",
+    "correct_equation": "173 + 257 = 430",
+    "incorrect_equation": "173 + 257 = 428",
+    "a": 173,
+    "b": 257,
+    "correct_answer": 430,
+    "incorrect_answer": 428
+  },
+  {
+    "type": "addition",
+    "problem": "562 + 860",
+    "correct_equation": "562 + 860 = 1422",
+    "incorrect_equation": "562 + 860 = 1420",
+    "a": 562,
+    "b": 860,
+    "correct_answer": 1422,
+    "incorrect_answer": 1420
+  },
+  {
+    "type": "addition",
+    "problem": "287 + 329",
+    "correct_equation": "287 + 329 = 616",
+    "incorrect_equation": "287 + 329 = 626",
+    "a": 287,
+    "b": 329,
+    "correct_answer": 616,
+    "incorrect_answer": 626
+  },
+  {
+    "type": "addition",
+    "problem": "336 + 141",
+    "correct_equation": "336 + 141 = 477",
+    "incorrect_equation": "336 + 141 = 452",
+    "a": 336,
+    "b": 141,
+    "correct_answer": 477,
+    "incorrect_answer": 452
+  },
+  {
+    "type": "addition",
+    "problem": "577 + 758",
+    "correct_equation": "577 + 758 = 1335",
+    "incorrect_equation": "577 + 758 = 1294",
+    "a": 577,
+    "b": 758,
+    "correct_answer": 1335,
+    "incorrect_answer": 1294
+  },
+  {
+    "type": "addition",
+    "problem": "912 + 180",
+    "correct_equation": "912 + 180 = 1092",
+    "incorrect_equation": "912 + 180 = 1109",
+    "a": 912,
+    "b": 180,
+    "correct_answer": 1092,
+    "incorrect_answer": 1109
+  },
+  {
+    "type": "addition",
+    "problem": "881 + 225",
+    "correct_equation": "881 + 225 = 1106",
+    "incorrect_equation": "881 + 225 = 1016",
+    "a": 881,
+    "b": 225,
+    "correct_answer": 1106,
+    "incorrect_answer": 1016
+  },
+  {
+    "type": "addition",
+    "problem": "369 + 584",
+    "correct_equation": "369 + 584 = 953",
+    "incorrect_equation": "369 + 584 = 359",
+    "a": 369,
+    "b": 584,
+    "correct_answer": 953,
+    "incorrect_answer": 359
+  },
+  {
+    "type": "addition",
+    "problem": "402 + 354",
+    "correct_equation": "402 + 354 = 756",
+    "incorrect_equation": "402 + 354 = 804",
+    "a": 402,
+    "b": 354,
+    "correct_answer": 756,
+    "incorrect_answer": 804
+  },
+  {
+    "type": "addition",
+    "problem": "542 + 162",
+    "correct_equation": "542 + 162 = 704",
+    "incorrect_equation": "542 + 162 = 741",
+    "a": 542,
+    "b": 162,
+    "correct_answer": 704,
+    "incorrect_answer": 741
+  },
+  {
+    "type": "addition",
+    "problem": "250 + 508",
+    "correct_equation": "250 + 508 = 758",
+    "incorrect_equation": "250 + 508 = 762",
+    "a": 250,
+    "b": 508,
+    "correct_answer": 758,
+    "incorrect_answer": 762
+  },
+  {
+    "type": "addition",
+    "problem": "366 + 112",
+    "correct_equation": "366 + 112 = 478",
+    "incorrect_equation": "366 + 112 = 475",
+    "a": 366,
+    "b": 112,
+    "correct_answer": 478,
+    "incorrect_answer": 475
+  },
+  {
+    "type": "addition",
+    "problem": "509 + 57",
+    "correct_equation": "509 + 57 = 566",
+    "incorrect_equation": "509 + 57 = 528",
+    "a": 509,
+    "b": 57,
+    "correct_answer": 566,
+    "incorrect_answer": 528
+  },
+  {
+    "type": "addition",
+    "problem": "222 + 732",
+    "correct_equation": "222 + 732 = 954",
+    "incorrect_equation": "222 + 732 = 945",
+    "a": 222,
+    "b": 732,
+    "correct_answer": 954,
+    "incorrect_answer": 945
+  },
+  {
+    "type": "addition",
+    "problem": "490 + 675",
+    "correct_equation": "490 + 675 = 1165",
+    "incorrect_equation": "490 + 675 = 1170",
+    "a": 490,
+    "b": 675,
+    "correct_answer": 1165,
+    "incorrect_answer": 1170
+  },
+  {
+    "type": "addition",
+    "problem": "153 + 694",
+    "correct_equation": "153 + 694 = 847",
+    "incorrect_equation": "153 + 694 = 859",
+    "a": 153,
+    "b": 694,
+    "correct_answer": 847,
+    "incorrect_answer": 859
+  },
+  {
+    "type": "addition",
+    "problem": "75 + 561",
+    "correct_equation": "75 + 561 = 636",
+    "incorrect_equation": "75 + 561 = 626",
+    "a": 75,
+    "b": 561,
+    "correct_answer": 636,
+    "incorrect_answer": 626
+  },
+  {
+    "type": "addition",
+    "problem": "93 + 383",
+    "correct_equation": "93 + 383 = 476",
+    "incorrect_equation": "93 + 383 = 487",
+    "a": 93,
+    "b": 383,
+    "correct_answer": 476,
+    "incorrect_answer": 487
+  },
+  {
+    "type": "addition",
+    "problem": "108 + 624",
+    "correct_equation": "108 + 624 = 732",
+    "incorrect_equation": "108 + 624 = 237",
+    "a": 108,
+    "b": 624,
+    "correct_answer": 732,
+    "incorrect_answer": 237
+  },
+  {
+    "type": "addition",
+    "problem": "394 + 887",
+    "correct_equation": "394 + 887 = 1281",
+    "incorrect_equation": "394 + 887 = 1285",
+    "a": 394,
+    "b": 887,
+    "correct_answer": 1281,
+    "incorrect_answer": 1285
+  },
+  {
+    "type": "addition",
+    "problem": "925 + 617",
+    "correct_equation": "925 + 617 = 1542",
+    "incorrect_equation": "925 + 617 = 1533",
+    "a": 925,
+    "b": 617,
+    "correct_answer": 1542,
+    "incorrect_answer": 1533
+  },
+  {
+    "type": "addition",
+    "problem": "727 + 390",
+    "correct_equation": "727 + 390 = 1117",
+    "incorrect_equation": "727 + 390 = 337",
+    "a": 727,
+    "b": 390,
+    "correct_answer": 1117,
+    "incorrect_answer": 337
+  },
+  {
+    "type": "addition",
+    "problem": "506 + 53",
+    "correct_equation": "506 + 53 = 559",
+    "incorrect_equation": "506 + 53 = 453",
+    "a": 506,
+    "b": 53,
+    "correct_answer": 559,
+    "incorrect_answer": 453
+  },
+  {
+    "type": "addition",
+    "problem": "93 + 534",
+    "correct_equation": "93 + 534 = 627",
+    "incorrect_equation": "93 + 534 = 636",
+    "a": 93,
+    "b": 534,
+    "correct_answer": 627,
+    "incorrect_answer": 636
+  },
+  {
+    "type": "addition",
+    "problem": "914 + 118",
+    "correct_equation": "914 + 118 = 1032",
+    "incorrect_equation": "914 + 118 = 1015",
+    "a": 914,
+    "b": 118,
+    "correct_answer": 1032,
+    "incorrect_answer": 1015
+  },
+  {
+    "type": "addition",
+    "problem": "351 + 45",
+    "correct_equation": "351 + 45 = 396",
+    "incorrect_equation": "351 + 45 = 693",
+    "a": 351,
+    "b": 45,
+    "correct_answer": 396,
+    "incorrect_answer": 693
+  },
+  {
+    "type": "addition",
+    "problem": "623 + 609",
+    "correct_equation": "623 + 609 = 1232",
+    "incorrect_equation": "623 + 609 = 1264",
+    "a": 623,
+    "b": 609,
+    "correct_answer": 1232,
+    "incorrect_answer": 1264
+  },
+  {
+    "type": "addition",
+    "problem": "344 + 978",
+    "correct_equation": "344 + 978 = 1322",
+    "incorrect_equation": "344 + 978 = 1328",
+    "a": 344,
+    "b": 978,
+    "correct_answer": 1322,
+    "incorrect_answer": 1328
+  },
+  {
+    "type": "addition",
+    "problem": "222 + 548",
+    "correct_equation": "222 + 548 = 770",
+    "incorrect_equation": "222 + 548 = 806",
+    "a": 222,
+    "b": 548,
+    "correct_answer": 770,
+    "incorrect_answer": 806
+  },
+  {
+    "type": "addition",
+    "problem": "487 + 708",
+    "correct_equation": "487 + 708 = 1195",
+    "incorrect_equation": "487 + 708 = 1214",
+    "a": 487,
+    "b": 708,
+    "correct_answer": 1195,
+    "incorrect_answer": 1214
+  },
+  {
+    "type": "addition",
+    "problem": "768 + 975",
+    "correct_equation": "768 + 975 = 1743",
+    "incorrect_equation": "768 + 975 = 1742",
+    "a": 768,
+    "b": 975,
+    "correct_answer": 1743,
+    "incorrect_answer": 1742
+  },
+  {
+    "type": "addition",
+    "problem": "966 + 473",
+    "correct_equation": "966 + 473 = 1439",
+    "incorrect_equation": "966 + 473 = 1442",
+    "a": 966,
+    "b": 473,
+    "correct_answer": 1439,
+    "incorrect_answer": 1442
+  },
+  {
+    "type": "addition",
+    "problem": "281 + 985",
+    "correct_equation": "281 + 985 = 1266",
+    "incorrect_equation": "281 + 985 = 1283",
+    "a": 281,
+    "b": 985,
+    "correct_answer": 1266,
+    "incorrect_answer": 1283
+  },
+  {
+    "type": "addition",
+    "problem": "685 + 921",
+    "correct_equation": "685 + 921 = 1606",
+    "incorrect_equation": "685 + 921 = 6601",
+    "a": 685,
+    "b": 921,
+    "correct_answer": 1606,
+    "incorrect_answer": 6601
+  },
+  {
+    "type": "addition",
+    "problem": "525 + 509",
+    "correct_equation": "525 + 509 = 1034",
+    "incorrect_equation": "525 + 509 = 1052",
+    "a": 525,
+    "b": 509,
+    "correct_answer": 1034,
+    "incorrect_answer": 1052
+  },
+  {
+    "type": "addition",
+    "problem": "633 + 959",
+    "correct_equation": "633 + 959 = 1592",
+    "incorrect_equation": "633 + 959 = 1621",
+    "a": 633,
+    "b": 959,
+    "correct_answer": 1592,
+    "incorrect_answer": 1621
+  },
+  {
+    "type": "addition",
+    "problem": "699 + 469",
+    "correct_equation": "699 + 469 = 1168",
+    "incorrect_equation": "699 + 469 = 1171",
+    "a": 699,
+    "b": 469,
+    "correct_answer": 1168,
+    "incorrect_answer": 1171
+  },
+  {
+    "type": "addition",
+    "problem": "18 + 898",
+    "correct_equation": "18 + 898 = 916",
+    "incorrect_equation": "18 + 898 = 923",
+    "a": 18,
+    "b": 898,
+    "correct_answer": 916,
+    "incorrect_answer": 923
+  },
+  {
+    "type": "addition",
+    "problem": "644 + 97",
+    "correct_equation": "644 + 97 = 741",
+    "incorrect_equation": "644 + 97 = 747",
+    "a": 644,
+    "b": 97,
+    "correct_answer": 741,
+    "incorrect_answer": 747
+  },
+  {
+    "type": "addition",
+    "problem": "93 + 11",
+    "correct_equation": "93 + 11 = 104",
+    "incorrect_equation": "93 + 11 = 105",
+    "a": 93,
+    "b": 11,
+    "correct_answer": 104,
+    "incorrect_answer": 105
+  },
+  {
+    "type": "addition",
+    "problem": "242 + 505",
+    "correct_equation": "242 + 505 = 747",
+    "incorrect_equation": "242 + 505 = 741",
+    "a": 242,
+    "b": 505,
+    "correct_answer": 747,
+    "incorrect_answer": 741
+  },
+  {
+    "type": "addition",
+    "problem": "295 + 445",
+    "correct_equation": "295 + 445 = 740",
+    "incorrect_equation": "295 + 445 = 745",
+    "a": 295,
+    "b": 445,
+    "correct_answer": 740,
+    "incorrect_answer": 745
+  },
+  {
+    "type": "addition",
+    "problem": "921 + 495",
+    "correct_equation": "921 + 495 = 1416",
+    "incorrect_equation": "921 + 495 = 1401",
+    "a": 921,
+    "b": 495,
+    "correct_answer": 1416,
+    "incorrect_answer": 1401
+  },
+  {
+    "type": "addition",
+    "problem": "755 + 499",
+    "correct_equation": "755 + 499 = 1254",
+    "incorrect_equation": "755 + 499 = 1214",
+    "a": 755,
+    "b": 499,
+    "correct_answer": 1254,
+    "incorrect_answer": 1214
+  },
+  {
+    "type": "addition",
+    "problem": "711 + 733",
+    "correct_equation": "711 + 733 = 1444",
+    "incorrect_equation": "711 + 733 = 1451",
+    "a": 711,
+    "b": 733,
+    "correct_answer": 1444,
+    "incorrect_answer": 1451
+  },
+  {
+    "type": "addition",
+    "problem": "596 + 88",
+    "correct_equation": "596 + 88 = 684",
+    "incorrect_equation": "596 + 88 = 692",
+    "a": 596,
+    "b": 88,
+    "correct_answer": 684,
+    "incorrect_answer": 692
+  },
+  {
+    "type": "addition",
+    "problem": "766 + 346",
+    "correct_equation": "766 + 346 = 1112",
+    "incorrect_equation": "766 + 346 = 420",
+    "a": 766,
+    "b": 346,
+    "correct_answer": 1112,
+    "incorrect_answer": 420
+  },
+  {
+    "type": "addition",
+    "problem": "985 + 985",
+    "correct_equation": "985 + 985 = 1970",
+    "incorrect_equation": "985 + 985 = 2016",
+    "a": 985,
+    "b": 985,
+    "correct_answer": 1970,
+    "incorrect_answer": 2016
+  },
+  {
+    "type": "addition",
+    "problem": "546 + 965",
+    "correct_equation": "546 + 965 = 1511",
+    "incorrect_equation": "546 + 965 = 1115",
+    "a": 546,
+    "b": 965,
+    "correct_answer": 1511,
+    "incorrect_answer": 1115
+  },
+  {
+    "type": "addition",
+    "problem": "905 + 398",
+    "correct_equation": "905 + 398 = 1303",
+    "incorrect_equation": "905 + 398 = 1341",
+    "a": 905,
+    "b": 398,
+    "correct_answer": 1303,
+    "incorrect_answer": 1341
+  },
+  {
+    "type": "addition",
+    "problem": "68 + 766",
+    "correct_equation": "68 + 766 = 834",
+    "incorrect_equation": "68 + 766 = 829",
+    "a": 68,
+    "b": 766,
+    "correct_answer": 834,
+    "incorrect_answer": 829
+  },
+  {
+    "type": "addition",
+    "problem": "365 + 910",
+    "correct_equation": "365 + 910 = 1275",
+    "incorrect_equation": "365 + 910 = 1279",
+    "a": 365,
+    "b": 910,
+    "correct_answer": 1275,
+    "incorrect_answer": 1279
+  },
+  {
+    "type": "addition",
+    "problem": "925 + 352",
+    "correct_equation": "925 + 352 = 1277",
+    "incorrect_equation": "925 + 352 = 1313",
+    "a": 925,
+    "b": 352,
+    "correct_answer": 1277,
+    "incorrect_answer": 1313
+  },
+  {
+    "type": "addition",
+    "problem": "898 + 129",
+    "correct_equation": "898 + 129 = 1027",
+    "incorrect_equation": "898 + 129 = 769",
+    "a": 898,
+    "b": 129,
+    "correct_answer": 1027,
+    "incorrect_answer": 769
+  },
+  {
+    "type": "addition",
+    "problem": "176 + 234",
+    "correct_equation": "176 + 234 = 410",
+    "incorrect_equation": "176 + 234 = 388",
+    "a": 176,
+    "b": 234,
+    "correct_answer": 410,
+    "incorrect_answer": 388
+  },
+  {
+    "type": "addition",
+    "problem": "788 + 604",
+    "correct_equation": "788 + 604 = 1392",
+    "incorrect_equation": "788 + 604 = 1410",
+    "a": 788,
+    "b": 604,
+    "correct_answer": 1392,
+    "incorrect_answer": 1410
+  },
+  {
+    "type": "addition",
+    "problem": "123 + 299",
+    "correct_equation": "123 + 299 = 422",
+    "incorrect_equation": "123 + 299 = 427",
+    "a": 123,
+    "b": 299,
+    "correct_answer": 422,
+    "incorrect_answer": 427
+  },
+  {
+    "type": "addition",
+    "problem": "210 + 886",
+    "correct_equation": "210 + 886 = 1096",
+    "incorrect_equation": "210 + 886 = 1111",
+    "a": 210,
+    "b": 886,
+    "correct_answer": 1096,
+    "incorrect_answer": 1111
+  },
+  {
+    "type": "addition",
+    "problem": "730 + 905",
+    "correct_equation": "730 + 905 = 1635",
+    "incorrect_equation": "730 + 905 = 1644",
+    "a": 730,
+    "b": 905,
+    "correct_answer": 1635,
+    "incorrect_answer": 1644
+  },
+  {
+    "type": "addition",
+    "problem": "310 + 586",
+    "correct_equation": "310 + 586 = 896",
+    "incorrect_equation": "310 + 586 = 881",
+    "a": 310,
+    "b": 586,
+    "correct_answer": 896,
+    "incorrect_answer": 881
+  },
+  {
+    "type": "addition",
+    "problem": "267 + 164",
+    "correct_equation": "267 + 164 = 431",
+    "incorrect_equation": "267 + 164 = 468",
+    "a": 267,
+    "b": 164,
+    "correct_answer": 431,
+    "incorrect_answer": 468
+  },
+  {
+    "type": "addition",
+    "problem": "983 + 70",
+    "correct_equation": "983 + 70 = 1053",
+    "incorrect_equation": "983 + 70 = 1045",
+    "a": 983,
+    "b": 70,
+    "correct_answer": 1053,
+    "incorrect_answer": 1045
+  },
+  {
+    "type": "addition",
+    "problem": "597 + 184",
+    "correct_equation": "597 + 184 = 781",
+    "incorrect_equation": "597 + 184 = 413",
+    "a": 597,
+    "b": 184,
+    "correct_answer": 781,
+    "incorrect_answer": 413
+  },
+  {
+    "type": "addition",
+    "problem": "474 + 760",
+    "correct_equation": "474 + 760 = 1234",
+    "incorrect_equation": "474 + 760 = 1194",
+    "a": 474,
+    "b": 760,
+    "correct_answer": 1234,
+    "incorrect_answer": 1194
+  },
+  {
+    "type": "addition",
+    "problem": "991 + 777",
+    "correct_equation": "991 + 777 = 1768",
+    "incorrect_equation": "991 + 777 = 214",
+    "a": 991,
+    "b": 777,
+    "correct_answer": 1768,
+    "incorrect_answer": 214
+  },
+  {
+    "type": "addition",
+    "problem": "584 + 61",
+    "correct_equation": "584 + 61 = 645",
+    "incorrect_equation": "584 + 61 = 663",
+    "a": 584,
+    "b": 61,
+    "correct_answer": 645,
+    "incorrect_answer": 663
+  },
+  {
+    "type": "addition",
+    "problem": "635 + 933",
+    "correct_equation": "635 + 933 = 1568",
+    "incorrect_equation": "635 + 933 = 1571",
+    "a": 635,
+    "b": 933,
+    "correct_answer": 1568,
+    "incorrect_answer": 1571
+  },
+  {
+    "type": "addition",
+    "problem": "286 + 846",
+    "correct_equation": "286 + 846 = 1132",
+    "incorrect_equation": "286 + 846 = 1159",
+    "a": 286,
+    "b": 846,
+    "correct_answer": 1132,
+    "incorrect_answer": 1159
+  },
+  {
+    "type": "addition",
+    "problem": "118 + 867",
+    "correct_equation": "118 + 867 = 985",
+    "incorrect_equation": "118 + 867 = 895",
+    "a": 118,
+    "b": 867,
+    "correct_answer": 985,
+    "incorrect_answer": 895
+  },
+  {
+    "type": "addition",
+    "problem": "547 + 341",
+    "correct_equation": "547 + 341 = 888",
+    "incorrect_equation": "547 + 341 = 922",
+    "a": 547,
+    "b": 341,
+    "correct_answer": 888,
+    "incorrect_answer": 922
+  },
+  {
+    "type": "addition",
+    "problem": "223 + 695",
+    "correct_equation": "223 + 695 = 918",
+    "incorrect_equation": "223 + 695 = 981",
+    "a": 223,
+    "b": 695,
+    "correct_answer": 918,
+    "incorrect_answer": 981
+  },
+  {
+    "type": "addition",
+    "problem": "462 + 671",
+    "correct_equation": "462 + 671 = 1133",
+    "incorrect_equation": "462 + 671 = 1313",
+    "a": 462,
+    "b": 671,
+    "correct_answer": 1133,
+    "incorrect_answer": 1313
+  },
+  {
+    "type": "addition",
+    "problem": "795 + 149",
+    "correct_equation": "795 + 149 = 944",
+    "incorrect_equation": "795 + 149 = 449",
+    "a": 795,
+    "b": 149,
+    "correct_answer": 944,
+    "incorrect_answer": 449
+  },
+  {
+    "type": "addition",
+    "problem": "25 + 614",
+    "correct_equation": "25 + 614 = 639",
+    "incorrect_equation": "25 + 614 = 693",
+    "a": 25,
+    "b": 614,
+    "correct_answer": 639,
+    "incorrect_answer": 693
+  },
+  {
+    "type": "addition",
+    "problem": "510 + 148",
+    "correct_equation": "510 + 148 = 658",
+    "incorrect_equation": "510 + 148 = 568",
+    "a": 510,
+    "b": 148,
+    "correct_answer": 658,
+    "incorrect_answer": 568
+  },
+  {
+    "type": "addition",
+    "problem": "215 + 448",
+    "correct_equation": "215 + 448 = 663",
+    "incorrect_equation": "215 + 448 = 689",
+    "a": 215,
+    "b": 448,
+    "correct_answer": 663,
+    "incorrect_answer": 689
+  },
+  {
+    "type": "addition",
+    "problem": "838 + 559",
+    "correct_equation": "838 + 559 = 1397",
+    "incorrect_equation": "838 + 559 = 279",
+    "a": 838,
+    "b": 559,
+    "correct_answer": 1397,
+    "incorrect_answer": 279
+  },
+  {
+    "type": "subtraction",
+    "problem": "65 - 21",
+    "correct_equation": "65 - 21 = 44",
+    "incorrect_equation": "65 - 21 = 86",
+    "a": 65,
+    "b": 21,
+    "correct_answer": 44,
+    "incorrect_answer": 86
+  },
+  {
+    "type": "subtraction",
+    "problem": "389 - 75",
+    "correct_equation": "389 - 75 = 314",
+    "incorrect_equation": "389 - 75 = 323",
+    "a": 389,
+    "b": 75,
+    "correct_answer": 314,
+    "incorrect_answer": 323
+  },
+  {
+    "type": "subtraction",
+    "problem": "298 - 190",
+    "correct_equation": "298 - 190 = 108",
+    "incorrect_equation": "298 - 190 = 91",
+    "a": 298,
+    "b": 190,
+    "correct_answer": 108,
+    "incorrect_answer": 91
+  },
+  {
+    "type": "subtraction",
+    "problem": "723 - 526",
+    "correct_equation": "723 - 526 = 197",
+    "incorrect_equation": "723 - 526 = 156",
+    "a": 723,
+    "b": 526,
+    "correct_answer": 197,
+    "incorrect_answer": 156
+  },
+  {
+    "type": "subtraction",
+    "problem": "821 - 189",
+    "correct_equation": "821 - 189 = 632",
+    "incorrect_equation": "821 - 189 = 654",
+    "a": 821,
+    "b": 189,
+    "correct_answer": 632,
+    "incorrect_answer": 654
+  },
+  {
+    "type": "subtraction",
+    "problem": "840 - 156",
+    "correct_equation": "840 - 156 = 684",
+    "incorrect_equation": "840 - 156 = 486",
+    "a": 840,
+    "b": 156,
+    "correct_answer": 684,
+    "incorrect_answer": 486
+  },
+  {
+    "type": "subtraction",
+    "problem": "782 - 729",
+    "correct_equation": "782 - 729 = 53",
+    "incorrect_equation": "782 - 729 = 1511",
+    "a": 782,
+    "b": 729,
+    "correct_answer": 53,
+    "incorrect_answer": 1511
+  },
+  {
+    "type": "subtraction",
+    "problem": "923 - 912",
+    "correct_equation": "923 - 912 = 11",
+    "incorrect_equation": "923 - 912 = 30",
+    "a": 923,
+    "b": 912,
+    "correct_answer": 11,
+    "incorrect_answer": 30
+  },
+  {
+    "type": "subtraction",
+    "problem": "660 - 324",
+    "correct_equation": "660 - 324 = 336",
+    "incorrect_equation": "660 - 324 = 984",
+    "a": 660,
+    "b": 324,
+    "correct_answer": 336,
+    "incorrect_answer": 984
+  },
+  {
+    "type": "subtraction",
+    "problem": "510 - 119",
+    "correct_equation": "510 - 119 = 391",
+    "incorrect_equation": "510 - 119 = 371",
+    "a": 510,
+    "b": 119,
+    "correct_answer": 391,
+    "incorrect_answer": 371
+  },
+  {
+    "type": "subtraction",
+    "problem": "495 - 24",
+    "correct_equation": "495 - 24 = 471",
+    "incorrect_equation": "495 - 24 = 452",
+    "a": 495,
+    "b": 24,
+    "correct_answer": 471,
+    "incorrect_answer": 452
+  },
+  {
+    "type": "subtraction",
+    "problem": "548 - 462",
+    "correct_equation": "548 - 462 = 86",
+    "incorrect_equation": "548 - 462 = 68",
+    "a": 548,
+    "b": 462,
+    "correct_answer": 86,
+    "incorrect_answer": 68
+  },
+  {
+    "type": "subtraction",
+    "problem": "812 - 206",
+    "correct_equation": "812 - 206 = 606",
+    "incorrect_equation": "812 - 206 = 660",
+    "a": 812,
+    "b": 206,
+    "correct_answer": 606,
+    "incorrect_answer": 660
+  },
+  {
+    "type": "subtraction",
+    "problem": "741 - 236",
+    "correct_equation": "741 - 236 = 505",
+    "incorrect_equation": "741 - 236 = 977",
+    "a": 741,
+    "b": 236,
+    "correct_answer": 505,
+    "incorrect_answer": 977
+  },
+  {
+    "type": "subtraction",
+    "problem": "765 - 254",
+    "correct_equation": "765 - 254 = 511",
+    "incorrect_equation": "765 - 254 = 509",
+    "a": 765,
+    "b": 254,
+    "correct_answer": 511,
+    "incorrect_answer": 509
+  },
+  {
+    "type": "subtraction",
+    "problem": "664 - 178",
+    "correct_equation": "664 - 178 = 486",
+    "incorrect_equation": "664 - 178 = 516",
+    "a": 664,
+    "b": 178,
+    "correct_answer": 486,
+    "incorrect_answer": 516
+  },
+  {
+    "type": "subtraction",
+    "problem": "510 - 114",
+    "correct_equation": "510 - 114 = 396",
+    "incorrect_equation": "510 - 114 = 369",
+    "a": 510,
+    "b": 114,
+    "correct_answer": 396,
+    "incorrect_answer": 369
+  },
+  {
+    "type": "subtraction",
+    "problem": "757 - 296",
+    "correct_equation": "757 - 296 = 461",
+    "incorrect_equation": "757 - 296 = 502",
+    "a": 757,
+    "b": 296,
+    "correct_answer": 461,
+    "incorrect_answer": 502
+  },
+  {
+    "type": "subtraction",
+    "problem": "136 - 121",
+    "correct_equation": "136 - 121 = 15",
+    "incorrect_equation": "136 - 121 = 20",
+    "a": 136,
+    "b": 121,
+    "correct_answer": 15,
+    "incorrect_answer": 20
+  },
+  {
+    "type": "subtraction",
+    "problem": "727 - 58",
+    "correct_equation": "727 - 58 = 669",
+    "incorrect_equation": "727 - 58 = 660",
+    "a": 727,
+    "b": 58,
+    "correct_answer": 669,
+    "incorrect_answer": 660
+  },
+  {
+    "type": "subtraction",
+    "problem": "841 - 179",
+    "correct_equation": "841 - 179 = 662",
+    "incorrect_equation": "841 - 179 = 1020",
+    "a": 841,
+    "b": 179,
+    "correct_answer": 662,
+    "incorrect_answer": 1020
+  },
+  {
+    "type": "subtraction",
+    "problem": "661 - 578",
+    "correct_equation": "661 - 578 = 83",
+    "incorrect_equation": "661 - 578 = 97",
+    "a": 661,
+    "b": 578,
+    "correct_answer": 83,
+    "incorrect_answer": 97
+  },
+  {
+    "type": "subtraction",
+    "problem": "170 - 117",
+    "correct_equation": "170 - 117 = 53",
+    "incorrect_equation": "170 - 117 = 44",
+    "a": 170,
+    "b": 117,
+    "correct_answer": 53,
+    "incorrect_answer": 44
+  },
+  {
+    "type": "subtraction",
+    "problem": "51 - 16",
+    "correct_equation": "51 - 16 = 35",
+    "incorrect_equation": "51 - 16 = 41",
+    "a": 51,
+    "b": 16,
+    "correct_answer": 35,
+    "incorrect_answer": 41
+  },
+  {
+    "type": "subtraction",
+    "problem": "612 - 507",
+    "correct_equation": "612 - 507 = 105",
+    "incorrect_equation": "612 - 507 = 108",
+    "a": 612,
+    "b": 507,
+    "correct_answer": 105,
+    "incorrect_answer": 108
+  },
+  {
+    "type": "subtraction",
+    "problem": "457 - 191",
+    "correct_equation": "457 - 191 = 266",
+    "incorrect_equation": "457 - 191 = 648",
+    "a": 457,
+    "b": 191,
+    "correct_answer": 266,
+    "incorrect_answer": 648
+  },
+  {
+    "type": "subtraction",
+    "problem": "262 - 62",
+    "correct_equation": "262 - 62 = 200",
+    "incorrect_equation": "262 - 62 = 207",
+    "a": 262,
+    "b": 62,
+    "correct_answer": 200,
+    "incorrect_answer": 207
+  },
+  {
+    "type": "subtraction",
+    "problem": "864 - 399",
+    "correct_equation": "864 - 399 = 465",
+    "incorrect_equation": "864 - 399 = 456",
+    "a": 864,
+    "b": 399,
+    "correct_answer": 465,
+    "incorrect_answer": 456
+  },
+  {
+    "type": "subtraction",
+    "problem": "974 - 382",
+    "correct_equation": "974 - 382 = 592",
+    "incorrect_equation": "974 - 382 = 598",
+    "a": 974,
+    "b": 382,
+    "correct_answer": 592,
+    "incorrect_answer": 598
+  },
+  {
+    "type": "subtraction",
+    "problem": "412 - 360",
+    "correct_equation": "412 - 360 = 52",
+    "incorrect_equation": "412 - 360 = 90",
+    "a": 412,
+    "b": 360,
+    "correct_answer": 52,
+    "incorrect_answer": 90
+  },
+  {
+    "type": "subtraction",
+    "problem": "453 - 353",
+    "correct_equation": "453 - 353 = 100",
+    "incorrect_equation": "453 - 353 = 150",
+    "a": 453,
+    "b": 353,
+    "correct_answer": 100,
+    "incorrect_answer": 150
+  },
+  {
+    "type": "subtraction",
+    "problem": "625 - 219",
+    "correct_equation": "625 - 219 = 406",
+    "incorrect_equation": "625 - 219 = 46",
+    "a": 625,
+    "b": 219,
+    "correct_answer": 406,
+    "incorrect_answer": 46
+  },
+  {
+    "type": "subtraction",
+    "problem": "306 - 190",
+    "correct_equation": "306 - 190 = 116",
+    "incorrect_equation": "306 - 190 = 496",
+    "a": 306,
+    "b": 190,
+    "correct_answer": 116,
+    "incorrect_answer": 496
+  },
+  {
+    "type": "subtraction",
+    "problem": "715 - 559",
+    "correct_equation": "715 - 559 = 156",
+    "incorrect_equation": "715 - 559 = 134",
+    "a": 715,
+    "b": 559,
+    "correct_answer": 156,
+    "incorrect_answer": 134
+  },
+  {
+    "type": "subtraction",
+    "problem": "780 - 213",
+    "correct_equation": "780 - 213 = 567",
+    "incorrect_equation": "780 - 213 = 993",
+    "a": 780,
+    "b": 213,
+    "correct_answer": 567,
+    "incorrect_answer": 993
+  },
+  {
+    "type": "subtraction",
+    "problem": "648 - 200",
+    "correct_equation": "648 - 200 = 448",
+    "incorrect_equation": "648 - 200 = 455",
+    "a": 648,
+    "b": 200,
+    "correct_answer": 448,
+    "incorrect_answer": 455
+  },
+  {
+    "type": "subtraction",
+    "problem": "283 - 119",
+    "correct_equation": "283 - 119 = 164",
+    "incorrect_equation": "283 - 119 = 214",
+    "a": 283,
+    "b": 119,
+    "correct_answer": 164,
+    "incorrect_answer": 214
+  },
+  {
+    "type": "subtraction",
+    "problem": "203 - 105",
+    "correct_equation": "203 - 105 = 98",
+    "incorrect_equation": "203 - 105 = 137",
+    "a": 203,
+    "b": 105,
+    "correct_answer": 98,
+    "incorrect_answer": 137
+  },
+  {
+    "type": "subtraction",
+    "problem": "910 - 840",
+    "correct_equation": "910 - 840 = 70",
+    "incorrect_equation": "910 - 840 = 1750",
+    "a": 910,
+    "b": 840,
+    "correct_answer": 70,
+    "incorrect_answer": 1750
+  },
+  {
+    "type": "subtraction",
+    "problem": "707 - 597",
+    "correct_equation": "707 - 597 = 110",
+    "incorrect_equation": "707 - 597 = 101",
+    "a": 707,
+    "b": 597,
+    "correct_answer": 110,
+    "incorrect_answer": 101
+  },
+  {
+    "type": "subtraction",
+    "problem": "348 - 12",
+    "correct_equation": "348 - 12 = 336",
+    "incorrect_equation": "348 - 12 = 633",
+    "a": 348,
+    "b": 12,
+    "correct_answer": 336,
+    "incorrect_answer": 633
+  },
+  {
+    "type": "subtraction",
+    "problem": "286 - 155",
+    "correct_equation": "286 - 155 = 131",
+    "incorrect_equation": "286 - 155 = 140",
+    "a": 286,
+    "b": 155,
+    "correct_answer": 131,
+    "incorrect_answer": 140
+  },
+  {
+    "type": "subtraction",
+    "problem": "215 - 43",
+    "correct_equation": "215 - 43 = 172",
+    "incorrect_equation": "215 - 43 = 198",
+    "a": 215,
+    "b": 43,
+    "correct_answer": 172,
+    "incorrect_answer": 198
+  },
+  {
+    "type": "subtraction",
+    "problem": "511 - 283",
+    "correct_equation": "511 - 283 = 228",
+    "incorrect_equation": "511 - 283 = 219",
+    "a": 511,
+    "b": 283,
+    "correct_answer": 228,
+    "incorrect_answer": 219
+  },
+  {
+    "type": "subtraction",
+    "problem": "925 - 687",
+    "correct_equation": "925 - 687 = 238",
+    "incorrect_equation": "925 - 687 = 1612",
+    "a": 925,
+    "b": 687,
+    "correct_answer": 238,
+    "incorrect_answer": 1612
+  },
+  {
+    "type": "subtraction",
+    "problem": "417 - 179",
+    "correct_equation": "417 - 179 = 238",
+    "incorrect_equation": "417 - 179 = 328",
+    "a": 417,
+    "b": 179,
+    "correct_answer": 238,
+    "incorrect_answer": 328
+  },
+  {
+    "type": "subtraction",
+    "problem": "111 - 76",
+    "correct_equation": "111 - 76 = 35",
+    "incorrect_equation": "111 - 76 = 187",
+    "a": 111,
+    "b": 76,
+    "correct_answer": 35,
+    "incorrect_answer": 187
+  },
+  {
+    "type": "subtraction",
+    "problem": "530 - 397",
+    "correct_equation": "530 - 397 = 133",
+    "incorrect_equation": "530 - 397 = 927",
+    "a": 530,
+    "b": 397,
+    "correct_answer": 133,
+    "incorrect_answer": 927
+  },
+  {
+    "type": "subtraction",
+    "problem": "155 - 78",
+    "correct_equation": "155 - 78 = 77",
+    "incorrect_equation": "155 - 78 = 61",
+    "a": 155,
+    "b": 78,
+    "correct_answer": 77,
+    "incorrect_answer": 61
+  },
+  {
+    "type": "subtraction",
+    "problem": "418 - 416",
+    "correct_equation": "418 - 416 = 2",
+    "incorrect_equation": "418 - 416 = 12",
+    "a": 418,
+    "b": 416,
+    "correct_answer": 2,
+    "incorrect_answer": 12
+  },
+  {
+    "type": "subtraction",
+    "problem": "732 - 348",
+    "correct_equation": "732 - 348 = 384",
+    "incorrect_equation": "732 - 348 = 393",
+    "a": 732,
+    "b": 348,
+    "correct_answer": 384,
+    "incorrect_answer": 393
+  },
+  {
+    "type": "subtraction",
+    "problem": "812 - 118",
+    "correct_equation": "812 - 118 = 694",
+    "incorrect_equation": "812 - 118 = 668",
+    "a": 812,
+    "b": 118,
+    "correct_answer": 694,
+    "incorrect_answer": 668
+  },
+  {
+    "type": "subtraction",
+    "problem": "869 - 793",
+    "correct_equation": "869 - 793 = 76",
+    "incorrect_equation": "869 - 793 = 68",
+    "a": 869,
+    "b": 793,
+    "correct_answer": 76,
+    "incorrect_answer": 68
+  },
+  {
+    "type": "subtraction",
+    "problem": "640 - 23",
+    "correct_equation": "640 - 23 = 617",
+    "incorrect_equation": "640 - 23 = 621",
+    "a": 640,
+    "b": 23,
+    "correct_answer": 617,
+    "incorrect_answer": 621
+  },
+  {
+    "type": "subtraction",
+    "problem": "231 - 68",
+    "correct_equation": "231 - 68 = 163",
+    "incorrect_equation": "231 - 68 = 119",
+    "a": 231,
+    "b": 68,
+    "correct_answer": 163,
+    "incorrect_answer": 119
+  },
+  {
+    "type": "subtraction",
+    "problem": "352 - 326",
+    "correct_equation": "352 - 326 = 26",
+    "incorrect_equation": "352 - 326 = 6",
+    "a": 352,
+    "b": 326,
+    "correct_answer": 26,
+    "incorrect_answer": 6
+  },
+  {
+    "type": "subtraction",
+    "problem": "275 - 237",
+    "correct_equation": "275 - 237 = 38",
+    "incorrect_equation": "275 - 237 = 83",
+    "a": 275,
+    "b": 237,
+    "correct_answer": 38,
+    "incorrect_answer": 83
+  },
+  {
+    "type": "subtraction",
+    "problem": "612 - 121",
+    "correct_equation": "612 - 121 = 491",
+    "incorrect_equation": "612 - 121 = 498",
+    "a": 612,
+    "b": 121,
+    "correct_answer": 491,
+    "incorrect_answer": 498
+  },
+  {
+    "type": "subtraction",
+    "problem": "762 - 64",
+    "correct_equation": "762 - 64 = 698",
+    "incorrect_equation": "762 - 64 = 968",
+    "a": 762,
+    "b": 64,
+    "correct_answer": 698,
+    "incorrect_answer": 968
+  },
+  {
+    "type": "subtraction",
+    "problem": "315 - 64",
+    "correct_equation": "315 - 64 = 251",
+    "incorrect_equation": "315 - 64 = 257",
+    "a": 315,
+    "b": 64,
+    "correct_answer": 251,
+    "incorrect_answer": 257
+  },
+  {
+    "type": "subtraction",
+    "problem": "448 - 232",
+    "correct_equation": "448 - 232 = 216",
+    "incorrect_equation": "448 - 232 = 680",
+    "a": 448,
+    "b": 232,
+    "correct_answer": 216,
+    "incorrect_answer": 680
+  },
+  {
+    "type": "subtraction",
+    "problem": "392 - 133",
+    "correct_equation": "392 - 133 = 259",
+    "incorrect_equation": "392 - 133 = 295",
+    "a": 392,
+    "b": 133,
+    "correct_answer": 259,
+    "incorrect_answer": 295
+  },
+  {
+    "type": "subtraction",
+    "problem": "901 - 309",
+    "correct_equation": "901 - 309 = 592",
+    "incorrect_equation": "901 - 309 = 952",
+    "a": 901,
+    "b": 309,
+    "correct_answer": 592,
+    "incorrect_answer": 952
+  },
+  {
+    "type": "subtraction",
+    "problem": "235 - 134",
+    "correct_equation": "235 - 134 = 101",
+    "incorrect_equation": "235 - 134 = 99",
+    "a": 235,
+    "b": 134,
+    "correct_answer": 101,
+    "incorrect_answer": 99
+  },
+  {
+    "type": "subtraction",
+    "problem": "910 - 208",
+    "correct_equation": "910 - 208 = 702",
+    "incorrect_equation": "910 - 208 = 671",
+    "a": 910,
+    "b": 208,
+    "correct_answer": 702,
+    "incorrect_answer": 671
+  },
+  {
+    "type": "subtraction",
+    "problem": "558 - 537",
+    "correct_equation": "558 - 537 = 21",
+    "incorrect_equation": "558 - 537 = 33",
+    "a": 558,
+    "b": 537,
+    "correct_answer": 21,
+    "incorrect_answer": 33
+  },
+  {
+    "type": "subtraction",
+    "problem": "794 - 690",
+    "correct_equation": "794 - 690 = 104",
+    "incorrect_equation": "794 - 690 = 121",
+    "a": 794,
+    "b": 690,
+    "correct_answer": 104,
+    "incorrect_answer": 121
+  },
+  {
+    "type": "subtraction",
+    "problem": "563 - 275",
+    "correct_equation": "563 - 275 = 288",
+    "incorrect_equation": "563 - 275 = 882",
+    "a": 563,
+    "b": 275,
+    "correct_answer": 288,
+    "incorrect_answer": 882
+  },
+  {
+    "type": "subtraction",
+    "problem": "440 - 262",
+    "correct_equation": "440 - 262 = 178",
+    "incorrect_equation": "440 - 262 = 139",
+    "a": 440,
+    "b": 262,
+    "correct_answer": 178,
+    "incorrect_answer": 139
+  },
+  {
+    "type": "subtraction",
+    "problem": "328 - 270",
+    "correct_equation": "328 - 270 = 58",
+    "incorrect_equation": "328 - 270 = 598",
+    "a": 328,
+    "b": 270,
+    "correct_answer": 58,
+    "incorrect_answer": 598
+  },
+  {
+    "type": "subtraction",
+    "problem": "635 - 385",
+    "correct_equation": "635 - 385 = 250",
+    "incorrect_equation": "635 - 385 = 245",
+    "a": 635,
+    "b": 385,
+    "correct_answer": 250,
+    "incorrect_answer": 245
+  },
+  {
+    "type": "subtraction",
+    "problem": "534 - 443",
+    "correct_equation": "534 - 443 = 91",
+    "incorrect_equation": "534 - 443 = 977",
+    "a": 534,
+    "b": 443,
+    "correct_answer": 91,
+    "incorrect_answer": 977
+  },
+  {
+    "type": "subtraction",
+    "problem": "858 - 848",
+    "correct_equation": "858 - 848 = 10",
+    "incorrect_equation": "858 - 848 = 9",
+    "a": 858,
+    "b": 848,
+    "correct_answer": 10,
+    "incorrect_answer": 9
+  },
+  {
+    "type": "subtraction",
+    "problem": "479 - 28",
+    "correct_equation": "479 - 28 = 451",
+    "incorrect_equation": "479 - 28 = 541",
+    "a": 479,
+    "b": 28,
+    "correct_answer": 451,
+    "incorrect_answer": 541
+  },
+  {
+    "type": "subtraction",
+    "problem": "896 - 461",
+    "correct_equation": "896 - 461 = 435",
+    "incorrect_equation": "896 - 461 = 439",
+    "a": 896,
+    "b": 461,
+    "correct_answer": 435,
+    "incorrect_answer": 439
+  },
+  {
+    "type": "subtraction",
+    "problem": "318 - 147",
+    "correct_equation": "318 - 147 = 171",
+    "incorrect_equation": "318 - 147 = 165",
+    "a": 318,
+    "b": 147,
+    "correct_answer": 171,
+    "incorrect_answer": 165
+  },
+  {
+    "type": "subtraction",
+    "problem": "901 - 686",
+    "correct_equation": "901 - 686 = 215",
+    "incorrect_equation": "901 - 686 = 1587",
+    "a": 901,
+    "b": 686,
+    "correct_answer": 215,
+    "incorrect_answer": 1587
+  },
+  {
+    "type": "subtraction",
+    "problem": "624 - 584",
+    "correct_equation": "624 - 584 = 40",
+    "incorrect_equation": "624 - 584 = 67",
+    "a": 624,
+    "b": 584,
+    "correct_answer": 40,
+    "incorrect_answer": 67
+  },
+  {
+    "type": "subtraction",
+    "problem": "439 - 385",
+    "correct_equation": "439 - 385 = 54",
+    "incorrect_equation": "439 - 385 = 824",
+    "a": 439,
+    "b": 385,
+    "correct_answer": 54,
+    "incorrect_answer": 824
+  },
+  {
+    "type": "subtraction",
+    "problem": "118 - 28",
+    "correct_equation": "118 - 28 = 90",
+    "incorrect_equation": "118 - 28 = 103",
+    "a": 118,
+    "b": 28,
+    "correct_answer": 90,
+    "incorrect_answer": 103
+  },
+  {
+    "type": "subtraction",
+    "problem": "762 - 209",
+    "correct_equation": "762 - 209 = 553",
+    "incorrect_equation": "762 - 209 = 565",
+    "a": 762,
+    "b": 209,
+    "correct_answer": 553,
+    "incorrect_answer": 565
+  },
+  {
+    "type": "subtraction",
+    "problem": "252 - 155",
+    "correct_equation": "252 - 155 = 97",
+    "incorrect_equation": "252 - 155 = 137",
+    "a": 252,
+    "b": 155,
+    "correct_answer": 97,
+    "incorrect_answer": 137
+  },
+  {
+    "type": "subtraction",
+    "problem": "467 - 436",
+    "correct_equation": "467 - 436 = 31",
+    "incorrect_equation": "467 - 436 = 903",
+    "a": 467,
+    "b": 436,
+    "correct_answer": 31,
+    "incorrect_answer": 903
+  },
+  {
+    "type": "subtraction",
+    "problem": "984 - 346",
+    "correct_equation": "984 - 346 = 638",
+    "incorrect_equation": "984 - 346 = 836",
+    "a": 984,
+    "b": 346,
+    "correct_answer": 638,
+    "incorrect_answer": 836
+  },
+  {
+    "type": "subtraction",
+    "problem": "102 - 101",
+    "correct_equation": "102 - 101 = 1",
+    "incorrect_equation": "102 - 101 = 3",
+    "a": 102,
+    "b": 101,
+    "correct_answer": 1,
+    "incorrect_answer": 3
+  },
+  {
+    "type": "subtraction",
+    "problem": "760 - 686",
+    "correct_equation": "760 - 686 = 74",
+    "incorrect_equation": "760 - 686 = 55",
+    "a": 760,
+    "b": 686,
+    "correct_answer": 74,
+    "incorrect_answer": 55
+  },
+  {
+    "type": "subtraction",
+    "problem": "700 - 490",
+    "correct_equation": "700 - 490 = 210",
+    "incorrect_equation": "700 - 490 = 219",
+    "a": 700,
+    "b": 490,
+    "correct_answer": 210,
+    "incorrect_answer": 219
+  },
+  {
+    "type": "subtraction",
+    "problem": "476 - 157",
+    "correct_equation": "476 - 157 = 319",
+    "incorrect_equation": "476 - 157 = 326",
+    "a": 476,
+    "b": 157,
+    "correct_answer": 319,
+    "incorrect_answer": 326
+  },
+  {
+    "type": "subtraction",
+    "problem": "831 - 167",
+    "correct_equation": "831 - 167 = 664",
+    "incorrect_equation": "831 - 167 = 657",
+    "a": 831,
+    "b": 167,
+    "correct_answer": 664,
+    "incorrect_answer": 657
+  },
+  {
+    "type": "subtraction",
+    "problem": "794 - 117",
+    "correct_equation": "794 - 117 = 677",
+    "incorrect_equation": "794 - 117 = 723",
+    "a": 794,
+    "b": 117,
+    "correct_answer": 677,
+    "incorrect_answer": 723
+  },
+  {
+    "type": "subtraction",
+    "problem": "321 - 319",
+    "correct_equation": "321 - 319 = 2",
+    "incorrect_equation": "321 - 319 = 640",
+    "a": 321,
+    "b": 319,
+    "correct_answer": 2,
+    "incorrect_answer": 640
+  },
+  {
+    "type": "subtraction",
+    "problem": "137 - 28",
+    "correct_equation": "137 - 28 = 109",
+    "incorrect_equation": "137 - 28 = 165",
+    "a": 137,
+    "b": 28,
+    "correct_answer": 109,
+    "incorrect_answer": 165
+  },
+  {
+    "type": "subtraction",
+    "problem": "854 - 274",
+    "correct_equation": "854 - 274 = 580",
+    "incorrect_equation": "854 - 274 = 1128",
+    "a": 854,
+    "b": 274,
+    "correct_answer": 580,
+    "incorrect_answer": 1128
+  },
+  {
+    "type": "subtraction",
+    "problem": "784 - 313",
+    "correct_equation": "784 - 313 = 471",
+    "incorrect_equation": "784 - 313 = 417",
+    "a": 784,
+    "b": 313,
+    "correct_answer": 471,
+    "incorrect_answer": 417
+  },
+  {
+    "type": "subtraction",
+    "problem": "593 - 411",
+    "correct_equation": "593 - 411 = 182",
+    "incorrect_equation": "593 - 411 = 812",
+    "a": 593,
+    "b": 411,
+    "correct_answer": 182,
+    "incorrect_answer": 812
+  },
+  {
+    "type": "subtraction",
+    "problem": "439 - 241",
+    "correct_equation": "439 - 241 = 198",
+    "incorrect_equation": "439 - 241 = 216",
+    "a": 439,
+    "b": 241,
+    "correct_answer": 198,
+    "incorrect_answer": 216
+  },
+  {
+    "type": "subtraction",
+    "problem": "507 - 98",
+    "correct_equation": "507 - 98 = 409",
+    "incorrect_equation": "507 - 98 = 605",
+    "a": 507,
+    "b": 98,
+    "correct_answer": 409,
+    "incorrect_answer": 605
+  },
+  {
+    "type": "subtraction",
+    "problem": "119 - 74",
+    "correct_equation": "119 - 74 = 45",
+    "incorrect_equation": "119 - 74 = 43",
+    "a": 119,
+    "b": 74,
+    "correct_answer": 45,
+    "incorrect_answer": 43
+  },
+  {
+    "type": "subtraction",
+    "problem": "734 - 12",
+    "correct_equation": "734 - 12 = 722",
+    "incorrect_equation": "734 - 12 = 746",
+    "a": 734,
+    "b": 12,
+    "correct_answer": 722,
+    "incorrect_answer": 746
+  },
+  {
+    "type": "subtraction",
+    "problem": "916 - 293",
+    "correct_equation": "916 - 293 = 623",
+    "incorrect_equation": "916 - 293 = 326",
+    "a": 916,
+    "b": 293,
+    "correct_answer": 623,
+    "incorrect_answer": 326
+  },
+  {
+    "type": "subtraction",
+    "problem": "344 - 219",
+    "correct_equation": "344 - 219 = 125",
+    "incorrect_equation": "344 - 219 = 101",
+    "a": 344,
+    "b": 219,
+    "correct_answer": 125,
+    "incorrect_answer": 101
+  },
+  {
+    "type": "subtraction",
+    "problem": "606 - 468",
+    "correct_equation": "606 - 468 = 138",
+    "incorrect_equation": "606 - 468 = 129",
+    "a": 606,
+    "b": 468,
+    "correct_answer": 138,
+    "incorrect_answer": 129
+  },
+  {
+    "type": "subtraction",
+    "problem": "67 - 57",
+    "correct_equation": "67 - 57 = 10",
+    "incorrect_equation": "67 - 57 = 1",
+    "a": 67,
+    "b": 57,
+    "correct_answer": 10,
+    "incorrect_answer": 1
+  },
+  {
+    "type": "subtraction",
+    "problem": "964 - 168",
+    "correct_equation": "964 - 168 = 796",
+    "incorrect_equation": "964 - 168 = 824",
+    "a": 964,
+    "b": 168,
+    "correct_answer": 796,
+    "incorrect_answer": 824
+  },
+  {
+    "type": "subtraction",
+    "problem": "264 - 107",
+    "correct_equation": "264 - 107 = 157",
+    "incorrect_equation": "264 - 107 = 120",
+    "a": 264,
+    "b": 107,
+    "correct_answer": 157,
+    "incorrect_answer": 120
+  },
+  {
+    "type": "subtraction",
+    "problem": "328 - 193",
+    "correct_equation": "328 - 193 = 135",
+    "incorrect_equation": "328 - 193 = 109",
+    "a": 328,
+    "b": 193,
+    "correct_answer": 135,
+    "incorrect_answer": 109
+  },
+  {
+    "type": "subtraction",
+    "problem": "86 - 47",
+    "correct_equation": "86 - 47 = 39",
+    "incorrect_equation": "86 - 47 = 93",
+    "a": 86,
+    "b": 47,
+    "correct_answer": 39,
+    "incorrect_answer": 93
+  },
+  {
+    "type": "subtraction",
+    "problem": "176 - 163",
+    "correct_equation": "176 - 163 = 13",
+    "incorrect_equation": "176 - 163 = 339",
+    "a": 176,
+    "b": 163,
+    "correct_answer": 13,
+    "incorrect_answer": 339
+  },
+  {
+    "type": "subtraction",
+    "problem": "537 - 206",
+    "correct_equation": "537 - 206 = 331",
+    "incorrect_equation": "537 - 206 = 355",
+    "a": 537,
+    "b": 206,
+    "correct_answer": 331,
+    "incorrect_answer": 355
+  },
+  {
+    "type": "subtraction",
+    "problem": "756 - 272",
+    "correct_equation": "756 - 272 = 484",
+    "incorrect_equation": "756 - 272 = 459",
+    "a": 756,
+    "b": 272,
+    "correct_answer": 484,
+    "incorrect_answer": 459
+  },
+  {
+    "type": "subtraction",
+    "problem": "650 - 583",
+    "correct_equation": "650 - 583 = 67",
+    "incorrect_equation": "650 - 583 = 97",
+    "a": 650,
+    "b": 583,
+    "correct_answer": 67,
+    "incorrect_answer": 97
+  },
+  {
+    "type": "subtraction",
+    "problem": "565 - 349",
+    "correct_equation": "565 - 349 = 216",
+    "incorrect_equation": "565 - 349 = 235",
+    "a": 565,
+    "b": 349,
+    "correct_answer": 216,
+    "incorrect_answer": 235
+  },
+  {
+    "type": "subtraction",
+    "problem": "111 - 22",
+    "correct_equation": "111 - 22 = 89",
+    "incorrect_equation": "111 - 22 = 133",
+    "a": 111,
+    "b": 22,
+    "correct_answer": 89,
+    "incorrect_answer": 133
+  },
+  {
+    "type": "subtraction",
+    "problem": "146 - 48",
+    "correct_equation": "146 - 48 = 98",
+    "incorrect_equation": "146 - 48 = 57",
+    "a": 146,
+    "b": 48,
+    "correct_answer": 98,
+    "incorrect_answer": 57
+  },
+  {
+    "type": "subtraction",
+    "problem": "688 - 481",
+    "correct_equation": "688 - 481 = 207",
+    "incorrect_equation": "688 - 481 = 251",
+    "a": 688,
+    "b": 481,
+    "correct_answer": 207,
+    "incorrect_answer": 251
+  },
+  {
+    "type": "subtraction",
+    "problem": "276 - 212",
+    "correct_equation": "276 - 212 = 64",
+    "incorrect_equation": "276 - 212 = 46",
+    "a": 276,
+    "b": 212,
+    "correct_answer": 64,
+    "incorrect_answer": 46
+  },
+  {
+    "type": "subtraction",
+    "problem": "695 - 665",
+    "correct_equation": "695 - 665 = 30",
+    "incorrect_equation": "695 - 665 = 1360",
+    "a": 695,
+    "b": 665,
+    "correct_answer": 30,
+    "incorrect_answer": 1360
+  },
+  {
+    "type": "subtraction",
+    "problem": "318 - 222",
+    "correct_equation": "318 - 222 = 96",
+    "incorrect_equation": "318 - 222 = 99",
+    "a": 318,
+    "b": 222,
+    "correct_answer": 96,
+    "incorrect_answer": 99
+  },
+  {
+    "type": "subtraction",
+    "problem": "480 - 280",
+    "correct_equation": "480 - 280 = 200",
+    "incorrect_equation": "480 - 280 = 2",
+    "a": 480,
+    "b": 280,
+    "correct_answer": 200,
+    "incorrect_answer": 2
+  },
+  {
+    "type": "subtraction",
+    "problem": "113 - 88",
+    "correct_equation": "113 - 88 = 25",
+    "incorrect_equation": "113 - 88 = 50",
+    "a": 113,
+    "b": 88,
+    "correct_answer": 25,
+    "incorrect_answer": 50
+  },
+  {
+    "type": "subtraction",
+    "problem": "557 - 407",
+    "correct_equation": "557 - 407 = 150",
+    "incorrect_equation": "557 - 407 = 143",
+    "a": 557,
+    "b": 407,
+    "correct_answer": 150,
+    "incorrect_answer": 143
+  },
+  {
+    "type": "subtraction",
+    "problem": "444 - 240",
+    "correct_equation": "444 - 240 = 204",
+    "incorrect_equation": "444 - 240 = 212",
+    "a": 444,
+    "b": 240,
+    "correct_answer": 204,
+    "incorrect_answer": 212
+  },
+  {
+    "type": "subtraction",
+    "problem": "802 - 286",
+    "correct_equation": "802 - 286 = 516",
+    "incorrect_equation": "802 - 286 = 1088",
+    "a": 802,
+    "b": 286,
+    "correct_answer": 516,
+    "incorrect_answer": 1088
+  },
+  {
+    "type": "subtraction",
+    "problem": "457 - 308",
+    "correct_equation": "457 - 308 = 149",
+    "incorrect_equation": "457 - 308 = 177",
+    "a": 457,
+    "b": 308,
+    "correct_answer": 149,
+    "incorrect_answer": 177
+  },
+  {
+    "type": "subtraction",
+    "problem": "560 - 483",
+    "correct_equation": "560 - 483 = 77",
+    "incorrect_equation": "560 - 483 = 92",
+    "a": 560,
+    "b": 483,
+    "correct_answer": 77,
+    "incorrect_answer": 92
+  },
+  {
+    "type": "subtraction",
+    "problem": "886 - 658",
+    "correct_equation": "886 - 658 = 228",
+    "incorrect_equation": "886 - 658 = 282",
+    "a": 886,
+    "b": 658,
+    "correct_answer": 228,
+    "incorrect_answer": 282
+  },
+  {
+    "type": "subtraction",
+    "problem": "426 - 220",
+    "correct_equation": "426 - 220 = 206",
+    "incorrect_equation": "426 - 220 = 26",
+    "a": 426,
+    "b": 220,
+    "correct_answer": 206,
+    "incorrect_answer": 26
+  },
+  {
+    "type": "subtraction",
+    "problem": "398 - 322",
+    "correct_equation": "398 - 322 = 76",
+    "incorrect_equation": "398 - 322 = 85",
+    "a": 398,
+    "b": 322,
+    "correct_answer": 76,
+    "incorrect_answer": 85
+  },
+  {
+    "type": "subtraction",
+    "problem": "212 - 184",
+    "correct_equation": "212 - 184 = 28",
+    "incorrect_equation": "212 - 184 = 40",
+    "a": 212,
+    "b": 184,
+    "correct_answer": 28,
+    "incorrect_answer": 40
+  },
+  {
+    "type": "subtraction",
+    "problem": "194 - 140",
+    "correct_equation": "194 - 140 = 54",
+    "incorrect_equation": "194 - 140 = 334",
+    "a": 194,
+    "b": 140,
+    "correct_answer": 54,
+    "incorrect_answer": 334
+  },
+  {
+    "type": "subtraction",
+    "problem": "318 - 117",
+    "correct_equation": "318 - 117 = 201",
+    "incorrect_equation": "318 - 117 = 240",
+    "a": 318,
+    "b": 117,
+    "correct_answer": 201,
+    "incorrect_answer": 240
+  },
+  {
+    "type": "subtraction",
+    "problem": "506 - 403",
+    "correct_equation": "506 - 403 = 103",
+    "incorrect_equation": "506 - 403 = 130",
+    "a": 506,
+    "b": 403,
+    "correct_answer": 103,
+    "incorrect_answer": 130
+  },
+  {
+    "type": "subtraction",
+    "problem": "597 - 17",
+    "correct_equation": "597 - 17 = 580",
+    "incorrect_equation": "597 - 17 = 850",
+    "a": 597,
+    "b": 17,
+    "correct_answer": 580,
+    "incorrect_answer": 850
+  },
+  {
+    "type": "subtraction",
+    "problem": "906 - 214",
+    "correct_equation": "906 - 214 = 692",
+    "incorrect_equation": "906 - 214 = 673",
+    "a": 906,
+    "b": 214,
+    "correct_answer": 692,
+    "incorrect_answer": 673
+  },
+  {
+    "type": "subtraction",
+    "problem": "465 - 398",
+    "correct_equation": "465 - 398 = 67",
+    "incorrect_equation": "465 - 398 = 68",
+    "a": 465,
+    "b": 398,
+    "correct_answer": 67,
+    "incorrect_answer": 68
+  },
+  {
+    "type": "subtraction",
+    "problem": "235 - 131",
+    "correct_equation": "235 - 131 = 104",
+    "incorrect_equation": "235 - 131 = 366",
+    "a": 235,
+    "b": 131,
+    "correct_answer": 104,
+    "incorrect_answer": 366
+  },
+  {
+    "type": "subtraction",
+    "problem": "412 - 136",
+    "correct_equation": "412 - 136 = 276",
+    "incorrect_equation": "412 - 136 = 280",
+    "a": 412,
+    "b": 136,
+    "correct_answer": 276,
+    "incorrect_answer": 280
+  },
+  {
+    "type": "subtraction",
+    "problem": "308 - 175",
+    "correct_equation": "308 - 175 = 133",
+    "incorrect_equation": "308 - 175 = 100",
+    "a": 308,
+    "b": 175,
+    "correct_answer": 133,
+    "incorrect_answer": 100
+  },
+  {
+    "type": "subtraction",
+    "problem": "144 - 120",
+    "correct_equation": "144 - 120 = 24",
+    "incorrect_equation": "144 - 120 = 64",
+    "a": 144,
+    "b": 120,
+    "correct_answer": 24,
+    "incorrect_answer": 64
+  },
+  {
+    "type": "subtraction",
+    "problem": "680 - 28",
+    "correct_equation": "680 - 28 = 652",
+    "incorrect_equation": "680 - 28 = 645",
+    "a": 680,
+    "b": 28,
+    "correct_answer": 652,
+    "incorrect_answer": 645
+  },
+  {
+    "type": "subtraction",
+    "problem": "449 - 188",
+    "correct_equation": "449 - 188 = 261",
+    "incorrect_equation": "449 - 188 = 216",
+    "a": 449,
+    "b": 188,
+    "correct_answer": 261,
+    "incorrect_answer": 216
+  },
+  {
+    "type": "subtraction",
+    "problem": "593 - 216",
+    "correct_equation": "593 - 216 = 377",
+    "incorrect_equation": "593 - 216 = 340",
+    "a": 593,
+    "b": 216,
+    "correct_answer": 377,
+    "incorrect_answer": 340
+  },
+  {
+    "type": "subtraction",
+    "problem": "490 - 254",
+    "correct_equation": "490 - 254 = 236",
+    "incorrect_equation": "490 - 254 = 220",
+    "a": 490,
+    "b": 254,
+    "correct_answer": 236,
+    "incorrect_answer": 220
+  },
+  {
+    "type": "subtraction",
+    "problem": "398 - 221",
+    "correct_equation": "398 - 221 = 177",
+    "incorrect_equation": "398 - 221 = 169",
+    "a": 398,
+    "b": 221,
+    "correct_answer": 177,
+    "incorrect_answer": 169
+  },
+  {
+    "type": "subtraction",
+    "problem": "904 - 676",
+    "correct_equation": "904 - 676 = 228",
+    "incorrect_equation": "904 - 676 = 195",
+    "a": 904,
+    "b": 676,
+    "correct_answer": 228,
+    "incorrect_answer": 195
+  },
+  {
+    "type": "subtraction",
+    "problem": "522 - 207",
+    "correct_equation": "522 - 207 = 315",
+    "incorrect_equation": "522 - 207 = 305",
+    "a": 522,
+    "b": 207,
+    "correct_answer": 315,
+    "incorrect_answer": 305
+  },
+  {
+    "type": "subtraction",
+    "problem": "766 - 12",
+    "correct_equation": "766 - 12 = 754",
+    "incorrect_equation": "766 - 12 = 747",
+    "a": 766,
+    "b": 12,
+    "correct_answer": 754,
+    "incorrect_answer": 747
+  },
+  {
+    "type": "subtraction",
+    "problem": "676 - 464",
+    "correct_equation": "676 - 464 = 212",
+    "incorrect_equation": "676 - 464 = 186",
+    "a": 676,
+    "b": 464,
+    "correct_answer": 212,
+    "incorrect_answer": 186
+  },
+  {
+    "type": "subtraction",
+    "problem": "783 - 379",
+    "correct_equation": "783 - 379 = 404",
+    "incorrect_equation": "783 - 379 = 411",
+    "a": 783,
+    "b": 379,
+    "correct_answer": 404,
+    "incorrect_answer": 411
+  },
+  {
+    "type": "subtraction",
+    "problem": "970 - 814",
+    "correct_equation": "970 - 814 = 156",
+    "incorrect_equation": "970 - 814 = 516",
+    "a": 970,
+    "b": 814,
+    "correct_answer": 156,
+    "incorrect_answer": 516
+  },
+  {
+    "type": "subtraction",
+    "problem": "629 - 67",
+    "correct_equation": "629 - 67 = 562",
+    "incorrect_equation": "629 - 67 = 696",
+    "a": 629,
+    "b": 67,
+    "correct_answer": 562,
+    "incorrect_answer": 696
+  },
+  {
+    "type": "subtraction",
+    "problem": "904 - 152",
+    "correct_equation": "904 - 152 = 752",
+    "incorrect_equation": "904 - 152 = 745",
+    "a": 904,
+    "b": 152,
+    "correct_answer": 752,
+    "incorrect_answer": 745
+  },
+  {
+    "type": "subtraction",
+    "problem": "881 - 265",
+    "correct_equation": "881 - 265 = 616",
+    "incorrect_equation": "881 - 265 = 628",
+    "a": 881,
+    "b": 265,
+    "correct_answer": 616,
+    "incorrect_answer": 628
+  },
+  {
+    "type": "subtraction",
+    "problem": "223 - 141",
+    "correct_equation": "223 - 141 = 82",
+    "incorrect_equation": "223 - 141 = 103",
+    "a": 223,
+    "b": 141,
+    "correct_answer": 82,
+    "incorrect_answer": 103
+  },
+  {
+    "type": "subtraction",
+    "problem": "353 - 82",
+    "correct_equation": "353 - 82 = 271",
+    "incorrect_equation": "353 - 82 = 264",
+    "a": 353,
+    "b": 82,
+    "correct_answer": 271,
+    "incorrect_answer": 264
+  },
+  {
+    "type": "subtraction",
+    "problem": "986 - 931",
+    "correct_equation": "986 - 931 = 55",
+    "incorrect_equation": "986 - 931 = 79",
+    "a": 986,
+    "b": 931,
+    "correct_answer": 55,
+    "incorrect_answer": 79
+  },
+  {
+    "type": "subtraction",
+    "problem": "449 - 166",
+    "correct_equation": "449 - 166 = 283",
+    "incorrect_equation": "449 - 166 = 615",
+    "a": 449,
+    "b": 166,
+    "correct_answer": 283,
+    "incorrect_answer": 615
+  },
+  {
+    "type": "subtraction",
+    "problem": "962 - 874",
+    "correct_equation": "962 - 874 = 88",
+    "incorrect_equation": "962 - 874 = 104",
+    "a": 962,
+    "b": 874,
+    "correct_answer": 88,
+    "incorrect_answer": 104
+  },
+  {
+    "type": "subtraction",
+    "problem": "65 - 45",
+    "correct_equation": "65 - 45 = 20",
+    "incorrect_equation": "65 - 45 = 110",
+    "a": 65,
+    "b": 45,
+    "correct_answer": 20,
+    "incorrect_answer": 110
+  },
+  {
+    "type": "subtraction",
+    "problem": "407 - 132",
+    "correct_equation": "407 - 132 = 275",
+    "incorrect_equation": "407 - 132 = 266",
+    "a": 407,
+    "b": 132,
+    "correct_answer": 275,
+    "incorrect_answer": 266
+  },
+  {
+    "type": "subtraction",
+    "problem": "705 - 659",
+    "correct_equation": "705 - 659 = 46",
+    "incorrect_equation": "705 - 659 = 53",
+    "a": 705,
+    "b": 659,
+    "correct_answer": 46,
+    "incorrect_answer": 53
+  },
+  {
+    "type": "subtraction",
+    "problem": "555 - 462",
+    "correct_equation": "555 - 462 = 93",
+    "incorrect_equation": "555 - 462 = 1017",
+    "a": 555,
+    "b": 462,
+    "correct_answer": 93,
+    "incorrect_answer": 1017
+  },
+  {
+    "type": "subtraction",
+    "problem": "235 - 193",
+    "correct_equation": "235 - 193 = 42",
+    "incorrect_equation": "235 - 193 = 428",
+    "a": 235,
+    "b": 193,
+    "correct_answer": 42,
+    "incorrect_answer": 428
+  },
+  {
+    "type": "subtraction",
+    "problem": "114 - 10",
+    "correct_equation": "114 - 10 = 104",
+    "incorrect_equation": "114 - 10 = 14",
+    "a": 114,
+    "b": 10,
+    "correct_answer": 104,
+    "incorrect_answer": 14
+  },
+  {
+    "type": "subtraction",
+    "problem": "666 - 625",
+    "correct_equation": "666 - 625 = 41",
+    "incorrect_equation": "666 - 625 = 33",
+    "a": 666,
+    "b": 625,
+    "correct_answer": 41,
+    "incorrect_answer": 33
+  },
+  {
+    "type": "subtraction",
+    "problem": "664 - 515",
+    "correct_equation": "664 - 515 = 149",
+    "incorrect_equation": "664 - 515 = 419",
+    "a": 664,
+    "b": 515,
+    "correct_answer": 149,
+    "incorrect_answer": 419
+  },
+  {
+    "type": "subtraction",
+    "problem": "514 - 83",
+    "correct_equation": "514 - 83 = 431",
+    "incorrect_equation": "514 - 83 = 341",
+    "a": 514,
+    "b": 83,
+    "correct_answer": 431,
+    "incorrect_answer": 341
+  },
+  {
+    "type": "subtraction",
+    "problem": "300 - 110",
+    "correct_equation": "300 - 110 = 190",
+    "incorrect_equation": "300 - 110 = 188",
+    "a": 300,
+    "b": 110,
+    "correct_answer": 190,
+    "incorrect_answer": 188
+  },
+  {
+    "type": "subtraction",
+    "problem": "816 - 286",
+    "correct_equation": "816 - 286 = 530",
+    "incorrect_equation": "816 - 286 = 531",
+    "a": 816,
+    "b": 286,
+    "correct_answer": 530,
+    "incorrect_answer": 531
+  },
+  {
+    "type": "subtraction",
+    "problem": "909 - 100",
+    "correct_equation": "909 - 100 = 809",
+    "incorrect_equation": "909 - 100 = 784",
+    "a": 909,
+    "b": 100,
+    "correct_answer": 809,
+    "incorrect_answer": 784
+  },
+  {
+    "type": "subtraction",
+    "problem": "123 - 52",
+    "correct_equation": "123 - 52 = 71",
+    "incorrect_equation": "123 - 52 = 112",
+    "a": 123,
+    "b": 52,
+    "correct_answer": 71,
+    "incorrect_answer": 112
+  },
+  {
+    "type": "subtraction",
+    "problem": "783 - 594",
+    "correct_equation": "783 - 594 = 189",
+    "incorrect_equation": "783 - 594 = 819",
+    "a": 783,
+    "b": 594,
+    "correct_answer": 189,
+    "incorrect_answer": 819
+  },
+  {
+    "type": "subtraction",
+    "problem": "546 - 397",
+    "correct_equation": "546 - 397 = 149",
+    "incorrect_equation": "546 - 397 = 152",
+    "a": 546,
+    "b": 397,
+    "correct_answer": 149,
+    "incorrect_answer": 152
+  },
+  {
+    "type": "subtraction",
+    "problem": "273 - 54",
+    "correct_equation": "273 - 54 = 219",
+    "incorrect_equation": "273 - 54 = 197",
+    "a": 273,
+    "b": 54,
+    "correct_answer": 219,
+    "incorrect_answer": 197
+  },
+  {
+    "type": "subtraction",
+    "problem": "985 - 280",
+    "correct_equation": "985 - 280 = 705",
+    "incorrect_equation": "985 - 280 = 707",
+    "a": 985,
+    "b": 280,
+    "correct_answer": 705,
+    "incorrect_answer": 707
+  },
+  {
+    "type": "subtraction",
+    "problem": "713 - 259",
+    "correct_equation": "713 - 259 = 454",
+    "incorrect_equation": "713 - 259 = 445",
+    "a": 713,
+    "b": 259,
+    "correct_answer": 454,
+    "incorrect_answer": 445
+  },
+  {
+    "type": "subtraction",
+    "problem": "714 - 198",
+    "correct_equation": "714 - 198 = 516",
+    "incorrect_equation": "714 - 198 = 503",
+    "a": 714,
+    "b": 198,
+    "correct_answer": 516,
+    "incorrect_answer": 503
+  },
+  {
+    "type": "subtraction",
+    "problem": "729 - 38",
+    "correct_equation": "729 - 38 = 691",
+    "incorrect_equation": "729 - 38 = 767",
+    "a": 729,
+    "b": 38,
+    "correct_answer": 691,
+    "incorrect_answer": 767
+  },
+  {
+    "type": "subtraction",
+    "problem": "375 - 13",
+    "correct_equation": "375 - 13 = 362",
+    "incorrect_equation": "375 - 13 = 337",
+    "a": 375,
+    "b": 13,
+    "correct_answer": 362,
+    "incorrect_answer": 337
+  },
+  {
+    "type": "subtraction",
+    "problem": "999 - 734",
+    "correct_equation": "999 - 734 = 265",
+    "incorrect_equation": "999 - 734 = 250",
+    "a": 999,
+    "b": 734,
+    "correct_answer": 265,
+    "incorrect_answer": 250
+  },
+  {
+    "type": "subtraction",
+    "problem": "771 - 345",
+    "correct_equation": "771 - 345 = 426",
+    "incorrect_equation": "771 - 345 = 462",
+    "a": 771,
+    "b": 345,
+    "correct_answer": 426,
+    "incorrect_answer": 462
+  },
+  {
+    "type": "subtraction",
+    "problem": "124 - 56",
+    "correct_equation": "124 - 56 = 68",
+    "incorrect_equation": "124 - 56 = 74",
+    "a": 124,
+    "b": 56,
+    "correct_answer": 68,
+    "incorrect_answer": 74
+  },
+  {
+    "type": "subtraction",
+    "problem": "319 - 72",
+    "correct_equation": "319 - 72 = 247",
+    "incorrect_equation": "319 - 72 = 742",
+    "a": 319,
+    "b": 72,
+    "correct_answer": 247,
+    "incorrect_answer": 742
+  },
+  {
+    "type": "subtraction",
+    "problem": "277 - 254",
+    "correct_equation": "277 - 254 = 23",
+    "incorrect_equation": "277 - 254 = 21",
+    "a": 277,
+    "b": 254,
+    "correct_answer": 23,
+    "incorrect_answer": 21
+  },
+  {
+    "type": "subtraction",
+    "problem": "840 - 806",
+    "correct_equation": "840 - 806 = 34",
+    "incorrect_equation": "840 - 806 = 11",
+    "a": 840,
+    "b": 806,
+    "correct_answer": 34,
+    "incorrect_answer": 11
+  },
+  {
+    "type": "subtraction",
+    "problem": "513 - 409",
+    "correct_equation": "513 - 409 = 104",
+    "incorrect_equation": "513 - 409 = 922",
+    "a": 513,
+    "b": 409,
+    "correct_answer": 104,
+    "incorrect_answer": 922
+  },
+  {
+    "type": "subtraction",
+    "problem": "967 - 391",
+    "correct_equation": "967 - 391 = 576",
+    "incorrect_equation": "967 - 391 = 577",
+    "a": 967,
+    "b": 391,
+    "correct_answer": 576,
+    "incorrect_answer": 577
+  },
+  {
+    "type": "subtraction",
+    "problem": "422 - 403",
+    "correct_equation": "422 - 403 = 19",
+    "incorrect_equation": "422 - 403 = 91",
+    "a": 422,
+    "b": 403,
+    "correct_answer": 19,
+    "incorrect_answer": 91
+  },
+  {
+    "type": "subtraction",
+    "problem": "536 - 478",
+    "correct_equation": "536 - 478 = 58",
+    "incorrect_equation": "536 - 478 = 52",
+    "a": 536,
+    "b": 478,
+    "correct_answer": 58,
+    "incorrect_answer": 52
+  },
+  {
+    "type": "subtraction",
+    "problem": "200 - 66",
+    "correct_equation": "200 - 66 = 134",
+    "incorrect_equation": "200 - 66 = 314",
+    "a": 200,
+    "b": 66,
+    "correct_answer": 134,
+    "incorrect_answer": 314
+  },
+  {
+    "type": "subtraction",
+    "problem": "724 - 590",
+    "correct_equation": "724 - 590 = 134",
+    "incorrect_equation": "724 - 590 = 107",
+    "a": 724,
+    "b": 590,
+    "correct_answer": 134,
+    "incorrect_answer": 107
+  },
+  {
+    "type": "subtraction",
+    "problem": "756 - 13",
+    "correct_equation": "756 - 13 = 743",
+    "incorrect_equation": "756 - 13 = 771",
+    "a": 756,
+    "b": 13,
+    "correct_answer": 743,
+    "incorrect_answer": 771
+  },
+  {
+    "type": "subtraction",
+    "problem": "442 - 83",
+    "correct_equation": "442 - 83 = 359",
+    "incorrect_equation": "442 - 83 = 384",
+    "a": 442,
+    "b": 83,
+    "correct_answer": 359,
+    "incorrect_answer": 384
+  },
+  {
+    "type": "subtraction",
+    "problem": "995 - 140",
+    "correct_equation": "995 - 140 = 855",
+    "incorrect_equation": "995 - 140 = 1135",
+    "a": 995,
+    "b": 140,
+    "correct_answer": 855,
+    "incorrect_answer": 1135
+  },
+  {
+    "type": "subtraction",
+    "problem": "492 - 432",
+    "correct_equation": "492 - 432 = 60",
+    "incorrect_equation": "492 - 432 = 6",
+    "a": 492,
+    "b": 432,
+    "correct_answer": 60,
+    "incorrect_answer": 6
+  },
+  {
+    "type": "subtraction",
+    "problem": "544 - 138",
+    "correct_equation": "544 - 138 = 406",
+    "incorrect_equation": "544 - 138 = 682",
+    "a": 544,
+    "b": 138,
+    "correct_answer": 406,
+    "incorrect_answer": 682
+  },
+  {
+    "type": "subtraction",
+    "problem": "828 - 800",
+    "correct_equation": "828 - 800 = 28",
+    "incorrect_equation": "828 - 800 = 29",
+    "a": 828,
+    "b": 800,
+    "correct_answer": 28,
+    "incorrect_answer": 29
+  },
+  {
+    "type": "subtraction",
+    "problem": "588 - 399",
+    "correct_equation": "588 - 399 = 189",
+    "incorrect_equation": "588 - 399 = 185",
+    "a": 588,
+    "b": 399,
+    "correct_answer": 189,
+    "incorrect_answer": 185
+  },
+  {
+    "type": "subtraction",
+    "problem": "781 - 431",
+    "correct_equation": "781 - 431 = 350",
+    "incorrect_equation": "781 - 431 = 387",
+    "a": 781,
+    "b": 431,
+    "correct_answer": 350,
+    "incorrect_answer": 387
+  },
+  {
+    "type": "subtraction",
+    "problem": "294 - 147",
+    "correct_equation": "294 - 147 = 147",
+    "incorrect_equation": "294 - 147 = 118",
+    "a": 294,
+    "b": 147,
+    "correct_answer": 147,
+    "incorrect_answer": 118
+  }
+]

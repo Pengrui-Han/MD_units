@@ -1,0 +1,4002 @@
+[
+  {
+    "type": "subtraction",
+    "problem": "Ethan had nineteen stamps. After giving some to Henry, Ethan had five stamps left. How many stamps did Ethan give to Henry?",
+    "correct_statement": "Ethan gave five stamps to Henry.",
+    "incorrect_statement": "Ethan gave thirty-three stamps to Henry.",
+    "num_total": 19,
+    "num2": 14,
+    "correct_answer": 5,
+    "incorrect_answer": 33
+  },
+  {
+    "type": "addition",
+    "problem": "There are five flowers in the basket. Madison puts seventeen more flowers in the basket. How many flowers are in the basket now?",
+    "correct_statement": "They have twenty-two flowers in total.",
+    "incorrect_statement": "They have twenty-one flowers in total.",
+    "num1": 5,
+    "num2": 17,
+    "correct_answer": 22,
+    "incorrect_answer": 21
+  },
+  {
+    "type": "addition",
+    "problem": "Matthew collected eleven pencils on Monday and four pencils on Tuesday. How many pencils did Matthew collect in these two days?",
+    "correct_statement": "They have fifteen pencils in total.",
+    "incorrect_statement": "They have twenty pencils in total.",
+    "num1": 11,
+    "num2": 4,
+    "correct_answer": 15,
+    "incorrect_answer": 20
+  },
+  {
+    "type": "subtraction",
+    "problem": "Harper had some marbles. After Harper got three more marbles, Harper had fifteen marbles. How many marbles did Harper have at first?",
+    "correct_statement": "Harper had twelve marbles at first.",
+    "incorrect_statement": "Harper had seventeen marbles at first.",
+    "num_total": 15,
+    "num2": 3,
+    "correct_answer": 12,
+    "incorrect_answer": 17
+  },
+  {
+    "type": "addition",
+    "problem": "Liam collected eleven flowers on Monday and fourteen flowers on Tuesday. How many flowers did Liam collect in these two days?",
+    "correct_statement": "They have twenty-five flowers in total.",
+    "incorrect_statement": "They have twenty-seven flowers in total.",
+    "num1": 11,
+    "num2": 14,
+    "correct_answer": 25,
+    "incorrect_answer": 27
+  },
+  {
+    "type": "addition",
+    "problem": "Logan found eighteen oranges. Then Logan found thirteen more oranges. How many oranges did Logan find in total?",
+    "correct_statement": "They have thirty-one oranges in total.",
+    "incorrect_statement": "They have thirty-two oranges in total.",
+    "num1": 18,
+    "num2": 13,
+    "correct_answer": 31,
+    "incorrect_answer": 32
+  },
+  {
+    "type": "subtraction",
+    "problem": "Michael had nineteen toy cars. After giving some to Ella, Michael had eight toy cars left. How many toy cars did Michael give to Ella?",
+    "correct_statement": "Michael gave eight toy cars to Ella.",
+    "incorrect_statement": "Michael gave three toy cars to Ella.",
+    "num_total": 19,
+    "num2": 11,
+    "correct_answer": 8,
+    "incorrect_answer": 3
+  },
+  {
+    "type": "subtraction",
+    "problem": "There were sixteen balloons on the table. Sophia took nine balloons. How many balloons remain on the table?",
+    "correct_statement": "Sophia has seven balloons now.",
+    "incorrect_statement": "Sophia has two balloons now.",
+    "num_total": 16,
+    "num2": 9,
+    "correct_answer": 7,
+    "incorrect_answer": 2
+  },
+  {
+    "type": "subtraction",
+    "problem": "There were twenty-seven coins on the table. Ella took fifteen coins. How many coins remain on the table?",
+    "correct_statement": "Ella has twelve coins now.",
+    "incorrect_statement": "Ella has forty-two coins now.",
+    "num_total": 27,
+    "num2": 15,
+    "correct_answer": 12,
+    "incorrect_answer": 42
+  },
+  {
+    "type": "addition",
+    "problem": "Emma found eleven apples. Then Emma found nine more apples. How many apples did Emma find in total?",
+    "correct_statement": "They have twenty apples in total.",
+    "incorrect_statement": "They have sixteen apples in total.",
+    "num1": 11,
+    "num2": 9,
+    "correct_answer": 20,
+    "incorrect_answer": 16
+  },
+  {
+    "type": "subtraction",
+    "problem": "Daniel had nineteen balloons. After giving some to Olivia, Daniel had thirteen balloons left. How many balloons did Daniel give to Olivia?",
+    "correct_statement": "Daniel gave thirteen balloons to Olivia.",
+    "incorrect_statement": "Daniel gave eighteen balloons to Olivia.",
+    "num_total": 19,
+    "num2": 6,
+    "correct_answer": 13,
+    "incorrect_answer": 18
+  },
+  {
+    "type": "subtraction",
+    "problem": "Madison had twenty-nine books. fifteen of them were eaten. How many books does Madison have now?",
+    "correct_statement": "Madison has fourteen books now.",
+    "incorrect_statement": "Madison has nine books now.",
+    "num_total": 29,
+    "num2": 15,
+    "correct_answer": 14,
+    "incorrect_answer": 9
+  },
+  {
+    "type": "subtraction",
+    "problem": "Charlotte had nineteen cards. Charlotte gave nine cards to Abigail. How many cards does Charlotte have left?",
+    "correct_statement": "There are ten cards left.",
+    "incorrect_statement": "There are twenty-eight cards left.",
+    "num_total": 19,
+    "num2": 9,
+    "correct_answer": 10,
+    "incorrect_answer": 28
+  },
+  {
+    "type": "addition",
+    "problem": "Daniel found twenty cookies. Then Daniel found six more cookies. How many cookies did Daniel find in total?",
+    "correct_statement": "They have twenty-six cookies in total.",
+    "incorrect_statement": "They have fourteen cookies in total.",
+    "num1": 20,
+    "num2": 6,
+    "correct_answer": 26,
+    "incorrect_answer": 14
+  },
+  {
+    "type": "subtraction",
+    "problem": "Olivia had fourteen oranges. After giving some to Daniel, Olivia had five oranges left. How many oranges did Olivia give to Daniel?",
+    "correct_statement": "Olivia gave five oranges to Daniel.",
+    "incorrect_statement": "Olivia gave seven oranges to Daniel.",
+    "num_total": 14,
+    "num2": 9,
+    "correct_answer": 5,
+    "incorrect_answer": 7
+  },
+  {
+    "type": "addition",
+    "problem": "Mia has three pencils. Jacob has thirteen pencils. How many pencils do they have together?",
+    "correct_statement": "They have sixteen pencils in total.",
+    "incorrect_statement": "They have twenty pencils in total.",
+    "num1": 3,
+    "num2": 13,
+    "correct_answer": 16,
+    "incorrect_answer": 20
+  },
+  {
+    "type": "subtraction",
+    "problem": "Michael had twenty oranges. eleven of them were eaten. How many oranges does Michael have now?",
+    "correct_statement": "Michael has nine oranges now.",
+    "incorrect_statement": "Michael has eleven oranges now.",
+    "num_total": 20,
+    "num2": 11,
+    "correct_answer": 9,
+    "incorrect_answer": 11
+  },
+  {
+    "type": "addition",
+    "problem": "Aiden baked fourteen flowers. Benjamin baked five flowers. How many flowers did they bake altogether?",
+    "correct_statement": "They have nineteen flowers in total.",
+    "incorrect_statement": "They have twenty-six flowers in total.",
+    "num1": 14,
+    "num2": 5,
+    "correct_answer": 19,
+    "incorrect_answer": 26
+  },
+  {
+    "type": "addition",
+    "problem": "Matthew collected thirteen books on Monday and thirteen books on Tuesday. How many books did Matthew collect in these two days?",
+    "correct_statement": "They have twenty-six books in total.",
+    "incorrect_statement": "They have twenty-three books in total.",
+    "num1": 13,
+    "num2": 13,
+    "correct_answer": 26,
+    "incorrect_answer": 23
+  },
+  {
+    "type": "addition",
+    "problem": "James baked two stickers. Jackson baked six stickers. How many stickers did they bake altogether?",
+    "correct_statement": "They have eight stickers in total.",
+    "incorrect_statement": "They have seven stickers in total.",
+    "num1": 2,
+    "num2": 6,
+    "correct_answer": 8,
+    "incorrect_answer": 7
+  },
+  {
+    "type": "addition",
+    "problem": "Victoria collected nine books on Monday and twelve books on Tuesday. How many books did Victoria collect in these two days?",
+    "correct_statement": "They have twenty-one books in total.",
+    "incorrect_statement": "They have three books in total.",
+    "num1": 9,
+    "num2": 12,
+    "correct_answer": 21,
+    "incorrect_answer": 3
+  },
+  {
+    "type": "addition",
+    "problem": "Harper has six pencils. Mason has ten pencils. How many pencils do they have together?",
+    "correct_statement": "They have sixteen pencils in total.",
+    "incorrect_statement": "They have twenty-six pencils in total.",
+    "num1": 6,
+    "num2": 10,
+    "correct_answer": 16,
+    "incorrect_answer": 26
+  },
+  {
+    "type": "addition",
+    "problem": "Olivia has twenty balloons. Sophia has four balloons. How many balloons do they have together?",
+    "correct_statement": "They have twenty-four balloons in total.",
+    "incorrect_statement": "They have twenty-two balloons in total.",
+    "num1": 20,
+    "num2": 4,
+    "correct_answer": 24,
+    "incorrect_answer": 22
+  },
+  {
+    "type": "subtraction",
+    "problem": "Michael had twenty-four books. After giving some to Lucas, Michael had eleven books left. How many books did Michael give to Lucas?",
+    "correct_statement": "Michael gave eleven books to Lucas.",
+    "incorrect_statement": "Michael gave six books to Lucas.",
+    "num_total": 24,
+    "num2": 13,
+    "correct_answer": 11,
+    "incorrect_answer": 6
+  },
+  {
+    "type": "addition",
+    "problem": "There are seventeen toy cars in the basket. Alex puts sixteen more toy cars in the basket. How many toy cars are in the basket now?",
+    "correct_statement": "They have thirty-three toy cars in total.",
+    "incorrect_statement": "They have thirty-one toy cars in total.",
+    "num1": 17,
+    "num2": 16,
+    "correct_answer": 33,
+    "incorrect_answer": 31
+  },
+  {
+    "type": "addition",
+    "problem": "There are twelve toy cars in the basket. Henry puts sixteen more toy cars in the basket. How many toy cars are in the basket now?",
+    "correct_statement": "They have twenty-eight toy cars in total.",
+    "incorrect_statement": "They have thirty-one toy cars in total.",
+    "num1": 12,
+    "num2": 16,
+    "correct_answer": 28,
+    "incorrect_answer": 31
+  },
+  {
+    "type": "subtraction",
+    "problem": "Evelyn had twenty-four marbles. twelve of them were eaten. How many marbles does Evelyn have now?",
+    "correct_statement": "Evelyn has twelve marbles now.",
+    "incorrect_statement": "Evelyn has seventeen marbles now.",
+    "num_total": 24,
+    "num2": 12,
+    "correct_answer": 12,
+    "incorrect_answer": 17
+  },
+  {
+    "type": "subtraction",
+    "problem": "Ethan had twelve flowers. Ethan gave nine flowers to Evelyn. How many flowers does Ethan have left?",
+    "correct_statement": "There are three flowers left.",
+    "incorrect_statement": "There are four flowers left.",
+    "num_total": 12,
+    "num2": 9,
+    "correct_answer": 3,
+    "incorrect_answer": 4
+  },
+  {
+    "type": "addition",
+    "problem": "Charlotte collected nine coins on Monday and thirteen coins on Tuesday. How many coins did Charlotte collect in these two days?",
+    "correct_statement": "They have twenty-two coins in total.",
+    "incorrect_statement": "They have twenty-three coins in total.",
+    "num1": 9,
+    "num2": 13,
+    "correct_answer": 22,
+    "incorrect_answer": 23
+  },
+  {
+    "type": "addition",
+    "problem": "Alex baked three oranges. Ethan baked ten oranges. How many oranges did they bake altogether?",
+    "correct_statement": "They have thirteen oranges in total.",
+    "incorrect_statement": "They have seven oranges in total.",
+    "num1": 3,
+    "num2": 10,
+    "correct_answer": 13,
+    "incorrect_answer": 7
+  },
+  {
+    "type": "subtraction",
+    "problem": "Sophia had fourteen oranges. Sophia gave twelve oranges to Lucas. How many oranges does Sophia have left?",
+    "correct_statement": "There are two oranges left.",
+    "incorrect_statement": "There are ten oranges left.",
+    "num_total": 14,
+    "num2": 12,
+    "correct_answer": 2,
+    "incorrect_answer": 10
+  },
+  {
+    "type": "subtraction",
+    "problem": "Jackson had twenty-eight flowers. Jackson gave fourteen flowers to Amelia. How many flowers does Jackson have left?",
+    "correct_statement": "There are fourteen flowers left.",
+    "incorrect_statement": "There are sixteen flowers left.",
+    "num_total": 28,
+    "num2": 14,
+    "correct_answer": 14,
+    "incorrect_answer": 16
+  },
+  {
+    "type": "subtraction",
+    "problem": "Emma had some marbles. After Emma got five more marbles, Emma had nine marbles. How many marbles did Emma have at first?",
+    "correct_statement": "Emma had four marbles at first.",
+    "incorrect_statement": "Emma had three marbles at first.",
+    "num_total": 9,
+    "num2": 5,
+    "correct_answer": 4,
+    "incorrect_answer": 3
+  },
+  {
+    "type": "subtraction",
+    "problem": "Scarlett had some oranges. After Scarlett got three more oranges, Scarlett had nine oranges. How many oranges did Scarlett have at first?",
+    "correct_statement": "Scarlett had six oranges at first.",
+    "incorrect_statement": "Scarlett had seven oranges at first.",
+    "num_total": 9,
+    "num2": 3,
+    "correct_answer": 6,
+    "incorrect_answer": 7
+  },
+  {
+    "type": "subtraction",
+    "problem": "Charlotte had twelve balloons. After giving some to Benjamin, Charlotte had seven balloons left. How many balloons did Charlotte give to Benjamin?",
+    "correct_statement": "Charlotte gave seven balloons to Benjamin.",
+    "incorrect_statement": "Charlotte gave two balloons to Benjamin.",
+    "num_total": 12,
+    "num2": 5,
+    "correct_answer": 7,
+    "incorrect_answer": 2
+  },
+  {
+    "type": "subtraction",
+    "problem": "Lily had twenty-seven balloons. thirteen of them were eaten. How many balloons does Lily have now?",
+    "correct_statement": "Lily has fourteen balloons now.",
+    "incorrect_statement": "Lily has nineteen balloons now.",
+    "num_total": 27,
+    "num2": 13,
+    "correct_answer": 14,
+    "incorrect_answer": 19
+  },
+  {
+    "type": "addition",
+    "problem": "Harper baked three dolls. Emily baked fifteen dolls. How many dolls did they bake altogether?",
+    "correct_statement": "They have eighteen dolls in total.",
+    "incorrect_statement": "They have twenty-one dolls in total.",
+    "num1": 3,
+    "num2": 15,
+    "correct_answer": 18,
+    "incorrect_answer": 21
+  },
+  {
+    "type": "subtraction",
+    "problem": "Benjamin had seventeen flowers. thirteen of them were eaten. How many flowers does Benjamin have now?",
+    "correct_statement": "Benjamin has four flowers now.",
+    "incorrect_statement": "Benjamin has six flowers now.",
+    "num_total": 17,
+    "num2": 13,
+    "correct_answer": 4,
+    "incorrect_answer": 6
+  },
+  {
+    "type": "subtraction",
+    "problem": "Lily had some stickers. After Lily got thirteen more stickers, Lily had fifteen stickers. How many stickers did Lily have at first?",
+    "correct_statement": "Lily had two stickers at first.",
+    "incorrect_statement": "Lily had five stickers at first.",
+    "num_total": 15,
+    "num2": 13,
+    "correct_answer": 2,
+    "incorrect_answer": 5
+  },
+  {
+    "type": "subtraction",
+    "problem": "David had nine stamps. two of them were eaten. How many stamps does David have now?",
+    "correct_statement": "David has seven stamps now.",
+    "incorrect_statement": "David has twelve stamps now.",
+    "num_total": 9,
+    "num2": 2,
+    "correct_answer": 7,
+    "incorrect_answer": 12
+  },
+  {
+    "type": "addition",
+    "problem": "There are nine apples in the basket. Aiden puts seven more apples in the basket. How many apples are in the basket now?",
+    "correct_statement": "They have sixteen apples in total.",
+    "incorrect_statement": "They have thirteen apples in total.",
+    "num1": 9,
+    "num2": 7,
+    "correct_answer": 16,
+    "incorrect_answer": 13
+  },
+  {
+    "type": "addition",
+    "problem": "There are five stamps in the basket. Jackson puts sixteen more stamps in the basket. How many stamps are in the basket now?",
+    "correct_statement": "They have twenty-one stamps in total.",
+    "incorrect_statement": "They have twenty-two stamps in total.",
+    "num1": 5,
+    "num2": 16,
+    "correct_answer": 21,
+    "incorrect_answer": 22
+  },
+  {
+    "type": "addition",
+    "problem": "Sophia has twenty chocolates. Lily has twelve chocolates. How many chocolates do they have together?",
+    "correct_statement": "They have thirty-two chocolates in total.",
+    "incorrect_statement": "They have thirty-four chocolates in total.",
+    "num1": 20,
+    "num2": 12,
+    "correct_answer": 32,
+    "incorrect_answer": 34
+  },
+  {
+    "type": "addition",
+    "problem": "Victoria baked thirteen flowers. Matthew baked four flowers. How many flowers did they bake altogether?",
+    "correct_statement": "They have seventeen flowers in total.",
+    "incorrect_statement": "They have thirteen flowers in total.",
+    "num1": 13,
+    "num2": 4,
+    "correct_answer": 17,
+    "incorrect_answer": 13
+  },
+  {
+    "type": "subtraction",
+    "problem": "Lucas had some stickers. After Lucas got six more stickers, Lucas had eighteen stickers. How many stickers did Lucas have at first?",
+    "correct_statement": "Lucas had twelve stickers at first.",
+    "incorrect_statement": "Lucas had six stickers at first.",
+    "num_total": 18,
+    "num2": 6,
+    "correct_answer": 12,
+    "incorrect_answer": 6
+  },
+  {
+    "type": "addition",
+    "problem": "Matthew found three flowers. Then Matthew found ten more flowers. How many flowers did Matthew find in total?",
+    "correct_statement": "They have thirteen flowers in total.",
+    "incorrect_statement": "They have twelve flowers in total.",
+    "num1": 3,
+    "num2": 10,
+    "correct_answer": 13,
+    "incorrect_answer": 12
+  },
+  {
+    "type": "subtraction",
+    "problem": "Daniel had fifteen flowers. After giving some to Sophia, Daniel had ten flowers left. How many flowers did Daniel give to Sophia?",
+    "correct_statement": "Daniel gave ten flowers to Sophia.",
+    "incorrect_statement": "Daniel gave nine flowers to Sophia.",
+    "num_total": 15,
+    "num2": 5,
+    "correct_answer": 10,
+    "incorrect_answer": 9
+  },
+  {
+    "type": "subtraction",
+    "problem": "Ella had eight chocolates. six of them were eaten. How many chocolates does Ella have now?",
+    "correct_statement": "Ella has two chocolates now.",
+    "incorrect_statement": "Ella has five chocolates now.",
+    "num_total": 8,
+    "num2": 6,
+    "correct_answer": 2,
+    "incorrect_answer": 5
+  },
+  {
+    "type": "addition",
+    "problem": "Henry has thirteen cards. Sofia has sixteen cards. How many cards do they have together?",
+    "correct_statement": "They have twenty-nine cards in total.",
+    "incorrect_statement": "They have thirty cards in total.",
+    "num1": 13,
+    "num2": 16,
+    "correct_answer": 29,
+    "incorrect_answer": 30
+  },
+  {
+    "type": "subtraction",
+    "problem": "Victoria had twelve apples. After giving some to Sofia, Victoria had nine apples left. How many apples did Victoria give to Sofia?",
+    "correct_statement": "Victoria gave nine apples to Sofia.",
+    "incorrect_statement": "Victoria gave ten apples to Sofia.",
+    "num_total": 12,
+    "num2": 3,
+    "correct_answer": 9,
+    "incorrect_answer": 10
+  },
+  {
+    "type": "addition",
+    "problem": "Ethan baked ten cards. Emma baked sixteen cards. How many cards did they bake altogether?",
+    "correct_statement": "They have twenty-six cards in total.",
+    "incorrect_statement": "They have thirty-one cards in total.",
+    "num1": 10,
+    "num2": 16,
+    "correct_answer": 26,
+    "incorrect_answer": 31
+  },
+  {
+    "type": "addition",
+    "problem": "Sophia found seven dolls. Then Sophia found thirteen more dolls. How many dolls did Sophia find in total?",
+    "correct_statement": "They have twenty dolls in total.",
+    "incorrect_statement": "They have six dolls in total.",
+    "num1": 7,
+    "num2": 13,
+    "correct_answer": 20,
+    "incorrect_answer": 6
+  },
+  {
+    "type": "subtraction",
+    "problem": "James had some chocolates. After James got ten more chocolates, James had twenty chocolates. How many chocolates did James have at first?",
+    "correct_statement": "James had ten chocolates at first.",
+    "incorrect_statement": "James had thirteen chocolates at first.",
+    "num_total": 20,
+    "num2": 10,
+    "correct_answer": 10,
+    "incorrect_answer": 13
+  },
+  {
+    "type": "subtraction",
+    "problem": "Emily had some balloons. After Emily got four more balloons, Emily had eighteen balloons. How many balloons did Emily have at first?",
+    "correct_statement": "Emily had fourteen balloons at first.",
+    "incorrect_statement": "Emily had eleven balloons at first.",
+    "num_total": 18,
+    "num2": 4,
+    "correct_answer": 14,
+    "incorrect_answer": 11
+  },
+  {
+    "type": "addition",
+    "problem": "Samuel baked eighteen cookies. Sophia baked thirteen cookies. How many cookies did they bake altogether?",
+    "correct_statement": "They have thirty-one cookies in total.",
+    "incorrect_statement": "They have thirty-six cookies in total.",
+    "num1": 18,
+    "num2": 13,
+    "correct_answer": 31,
+    "incorrect_answer": 36
+  },
+  {
+    "type": "subtraction",
+    "problem": "David had twenty balloons. After giving some to Emma, David had eight balloons left. How many balloons did David give to Emma?",
+    "correct_statement": "David gave eight balloons to Emma.",
+    "incorrect_statement": "David gave three balloons to Emma.",
+    "num_total": 20,
+    "num2": 12,
+    "correct_answer": 8,
+    "incorrect_answer": 3
+  },
+  {
+    "type": "addition",
+    "problem": "Harper has eleven marbles. Samuel has seven marbles. How many marbles do they have together?",
+    "correct_statement": "They have eighteen marbles in total.",
+    "incorrect_statement": "They have sixteen marbles in total.",
+    "num1": 11,
+    "num2": 7,
+    "correct_answer": 18,
+    "incorrect_answer": 16
+  },
+  {
+    "type": "subtraction",
+    "problem": "There were twenty-two chocolates on the table. Evelyn took twelve chocolates. How many chocolates remain on the table?",
+    "correct_statement": "Evelyn has ten chocolates now.",
+    "incorrect_statement": "Evelyn has eleven chocolates now.",
+    "num_total": 22,
+    "num2": 12,
+    "correct_answer": 10,
+    "incorrect_answer": 11
+  },
+  {
+    "type": "addition",
+    "problem": "There are twenty cookies in the basket. Mia puts nineteen more cookies in the basket. How many cookies are in the basket now?",
+    "correct_statement": "They have thirty-nine cookies in total.",
+    "incorrect_statement": "They have thirty-six cookies in total.",
+    "num1": 20,
+    "num2": 19,
+    "correct_answer": 39,
+    "incorrect_answer": 36
+  },
+  {
+    "type": "addition",
+    "problem": "There are fourteen balloons in the basket. Sofia puts eleven more balloons in the basket. How many balloons are in the basket now?",
+    "correct_statement": "They have twenty-five balloons in total.",
+    "incorrect_statement": "They have twenty-eight balloons in total.",
+    "num1": 14,
+    "num2": 11,
+    "correct_answer": 25,
+    "incorrect_answer": 28
+  },
+  {
+    "type": "subtraction",
+    "problem": "Michael had some marbles. After Michael got fourteen more marbles, Michael had sixteen marbles. How many marbles did Michael have at first?",
+    "correct_statement": "Michael had two marbles at first.",
+    "incorrect_statement": "Michael had three marbles at first.",
+    "num_total": 16,
+    "num2": 14,
+    "correct_answer": 2,
+    "incorrect_answer": 3
+  },
+  {
+    "type": "addition",
+    "problem": "Logan collected nineteen coins on Monday and six coins on Tuesday. How many coins did Logan collect in these two days?",
+    "correct_statement": "They have twenty-five coins in total.",
+    "incorrect_statement": "They have thirty-five coins in total.",
+    "num1": 19,
+    "num2": 6,
+    "correct_answer": 25,
+    "incorrect_answer": 35
+  },
+  {
+    "type": "subtraction",
+    "problem": "Samuel had some cards. After Samuel got ten more cards, Samuel had twenty cards. How many cards did Samuel have at first?",
+    "correct_statement": "Samuel had ten cards at first.",
+    "incorrect_statement": "Samuel had fourteen cards at first.",
+    "num_total": 20,
+    "num2": 10,
+    "correct_answer": 10,
+    "incorrect_answer": 14
+  },
+  {
+    "type": "addition",
+    "problem": "Amelia baked sixteen oranges. Mia baked eight oranges. How many oranges did they bake altogether?",
+    "correct_statement": "They have twenty-four oranges in total.",
+    "incorrect_statement": "They have twenty-seven oranges in total.",
+    "num1": 16,
+    "num2": 8,
+    "correct_answer": 24,
+    "incorrect_answer": 27
+  },
+  {
+    "type": "addition",
+    "problem": "Daniel has fifteen balloons. Olivia has eight balloons. How many balloons do they have together?",
+    "correct_statement": "They have twenty-three balloons in total.",
+    "incorrect_statement": "They have thirty balloons in total.",
+    "num1": 15,
+    "num2": 8,
+    "correct_answer": 23,
+    "incorrect_answer": 30
+  },
+  {
+    "type": "subtraction",
+    "problem": "Emma had sixteen dolls. five of them were eaten. How many dolls does Emma have now?",
+    "correct_statement": "Emma has eleven dolls now.",
+    "incorrect_statement": "Emma has six dolls now.",
+    "num_total": 16,
+    "num2": 5,
+    "correct_answer": 11,
+    "incorrect_answer": 6
+  },
+  {
+    "type": "subtraction",
+    "problem": "Daniel had some coins. After Daniel got eight more coins, Daniel had fifteen coins. How many coins did Daniel have at first?",
+    "correct_statement": "Daniel had seven coins at first.",
+    "incorrect_statement": "Daniel had twelve coins at first.",
+    "num_total": 15,
+    "num2": 8,
+    "correct_answer": 7,
+    "incorrect_answer": 12
+  },
+  {
+    "type": "addition",
+    "problem": "Amelia baked sixteen books. Daniel baked three books. How many books did they bake altogether?",
+    "correct_statement": "They have nineteen books in total.",
+    "incorrect_statement": "They have thirteen books in total.",
+    "num1": 16,
+    "num2": 3,
+    "correct_answer": 19,
+    "incorrect_answer": 13
+  },
+  {
+    "type": "addition",
+    "problem": "Mia collected nineteen apples on Monday and sixteen apples on Tuesday. How many apples did Mia collect in these two days?",
+    "correct_statement": "They have thirty-five apples in total.",
+    "incorrect_statement": "They have thirty-six apples in total.",
+    "num1": 19,
+    "num2": 16,
+    "correct_answer": 35,
+    "incorrect_answer": 36
+  },
+  {
+    "type": "addition",
+    "problem": "Lucas collected nine flowers on Monday and nine flowers on Tuesday. How many flowers did Lucas collect in these two days?",
+    "correct_statement": "They have eighteen flowers in total.",
+    "incorrect_statement": "They have thirteen flowers in total.",
+    "num1": 9,
+    "num2": 9,
+    "correct_answer": 18,
+    "incorrect_answer": 13
+  },
+  {
+    "type": "addition",
+    "problem": "Alex collected seven coins on Monday and nine coins on Tuesday. How many coins did Alex collect in these two days?",
+    "correct_statement": "They have sixteen coins in total.",
+    "incorrect_statement": "They have thirteen coins in total.",
+    "num1": 7,
+    "num2": 9,
+    "correct_answer": 16,
+    "incorrect_answer": 13
+  },
+  {
+    "type": "addition",
+    "problem": "There are four coins in the basket. Noah puts two more coins in the basket. How many coins are in the basket now?",
+    "correct_statement": "They have six coins in total.",
+    "incorrect_statement": "They have three coins in total.",
+    "num1": 4,
+    "num2": 2,
+    "correct_answer": 6,
+    "incorrect_answer": 3
+  },
+  {
+    "type": "addition",
+    "problem": "Isabella has six balloons. Olivia has seventeen balloons. How many balloons do they have together?",
+    "correct_statement": "They have twenty-three balloons in total.",
+    "incorrect_statement": "They have twenty balloons in total.",
+    "num1": 6,
+    "num2": 17,
+    "correct_answer": 23,
+    "incorrect_answer": 20
+  },
+  {
+    "type": "subtraction",
+    "problem": "Charlotte had some chocolates. After Charlotte got seven more chocolates, Charlotte had thirteen chocolates. How many chocolates did Charlotte have at first?",
+    "correct_statement": "Charlotte had six chocolates at first.",
+    "incorrect_statement": "Charlotte had five chocolates at first.",
+    "num_total": 13,
+    "num2": 7,
+    "correct_answer": 6,
+    "incorrect_answer": 5
+  },
+  {
+    "type": "subtraction",
+    "problem": "Lucas had twelve stamps. eight of them were eaten. How many stamps does Lucas have now?",
+    "correct_statement": "Lucas has four stamps now.",
+    "incorrect_statement": "Lucas has five stamps now.",
+    "num_total": 12,
+    "num2": 8,
+    "correct_answer": 4,
+    "incorrect_answer": 5
+  },
+  {
+    "type": "addition",
+    "problem": "Amelia baked two pencils. Ethan baked four pencils. How many pencils did they bake altogether?",
+    "correct_statement": "They have six pencils in total.",
+    "incorrect_statement": "They have two pencils in total.",
+    "num1": 2,
+    "num2": 4,
+    "correct_answer": 6,
+    "incorrect_answer": 2
+  },
+  {
+    "type": "subtraction",
+    "problem": "Isabella had twenty-one pencils. Isabella gave fifteen pencils to Daniel. How many pencils does Isabella have left?",
+    "correct_statement": "There are six pencils left.",
+    "incorrect_statement": "There are eleven pencils left.",
+    "num_total": 21,
+    "num2": 15,
+    "correct_answer": 6,
+    "incorrect_answer": 11
+  },
+  {
+    "type": "addition",
+    "problem": "Emily collected twelve toy cars on Monday and ten toy cars on Tuesday. How many toy cars did Emily collect in these two days?",
+    "correct_statement": "They have twenty-two toy cars in total.",
+    "incorrect_statement": "They have twenty-one toy cars in total.",
+    "num1": 12,
+    "num2": 10,
+    "correct_answer": 22,
+    "incorrect_answer": 21
+  },
+  {
+    "type": "subtraction",
+    "problem": "David had some stamps. After David got fifteen more stamps, David had twenty-one stamps. How many stamps did David have at first?",
+    "correct_statement": "David had six stamps at first.",
+    "incorrect_statement": "David had three stamps at first.",
+    "num_total": 21,
+    "num2": 15,
+    "correct_answer": 6,
+    "incorrect_answer": 3
+  },
+  {
+    "type": "addition",
+    "problem": "Sophia baked three cards. Amelia baked ten cards. How many cards did they bake altogether?",
+    "correct_statement": "They have thirteen cards in total.",
+    "incorrect_statement": "They have sixteen cards in total.",
+    "num1": 3,
+    "num2": 10,
+    "correct_answer": 13,
+    "incorrect_answer": 16
+  },
+  {
+    "type": "subtraction",
+    "problem": "Sofia had nineteen stickers. After giving some to Mason, Sofia had seven stickers left. How many stickers did Sofia give to Mason?",
+    "correct_statement": "Sofia gave seven stickers to Mason.",
+    "incorrect_statement": "Sofia gave five stickers to Mason.",
+    "num_total": 19,
+    "num2": 12,
+    "correct_answer": 7,
+    "incorrect_answer": 5
+  },
+  {
+    "type": "subtraction",
+    "problem": "Logan had ten cookies. three of them were eaten. How many cookies does Logan have now?",
+    "correct_statement": "Logan has seven cookies now.",
+    "incorrect_statement": "Logan has two cookies now.",
+    "num_total": 10,
+    "num2": 3,
+    "correct_answer": 7,
+    "incorrect_answer": 2
+  },
+  {
+    "type": "subtraction",
+    "problem": "There were twenty-four dolls on the table. Charlotte took ten dolls. How many dolls remain on the table?",
+    "correct_statement": "Charlotte has fourteen dolls now.",
+    "incorrect_statement": "Charlotte has eleven dolls now.",
+    "num_total": 24,
+    "num2": 10,
+    "correct_answer": 14,
+    "incorrect_answer": 11
+  },
+  {
+    "type": "addition",
+    "problem": "Mia baked ten marbles. Lily baked two marbles. How many marbles did they bake altogether?",
+    "correct_statement": "They have twelve marbles in total.",
+    "incorrect_statement": "They have eight marbles in total.",
+    "num1": 10,
+    "num2": 2,
+    "correct_answer": 12,
+    "incorrect_answer": 8
+  },
+  {
+    "type": "subtraction",
+    "problem": "James had some dolls. After James got six more dolls, James had seventeen dolls. How many dolls did James have at first?",
+    "correct_statement": "James had eleven dolls at first.",
+    "incorrect_statement": "James had five dolls at first.",
+    "num_total": 17,
+    "num2": 6,
+    "correct_answer": 11,
+    "incorrect_answer": 5
+  },
+  {
+    "type": "subtraction",
+    "problem": "Emma had twenty-five cards. fourteen of them were eaten. How many cards does Emma have now?",
+    "correct_statement": "Emma has eleven cards now.",
+    "incorrect_statement": "Emma has twelve cards now.",
+    "num_total": 25,
+    "num2": 14,
+    "correct_answer": 11,
+    "incorrect_answer": 12
+  },
+  {
+    "type": "subtraction",
+    "problem": "Michael had some oranges. After Michael got twelve more oranges, Michael had twenty-seven oranges. How many oranges did Michael have at first?",
+    "correct_statement": "Michael had fifteen oranges at first.",
+    "incorrect_statement": "Michael had ten oranges at first.",
+    "num_total": 27,
+    "num2": 12,
+    "correct_answer": 15,
+    "incorrect_answer": 10
+  },
+  {
+    "type": "addition",
+    "problem": "Samuel collected fifteen stickers on Monday and twelve stickers on Tuesday. How many stickers did Samuel collect in these two days?",
+    "correct_statement": "They have twenty-seven stickers in total.",
+    "incorrect_statement": "They have twenty-three stickers in total.",
+    "num1": 15,
+    "num2": 12,
+    "correct_answer": 27,
+    "incorrect_answer": 23
+  },
+  {
+    "type": "addition",
+    "problem": "There are ten flowers in the basket. Daniel puts six more flowers in the basket. How many flowers are in the basket now?",
+    "correct_statement": "They have sixteen flowers in total.",
+    "incorrect_statement": "They have fourteen flowers in total.",
+    "num1": 10,
+    "num2": 6,
+    "correct_answer": 16,
+    "incorrect_answer": 14
+  },
+  {
+    "type": "subtraction",
+    "problem": "There were thirteen marbles on the table. Lucas took ten marbles. How many marbles remain on the table?",
+    "correct_statement": "Lucas has three marbles now.",
+    "incorrect_statement": "Lucas has eight marbles now.",
+    "num_total": 13,
+    "num2": 10,
+    "correct_answer": 3,
+    "incorrect_answer": 8
+  },
+  {
+    "type": "addition",
+    "problem": "Harper found fifteen stickers. Then Harper found three more stickers. How many stickers did Harper find in total?",
+    "correct_statement": "They have eighteen stickers in total.",
+    "incorrect_statement": "They have twenty-two stickers in total.",
+    "num1": 15,
+    "num2": 3,
+    "correct_answer": 18,
+    "incorrect_answer": 22
+  },
+  {
+    "type": "addition",
+    "problem": "Amelia has ten stamps. Logan has seven stamps. How many stamps do they have together?",
+    "correct_statement": "They have seventeen stamps in total.",
+    "incorrect_statement": "They have nineteen stamps in total.",
+    "num1": 10,
+    "num2": 7,
+    "correct_answer": 17,
+    "incorrect_answer": 19
+  },
+  {
+    "type": "subtraction",
+    "problem": "Abigail had seventeen toy cars. Abigail gave twelve toy cars to James. How many toy cars does Abigail have left?",
+    "correct_statement": "There are five toy cars left.",
+    "incorrect_statement": "There are three toy cars left.",
+    "num_total": 17,
+    "num2": 12,
+    "correct_answer": 5,
+    "incorrect_answer": 3
+  },
+  {
+    "type": "subtraction",
+    "problem": "There were ten pencils on the table. Sofia took six pencils. How many pencils remain on the table?",
+    "correct_statement": "Sofia has four pencils now.",
+    "incorrect_statement": "Sofia has nine pencils now.",
+    "num_total": 10,
+    "num2": 6,
+    "correct_answer": 4,
+    "incorrect_answer": 9
+  },
+  {
+    "type": "addition",
+    "problem": "Lily has four coins. Daniel has twelve coins. How many coins do they have together?",
+    "correct_statement": "They have sixteen coins in total.",
+    "incorrect_statement": "They have twenty-six coins in total.",
+    "num1": 4,
+    "num2": 12,
+    "correct_answer": 16,
+    "incorrect_answer": 26
+  },
+  {
+    "type": "addition",
+    "problem": "Charlotte found ten books. Then Charlotte found nine more books. How many books did Charlotte find in total?",
+    "correct_statement": "They have nineteen books in total.",
+    "incorrect_statement": "They have twenty-three books in total.",
+    "num1": 10,
+    "num2": 9,
+    "correct_answer": 19,
+    "incorrect_answer": 23
+  },
+  {
+    "type": "subtraction",
+    "problem": "Daniel had twelve cards. Daniel gave ten cards to Alex. How many cards does Daniel have left?",
+    "correct_statement": "There are two cards left.",
+    "incorrect_statement": "There are five cards left.",
+    "num_total": 12,
+    "num2": 10,
+    "correct_answer": 2,
+    "incorrect_answer": 5
+  },
+  {
+    "type": "addition",
+    "problem": "Ava found four balloons. Then Ava found six more balloons. How many balloons did Ava find in total?",
+    "correct_statement": "They have ten balloons in total.",
+    "incorrect_statement": "They have thirteen balloons in total.",
+    "num1": 4,
+    "num2": 6,
+    "correct_answer": 10,
+    "incorrect_answer": 13
+  },
+  {
+    "type": "subtraction",
+    "problem": "David had fourteen books. four of them were eaten. How many books does David have now?",
+    "correct_statement": "David has ten books now.",
+    "incorrect_statement": "David has fifteen books now.",
+    "num_total": 14,
+    "num2": 4,
+    "correct_answer": 10,
+    "incorrect_answer": 15
+  },
+  {
+    "type": "addition",
+    "problem": "Mason has four marbles. Sofia has fourteen marbles. How many marbles do they have together?",
+    "correct_statement": "They have eighteen marbles in total.",
+    "incorrect_statement": "They have fifteen marbles in total.",
+    "num1": 4,
+    "num2": 14,
+    "correct_answer": 18,
+    "incorrect_answer": 15
+  },
+  {
+    "type": "subtraction",
+    "problem": "There were twenty-five toy cars on the table. Jackson took fourteen toy cars. How many toy cars remain on the table?",
+    "correct_statement": "Jackson has eleven toy cars now.",
+    "incorrect_statement": "Jackson has thirty-nine toy cars now.",
+    "num_total": 25,
+    "num2": 14,
+    "correct_answer": 11,
+    "incorrect_answer": 39
+  },
+  {
+    "type": "addition",
+    "problem": "Noah found eight dolls. Then Noah found eight more dolls. How many dolls did Noah find in total?",
+    "correct_statement": "They have sixteen dolls in total.",
+    "incorrect_statement": "They have thirteen dolls in total.",
+    "num1": 8,
+    "num2": 8,
+    "correct_answer": 16,
+    "incorrect_answer": 13
+  },
+  {
+    "type": "subtraction",
+    "problem": "Emily had seventeen flowers. five of them were eaten. How many flowers does Emily have now?",
+    "correct_statement": "Emily has twelve flowers now.",
+    "incorrect_statement": "Emily has eleven flowers now.",
+    "num_total": 17,
+    "num2": 5,
+    "correct_answer": 12,
+    "incorrect_answer": 11
+  },
+  {
+    "type": "subtraction",
+    "problem": "Madison had eleven pencils. two of them were eaten. How many pencils does Madison have now?",
+    "correct_statement": "Madison has nine pencils now.",
+    "incorrect_statement": "Madison has six pencils now.",
+    "num_total": 11,
+    "num2": 2,
+    "correct_answer": 9,
+    "incorrect_answer": 6
+  },
+  {
+    "type": "addition",
+    "problem": "There are thirteen toy cars in the basket. Emma puts seventeen more toy cars in the basket. How many toy cars are in the basket now?",
+    "correct_statement": "They have thirty toy cars in total.",
+    "incorrect_statement": "They have twenty-nine toy cars in total.",
+    "num1": 13,
+    "num2": 17,
+    "correct_answer": 30,
+    "incorrect_answer": 29
+  },
+  {
+    "type": "addition",
+    "problem": "There are fifteen balloons in the basket. Matthew puts eleven more balloons in the basket. How many balloons are in the basket now?",
+    "correct_statement": "They have twenty-six balloons in total.",
+    "incorrect_statement": "They have thirty balloons in total.",
+    "num1": 15,
+    "num2": 11,
+    "correct_answer": 26,
+    "incorrect_answer": 30
+  },
+  {
+    "type": "subtraction",
+    "problem": "Scarlett had eighteen apples. Scarlett gave eight apples to Sophia. How many apples does Scarlett have left?",
+    "correct_statement": "There are ten apples left.",
+    "incorrect_statement": "There are twelve apples left.",
+    "num_total": 18,
+    "num2": 8,
+    "correct_answer": 10,
+    "incorrect_answer": 12
+  },
+  {
+    "type": "addition",
+    "problem": "There are fifteen chocolates in the basket. Benjamin puts six more chocolates in the basket. How many chocolates are in the basket now?",
+    "correct_statement": "They have twenty-one chocolates in total.",
+    "incorrect_statement": "They have twenty-two chocolates in total.",
+    "num1": 15,
+    "num2": 6,
+    "correct_answer": 21,
+    "incorrect_answer": 22
+  },
+  {
+    "type": "subtraction",
+    "problem": "There were eighteen cookies on the table. James took fifteen cookies. How many cookies remain on the table?",
+    "correct_statement": "James has three cookies now.",
+    "incorrect_statement": "James has thirty-three cookies now.",
+    "num_total": 18,
+    "num2": 15,
+    "correct_answer": 3,
+    "incorrect_answer": 33
+  },
+  {
+    "type": "subtraction",
+    "problem": "Daniel had twenty-nine stickers. Daniel gave fifteen stickers to Scarlett. How many stickers does Daniel have left?",
+    "correct_statement": "There are fourteen stickers left.",
+    "incorrect_statement": "There are one stickers left.",
+    "num_total": 29,
+    "num2": 15,
+    "correct_answer": 14,
+    "incorrect_answer": 1
+  },
+  {
+    "type": "subtraction",
+    "problem": "Amelia had thirteen books. nine of them were eaten. How many books does Amelia have now?",
+    "correct_statement": "Amelia has four books now.",
+    "incorrect_statement": "Amelia has five books now.",
+    "num_total": 13,
+    "num2": 9,
+    "correct_answer": 4,
+    "incorrect_answer": 5
+  },
+  {
+    "type": "subtraction",
+    "problem": "Sophia had nineteen chocolates. After giving some to Jackson, Sophia had fifteen chocolates left. How many chocolates did Sophia give to Jackson?",
+    "correct_statement": "Sophia gave fifteen chocolates to Jackson.",
+    "incorrect_statement": "Sophia gave twenty-three chocolates to Jackson.",
+    "num_total": 19,
+    "num2": 4,
+    "correct_answer": 15,
+    "incorrect_answer": 23
+  },
+  {
+    "type": "subtraction",
+    "problem": "Henry had nineteen cookies. Henry gave nine cookies to Lily. How many cookies does Henry have left?",
+    "correct_statement": "There are ten cookies left.",
+    "incorrect_statement": "There are eight cookies left.",
+    "num_total": 19,
+    "num2": 9,
+    "correct_answer": 10,
+    "incorrect_answer": 8
+  },
+  {
+    "type": "subtraction",
+    "problem": "There were eleven marbles on the table. Logan took six marbles. How many marbles remain on the table?",
+    "correct_statement": "Logan has five marbles now.",
+    "incorrect_statement": "Logan has seventeen marbles now.",
+    "num_total": 11,
+    "num2": 6,
+    "correct_answer": 5,
+    "incorrect_answer": 17
+  },
+  {
+    "type": "addition",
+    "problem": "There are fourteen stamps in the basket. David puts two more stamps in the basket. How many stamps are in the basket now?",
+    "correct_statement": "They have sixteen stamps in total.",
+    "incorrect_statement": "They have twelve stamps in total.",
+    "num1": 14,
+    "num2": 2,
+    "correct_answer": 16,
+    "incorrect_answer": 12
+  },
+  {
+    "type": "subtraction",
+    "problem": "James had ten chocolates. three of them were eaten. How many chocolates does James have now?",
+    "correct_statement": "James has seven chocolates now.",
+    "incorrect_statement": "James has thirteen chocolates now.",
+    "num_total": 10,
+    "num2": 3,
+    "correct_answer": 7,
+    "incorrect_answer": 13
+  },
+  {
+    "type": "addition",
+    "problem": "Amelia has ten cards. Sophia has fourteen cards. How many cards do they have together?",
+    "correct_statement": "They have twenty-four cards in total.",
+    "incorrect_statement": "They have twenty-six cards in total.",
+    "num1": 10,
+    "num2": 14,
+    "correct_answer": 24,
+    "incorrect_answer": 26
+  },
+  {
+    "type": "subtraction",
+    "problem": "Madison had five flowers. two of them were eaten. How many flowers does Madison have now?",
+    "correct_statement": "Madison has three flowers now.",
+    "incorrect_statement": "Madison has one flowers now.",
+    "num_total": 5,
+    "num2": 2,
+    "correct_answer": 3,
+    "incorrect_answer": 1
+  },
+  {
+    "type": "addition",
+    "problem": "Sofia baked two chocolates. Sophia baked thirteen chocolates. How many chocolates did they bake altogether?",
+    "correct_statement": "They have fifteen chocolates in total.",
+    "incorrect_statement": "They have twenty chocolates in total.",
+    "num1": 2,
+    "num2": 13,
+    "correct_answer": 15,
+    "incorrect_answer": 20
+  },
+  {
+    "type": "addition",
+    "problem": "James found twelve pencils. Then James found thirteen more pencils. How many pencils did James find in total?",
+    "correct_statement": "They have twenty-five pencils in total.",
+    "incorrect_statement": "They have twenty-eight pencils in total.",
+    "num1": 12,
+    "num2": 13,
+    "correct_answer": 25,
+    "incorrect_answer": 28
+  },
+  {
+    "type": "subtraction",
+    "problem": "Ava had thirteen oranges. seven of them were eaten. How many oranges does Ava have now?",
+    "correct_statement": "Ava has six oranges now.",
+    "incorrect_statement": "Ava has twenty oranges now.",
+    "num_total": 13,
+    "num2": 7,
+    "correct_answer": 6,
+    "incorrect_answer": 20
+  },
+  {
+    "type": "subtraction",
+    "problem": "Sophia had thirteen stickers. five of them were eaten. How many stickers does Sophia have now?",
+    "correct_statement": "Sophia has eight stickers now.",
+    "incorrect_statement": "Sophia has seven stickers now.",
+    "num_total": 13,
+    "num2": 5,
+    "correct_answer": 8,
+    "incorrect_answer": 7
+  },
+  {
+    "type": "subtraction",
+    "problem": "There were fourteen oranges on the table. Matthew took two oranges. How many oranges remain on the table?",
+    "correct_statement": "Matthew has twelve oranges now.",
+    "incorrect_statement": "Matthew has eleven oranges now.",
+    "num_total": 14,
+    "num2": 2,
+    "correct_answer": 12,
+    "incorrect_answer": 11
+  },
+  {
+    "type": "subtraction",
+    "problem": "Abigail had eight cookies. six of them were eaten. How many cookies does Abigail have now?",
+    "correct_statement": "Abigail has two cookies now.",
+    "incorrect_statement": "Abigail has five cookies now.",
+    "num_total": 8,
+    "num2": 6,
+    "correct_answer": 2,
+    "incorrect_answer": 5
+  },
+  {
+    "type": "addition",
+    "problem": "Liam collected eleven flowers on Monday and seventeen flowers on Tuesday. How many flowers did Liam collect in these two days?",
+    "correct_statement": "They have twenty-eight flowers in total.",
+    "incorrect_statement": "They have thirty-eight flowers in total.",
+    "num1": 11,
+    "num2": 17,
+    "correct_answer": 28,
+    "incorrect_answer": 38
+  },
+  {
+    "type": "subtraction",
+    "problem": "Abigail had seventeen marbles. After giving some to Liam, Abigail had three marbles left. How many marbles did Abigail give to Liam?",
+    "correct_statement": "Abigail gave three marbles to Liam.",
+    "incorrect_statement": "Abigail gave eight marbles to Liam.",
+    "num_total": 17,
+    "num2": 14,
+    "correct_answer": 3,
+    "incorrect_answer": 8
+  },
+  {
+    "type": "addition",
+    "problem": "Daniel collected eleven cards on Monday and nineteen cards on Tuesday. How many cards did Daniel collect in these two days?",
+    "correct_statement": "They have thirty cards in total.",
+    "incorrect_statement": "They have twenty-six cards in total.",
+    "num1": 11,
+    "num2": 19,
+    "correct_answer": 30,
+    "incorrect_answer": 26
+  },
+  {
+    "type": "addition",
+    "problem": "There are twenty coins in the basket. Madison puts five more coins in the basket. How many coins are in the basket now?",
+    "correct_statement": "They have twenty-five coins in total.",
+    "incorrect_statement": "They have twenty-eight coins in total.",
+    "num1": 20,
+    "num2": 5,
+    "correct_answer": 25,
+    "incorrect_answer": 28
+  },
+  {
+    "type": "subtraction",
+    "problem": "Ethan had some coins. After Ethan got twelve more coins, Ethan had twenty-seven coins. How many coins did Ethan have at first?",
+    "correct_statement": "Ethan had fifteen coins at first.",
+    "incorrect_statement": "Ethan had three coins at first.",
+    "num_total": 27,
+    "num2": 12,
+    "correct_answer": 15,
+    "incorrect_answer": 3
+  },
+  {
+    "type": "addition",
+    "problem": "Logan baked ten cookies. Sophia baked eight cookies. How many cookies did they bake altogether?",
+    "correct_statement": "They have eighteen cookies in total.",
+    "incorrect_statement": "They have two cookies in total.",
+    "num1": 10,
+    "num2": 8,
+    "correct_answer": 18,
+    "incorrect_answer": 2
+  },
+  {
+    "type": "subtraction",
+    "problem": "There were eight cards on the table. Logan took two cards. How many cards remain on the table?",
+    "correct_statement": "Logan has six cards now.",
+    "incorrect_statement": "Logan has three cards now.",
+    "num_total": 8,
+    "num2": 2,
+    "correct_answer": 6,
+    "incorrect_answer": 3
+  },
+  {
+    "type": "subtraction",
+    "problem": "Ethan had seven flowers. three of them were eaten. How many flowers does Ethan have now?",
+    "correct_statement": "Ethan has four flowers now.",
+    "incorrect_statement": "Ethan has one flowers now.",
+    "num_total": 7,
+    "num2": 3,
+    "correct_answer": 4,
+    "incorrect_answer": 1
+  },
+  {
+    "type": "subtraction",
+    "problem": "Logan had ten coins. two of them were eaten. How many coins does Logan have now?",
+    "correct_statement": "Logan has eight coins now.",
+    "incorrect_statement": "Logan has three coins now.",
+    "num_total": 10,
+    "num2": 2,
+    "correct_answer": 8,
+    "incorrect_answer": 3
+  },
+  {
+    "type": "addition",
+    "problem": "Harper found nineteen oranges. Then Harper found nine more oranges. How many oranges did Harper find in total?",
+    "correct_statement": "They have twenty-eight oranges in total.",
+    "incorrect_statement": "They have thirty-three oranges in total.",
+    "num1": 19,
+    "num2": 9,
+    "correct_answer": 28,
+    "incorrect_answer": 33
+  },
+  {
+    "type": "subtraction",
+    "problem": "Samuel had eleven pencils. Samuel gave six pencils to Henry. How many pencils does Samuel have left?",
+    "correct_statement": "There are five pencils left.",
+    "incorrect_statement": "There are one pencils left.",
+    "num_total": 11,
+    "num2": 6,
+    "correct_answer": 5,
+    "incorrect_answer": 1
+  },
+  {
+    "type": "subtraction",
+    "problem": "There were eighteen stamps on the table. Jacob took fourteen stamps. How many stamps remain on the table?",
+    "correct_statement": "Jacob has four stamps now.",
+    "incorrect_statement": "Jacob has thirty-two stamps now.",
+    "num_total": 18,
+    "num2": 14,
+    "correct_answer": 4,
+    "incorrect_answer": 32
+  },
+  {
+    "type": "addition",
+    "problem": "Isabella baked seven oranges. Madison baked sixteen oranges. How many oranges did they bake altogether?",
+    "correct_statement": "They have twenty-three oranges in total.",
+    "incorrect_statement": "They have twenty-two oranges in total.",
+    "num1": 7,
+    "num2": 16,
+    "correct_answer": 23,
+    "incorrect_answer": 22
+  },
+  {
+    "type": "addition",
+    "problem": "Ava has sixteen flowers. Scarlett has eleven flowers. How many flowers do they have together?",
+    "correct_statement": "They have twenty-seven flowers in total.",
+    "incorrect_statement": "They have thirty-seven flowers in total.",
+    "num1": 16,
+    "num2": 11,
+    "correct_answer": 27,
+    "incorrect_answer": 37
+  },
+  {
+    "type": "subtraction",
+    "problem": "Mia had twenty-three apples. After giving some to Olivia, Mia had nine apples left. How many apples did Mia give to Olivia?",
+    "correct_statement": "Mia gave nine apples to Olivia.",
+    "incorrect_statement": "Mia gave four apples to Olivia.",
+    "num_total": 23,
+    "num2": 14,
+    "correct_answer": 9,
+    "incorrect_answer": 4
+  },
+  {
+    "type": "subtraction",
+    "problem": "Ethan had some apples. After Ethan got four more apples, Ethan had six apples. How many apples did Ethan have at first?",
+    "correct_statement": "Ethan had two apples at first.",
+    "incorrect_statement": "Ethan had one apples at first.",
+    "num_total": 6,
+    "num2": 4,
+    "correct_answer": 2,
+    "incorrect_answer": 1
+  },
+  {
+    "type": "addition",
+    "problem": "Jacob baked nine toy cars. Charlotte baked five toy cars. How many toy cars did they bake altogether?",
+    "correct_statement": "They have fourteen toy cars in total.",
+    "incorrect_statement": "They have seventeen toy cars in total.",
+    "num1": 9,
+    "num2": 5,
+    "correct_answer": 14,
+    "incorrect_answer": 17
+  },
+  {
+    "type": "addition",
+    "problem": "There are six oranges in the basket. Henry puts seven more oranges in the basket. How many oranges are in the basket now?",
+    "correct_statement": "They have thirteen oranges in total.",
+    "incorrect_statement": "They have one oranges in total.",
+    "num1": 6,
+    "num2": 7,
+    "correct_answer": 13,
+    "incorrect_answer": 1
+  },
+  {
+    "type": "addition",
+    "problem": "Samuel has twelve pencils. Ella has sixteen pencils. How many pencils do they have together?",
+    "correct_statement": "They have twenty-eight pencils in total.",
+    "incorrect_statement": "They have twenty-six pencils in total.",
+    "num1": 12,
+    "num2": 16,
+    "correct_answer": 28,
+    "incorrect_answer": 26
+  },
+  {
+    "type": "subtraction",
+    "problem": "Samuel had fifteen coins. four of them were eaten. How many coins does Samuel have now?",
+    "correct_statement": "Samuel has eleven coins now.",
+    "incorrect_statement": "Samuel has fourteen coins now.",
+    "num_total": 15,
+    "num2": 4,
+    "correct_answer": 11,
+    "incorrect_answer": 14
+  },
+  {
+    "type": "subtraction",
+    "problem": "Ella had nineteen toy cars. After giving some to Abigail, Ella had fourteen toy cars left. How many toy cars did Ella give to Abigail?",
+    "correct_statement": "Ella gave fourteen toy cars to Abigail.",
+    "incorrect_statement": "Ella gave nine toy cars to Abigail.",
+    "num_total": 19,
+    "num2": 5,
+    "correct_answer": 14,
+    "incorrect_answer": 9
+  },
+  {
+    "type": "addition",
+    "problem": "Jackson baked nine stickers. Daniel baked thirteen stickers. How many stickers did they bake altogether?",
+    "correct_statement": "They have twenty-two stickers in total.",
+    "incorrect_statement": "They have twenty-four stickers in total.",
+    "num1": 9,
+    "num2": 13,
+    "correct_answer": 22,
+    "incorrect_answer": 24
+  },
+  {
+    "type": "addition",
+    "problem": "Benjamin baked nine coins. Samuel baked eighteen coins. How many coins did they bake altogether?",
+    "correct_statement": "They have twenty-seven coins in total.",
+    "incorrect_statement": "They have twenty-five coins in total.",
+    "num1": 9,
+    "num2": 18,
+    "correct_answer": 27,
+    "incorrect_answer": 25
+  },
+  {
+    "type": "subtraction",
+    "problem": "Scarlett had twenty pencils. nine of them were eaten. How many pencils does Scarlett have now?",
+    "correct_statement": "Scarlett has eleven pencils now.",
+    "incorrect_statement": "Scarlett has sixteen pencils now.",
+    "num_total": 20,
+    "num2": 9,
+    "correct_answer": 11,
+    "incorrect_answer": 16
+  },
+  {
+    "type": "addition",
+    "problem": "Matthew baked fourteen cards. James baked twenty cards. How many cards did they bake altogether?",
+    "correct_statement": "They have thirty-four cards in total.",
+    "incorrect_statement": "They have thirty-three cards in total.",
+    "num1": 14,
+    "num2": 20,
+    "correct_answer": 34,
+    "incorrect_answer": 33
+  },
+  {
+    "type": "addition",
+    "problem": "Aiden found eighteen stickers. Then Aiden found sixteen more stickers. How many stickers did Aiden find in total?",
+    "correct_statement": "They have thirty-four stickers in total.",
+    "incorrect_statement": "They have thirty-five stickers in total.",
+    "num1": 18,
+    "num2": 16,
+    "correct_answer": 34,
+    "incorrect_answer": 35
+  },
+  {
+    "type": "subtraction",
+    "problem": "Scarlett had thirteen books. four of them were eaten. How many books does Scarlett have now?",
+    "correct_statement": "Scarlett has nine books now.",
+    "incorrect_statement": "Scarlett has eight books now.",
+    "num_total": 13,
+    "num2": 4,
+    "correct_answer": 9,
+    "incorrect_answer": 8
+  },
+  {
+    "type": "subtraction",
+    "problem": "Aiden had seventeen cookies. Aiden gave nine cookies to Noah. How many cookies does Aiden have left?",
+    "correct_statement": "There are eight cookies left.",
+    "incorrect_statement": "There are twenty-six cookies left.",
+    "num_total": 17,
+    "num2": 9,
+    "correct_answer": 8,
+    "incorrect_answer": 26
+  },
+  {
+    "type": "subtraction",
+    "problem": "Amelia had nine stickers. After giving some to Mia, Amelia had four stickers left. How many stickers did Amelia give to Mia?",
+    "correct_statement": "Amelia gave four stickers to Mia.",
+    "incorrect_statement": "Amelia gave nine stickers to Mia.",
+    "num_total": 9,
+    "num2": 5,
+    "correct_answer": 4,
+    "incorrect_answer": 9
+  },
+  {
+    "type": "subtraction",
+    "problem": "Lucas had twenty-nine cards. fourteen of them were eaten. How many cards does Lucas have now?",
+    "correct_statement": "Lucas has fifteen cards now.",
+    "incorrect_statement": "Lucas has seventeen cards now.",
+    "num_total": 29,
+    "num2": 14,
+    "correct_answer": 15,
+    "incorrect_answer": 17
+  },
+  {
+    "type": "addition",
+    "problem": "Aiden found fourteen dolls. Then Aiden found four more dolls. How many dolls did Aiden find in total?",
+    "correct_statement": "They have eighteen dolls in total.",
+    "incorrect_statement": "They have twenty-two dolls in total.",
+    "num1": 14,
+    "num2": 4,
+    "correct_answer": 18,
+    "incorrect_answer": 22
+  },
+  {
+    "type": "subtraction",
+    "problem": "There were twenty-two toy cars on the table. Madison took ten toy cars. How many toy cars remain on the table?",
+    "correct_statement": "Madison has twelve toy cars now.",
+    "incorrect_statement": "Madison has thirteen toy cars now.",
+    "num_total": 22,
+    "num2": 10,
+    "correct_answer": 12,
+    "incorrect_answer": 13
+  },
+  {
+    "type": "subtraction",
+    "problem": "Matthew had seventeen chocolates. After giving some to Emily, Matthew had fifteen chocolates left. How many chocolates did Matthew give to Emily?",
+    "correct_statement": "Matthew gave fifteen chocolates to Emily.",
+    "incorrect_statement": "Matthew gave nineteen chocolates to Emily.",
+    "num_total": 17,
+    "num2": 2,
+    "correct_answer": 15,
+    "incorrect_answer": 19
+  },
+  {
+    "type": "addition",
+    "problem": "There are thirteen pencils in the basket. Emily puts fourteen more pencils in the basket. How many pencils are in the basket now?",
+    "correct_statement": "They have twenty-seven pencils in total.",
+    "incorrect_statement": "They have twenty-nine pencils in total.",
+    "num1": 13,
+    "num2": 14,
+    "correct_answer": 27,
+    "incorrect_answer": 29
+  },
+  {
+    "type": "addition",
+    "problem": "Samuel baked fourteen stickers. Henry baked sixteen stickers. How many stickers did they bake altogether?",
+    "correct_statement": "They have thirty stickers in total.",
+    "incorrect_statement": "They have twenty-nine stickers in total.",
+    "num1": 14,
+    "num2": 16,
+    "correct_answer": 30,
+    "incorrect_answer": 29
+  },
+  {
+    "type": "subtraction",
+    "problem": "Daniel had some cookies. After Daniel got seven more cookies, Daniel had thirteen cookies. How many cookies did Daniel have at first?",
+    "correct_statement": "Daniel had six cookies at first.",
+    "incorrect_statement": "Daniel had three cookies at first.",
+    "num_total": 13,
+    "num2": 7,
+    "correct_answer": 6,
+    "incorrect_answer": 3
+  },
+  {
+    "type": "addition",
+    "problem": "There are sixteen cards in the basket. Victoria puts sixteen more cards in the basket. How many cards are in the basket now?",
+    "correct_statement": "They have thirty-two cards in total.",
+    "incorrect_statement": "They have thirty-four cards in total.",
+    "num1": 16,
+    "num2": 16,
+    "correct_answer": 32,
+    "incorrect_answer": 34
+  },
+  {
+    "type": "addition",
+    "problem": "Emily collected sixteen dolls on Monday and twelve dolls on Tuesday. How many dolls did Emily collect in these two days?",
+    "correct_statement": "They have twenty-eight dolls in total.",
+    "incorrect_statement": "They have twenty-seven dolls in total.",
+    "num1": 16,
+    "num2": 12,
+    "correct_answer": 28,
+    "incorrect_answer": 27
+  },
+  {
+    "type": "addition",
+    "problem": "Sofia has nineteen pencils. Ethan has two pencils. How many pencils do they have together?",
+    "correct_statement": "They have twenty-one pencils in total.",
+    "incorrect_statement": "They have twenty-six pencils in total.",
+    "num1": 19,
+    "num2": 2,
+    "correct_answer": 21,
+    "incorrect_answer": 26
+  },
+  {
+    "type": "addition",
+    "problem": "Scarlett collected four chocolates on Monday and eleven chocolates on Tuesday. How many chocolates did Scarlett collect in these two days?",
+    "correct_statement": "They have fifteen chocolates in total.",
+    "incorrect_statement": "They have seven chocolates in total.",
+    "num1": 4,
+    "num2": 11,
+    "correct_answer": 15,
+    "incorrect_answer": 7
+  },
+  {
+    "type": "subtraction",
+    "problem": "There were twenty-seven stickers on the table. Noah took twelve stickers. How many stickers remain on the table?",
+    "correct_statement": "Noah has fifteen stickers now.",
+    "incorrect_statement": "Noah has eighteen stickers now.",
+    "num_total": 27,
+    "num2": 12,
+    "correct_answer": 15,
+    "incorrect_answer": 18
+  },
+  {
+    "type": "subtraction",
+    "problem": "Daniel had eighteen balloons. eight of them were eaten. How many balloons does Daniel have now?",
+    "correct_statement": "Daniel has ten balloons now.",
+    "incorrect_statement": "Daniel has two balloons now.",
+    "num_total": 18,
+    "num2": 8,
+    "correct_answer": 10,
+    "incorrect_answer": 2
+  },
+  {
+    "type": "subtraction",
+    "problem": "There were twenty-five books on the table. Henry took fourteen books. How many books remain on the table?",
+    "correct_statement": "Henry has eleven books now.",
+    "incorrect_statement": "Henry has ten books now.",
+    "num_total": 25,
+    "num2": 14,
+    "correct_answer": 11,
+    "incorrect_answer": 10
+  },
+  {
+    "type": "addition",
+    "problem": "Isabella collected twenty marbles on Monday and nineteen marbles on Tuesday. How many marbles did Isabella collect in these two days?",
+    "correct_statement": "They have thirty-nine marbles in total.",
+    "incorrect_statement": "They have thirty-four marbles in total.",
+    "num1": 20,
+    "num2": 19,
+    "correct_answer": 39,
+    "incorrect_answer": 34
+  },
+  {
+    "type": "subtraction",
+    "problem": "There were fourteen flowers on the table. Jacob took eight flowers. How many flowers remain on the table?",
+    "correct_statement": "Jacob has six flowers now.",
+    "incorrect_statement": "Jacob has two flowers now.",
+    "num_total": 14,
+    "num2": 8,
+    "correct_answer": 6,
+    "incorrect_answer": 2
+  },
+  {
+    "type": "subtraction",
+    "problem": "Abigail had seventeen chocolates. Abigail gave ten chocolates to Lily. How many chocolates does Abigail have left?",
+    "correct_statement": "There are seven chocolates left.",
+    "incorrect_statement": "There are twenty-seven chocolates left.",
+    "num_total": 17,
+    "num2": 10,
+    "correct_answer": 7,
+    "incorrect_answer": 27
+  },
+  {
+    "type": "addition",
+    "problem": "There are eleven stickers in the basket. Emily puts five more stickers in the basket. How many stickers are in the basket now?",
+    "correct_statement": "They have sixteen stickers in total.",
+    "incorrect_statement": "They have seventeen stickers in total.",
+    "num1": 11,
+    "num2": 5,
+    "correct_answer": 16,
+    "incorrect_answer": 17
+  },
+  {
+    "type": "addition",
+    "problem": "Emma has four dolls. Benjamin has sixteen dolls. How many dolls do they have together?",
+    "correct_statement": "They have twenty dolls in total.",
+    "incorrect_statement": "They have twenty-two dolls in total.",
+    "num1": 4,
+    "num2": 16,
+    "correct_answer": 20,
+    "incorrect_answer": 22
+  },
+  {
+    "type": "addition",
+    "problem": "James collected two books on Monday and fifteen books on Tuesday. How many books did James collect in these two days?",
+    "correct_statement": "They have seventeen books in total.",
+    "incorrect_statement": "They have thirteen books in total.",
+    "num1": 2,
+    "num2": 15,
+    "correct_answer": 17,
+    "incorrect_answer": 13
+  },
+  {
+    "type": "addition",
+    "problem": "Olivia baked thirteen books. Sophia baked twenty books. How many books did they bake altogether?",
+    "correct_statement": "They have thirty-three books in total.",
+    "incorrect_statement": "They have thirty-six books in total.",
+    "num1": 13,
+    "num2": 20,
+    "correct_answer": 33,
+    "incorrect_answer": 36
+  },
+  {
+    "type": "addition",
+    "problem": "Madison baked fourteen cookies. Amelia baked six cookies. How many cookies did they bake altogether?",
+    "correct_statement": "They have twenty cookies in total.",
+    "incorrect_statement": "They have twenty-three cookies in total.",
+    "num1": 14,
+    "num2": 6,
+    "correct_answer": 20,
+    "incorrect_answer": 23
+  },
+  {
+    "type": "subtraction",
+    "problem": "Samuel had eleven dolls. four of them were eaten. How many dolls does Samuel have now?",
+    "correct_statement": "Samuel has seven dolls now.",
+    "incorrect_statement": "Samuel has three dolls now.",
+    "num_total": 11,
+    "num2": 4,
+    "correct_answer": 7,
+    "incorrect_answer": 3
+  },
+  {
+    "type": "subtraction",
+    "problem": "Amelia had twenty-six toy cars. Amelia gave eleven toy cars to Liam. How many toy cars does Amelia have left?",
+    "correct_statement": "There are fifteen toy cars left.",
+    "incorrect_statement": "There are thirty-seven toy cars left.",
+    "num_total": 26,
+    "num2": 11,
+    "correct_answer": 15,
+    "incorrect_answer": 37
+  },
+  {
+    "type": "addition",
+    "problem": "Scarlett collected nine toy cars on Monday and eight toy cars on Tuesday. How many toy cars did Scarlett collect in these two days?",
+    "correct_statement": "They have seventeen toy cars in total.",
+    "incorrect_statement": "They have twenty-one toy cars in total.",
+    "num1": 9,
+    "num2": 8,
+    "correct_answer": 17,
+    "incorrect_answer": 21
+  },
+  {
+    "type": "addition",
+    "problem": "Ethan collected fourteen stickers on Monday and eighteen stickers on Tuesday. How many stickers did Ethan collect in these two days?",
+    "correct_statement": "They have thirty-two stickers in total.",
+    "incorrect_statement": "They have thirty-four stickers in total.",
+    "num1": 14,
+    "num2": 18,
+    "correct_answer": 32,
+    "incorrect_answer": 34
+  },
+  {
+    "type": "subtraction",
+    "problem": "Henry had some balloons. After Henry got fifteen more balloons, Henry had twenty-six balloons. How many balloons did Henry have at first?",
+    "correct_statement": "Henry had eleven balloons at first.",
+    "incorrect_statement": "Henry had four balloons at first.",
+    "num_total": 26,
+    "num2": 15,
+    "correct_answer": 11,
+    "incorrect_answer": 4
+  },
+  {
+    "type": "addition",
+    "problem": "Sophia has fourteen marbles. Logan has nineteen marbles. How many marbles do they have together?",
+    "correct_statement": "They have thirty-three marbles in total.",
+    "incorrect_statement": "They have thirty-two marbles in total.",
+    "num1": 14,
+    "num2": 19,
+    "correct_answer": 33,
+    "incorrect_answer": 32
+  },
+  {
+    "type": "subtraction",
+    "problem": "There were fifteen marbles on the table. Amelia took three marbles. How many marbles remain on the table?",
+    "correct_statement": "Amelia has twelve marbles now.",
+    "incorrect_statement": "Amelia has eleven marbles now.",
+    "num_total": 15,
+    "num2": 3,
+    "correct_answer": 12,
+    "incorrect_answer": 11
+  },
+  {
+    "type": "subtraction",
+    "problem": "There were twenty-four books on the table. Mia took ten books. How many books remain on the table?",
+    "correct_statement": "Mia has fourteen books now.",
+    "incorrect_statement": "Mia has four books now.",
+    "num_total": 24,
+    "num2": 10,
+    "correct_answer": 14,
+    "incorrect_answer": 4
+  },
+  {
+    "type": "subtraction",
+    "problem": "Scarlett had some stickers. After Scarlett got thirteen more stickers, Scarlett had nineteen stickers. How many stickers did Scarlett have at first?",
+    "correct_statement": "Scarlett had six stickers at first.",
+    "incorrect_statement": "Scarlett had nine stickers at first.",
+    "num_total": 19,
+    "num2": 13,
+    "correct_answer": 6,
+    "incorrect_answer": 9
+  },
+  {
+    "type": "addition",
+    "problem": "Lily collected six balloons on Monday and five balloons on Tuesday. How many balloons did Lily collect in these two days?",
+    "correct_statement": "They have eleven balloons in total.",
+    "incorrect_statement": "They have ten balloons in total.",
+    "num1": 6,
+    "num2": 5,
+    "correct_answer": 11,
+    "incorrect_answer": 10
+  },
+  {
+    "type": "subtraction",
+    "problem": "Liam had seven chocolates. After giving some to Harper, Liam had two chocolates left. How many chocolates did Liam give to Harper?",
+    "correct_statement": "Liam gave two chocolates to Harper.",
+    "incorrect_statement": "Liam gave five chocolates to Harper.",
+    "num_total": 7,
+    "num2": 5,
+    "correct_answer": 2,
+    "incorrect_answer": 5
+  },
+  {
+    "type": "subtraction",
+    "problem": "Victoria had thirteen pencils. After giving some to Amelia, Victoria had seven pencils left. How many pencils did Victoria give to Amelia?",
+    "correct_statement": "Victoria gave seven pencils to Amelia.",
+    "incorrect_statement": "Victoria gave nineteen pencils to Amelia.",
+    "num_total": 13,
+    "num2": 6,
+    "correct_answer": 7,
+    "incorrect_answer": 19
+  },
+  {
+    "type": "subtraction",
+    "problem": "Matthew had some marbles. After Matthew got twelve more marbles, Matthew had twenty marbles. How many marbles did Matthew have at first?",
+    "correct_statement": "Matthew had eight marbles at first.",
+    "incorrect_statement": "Matthew had four marbles at first.",
+    "num_total": 20,
+    "num2": 12,
+    "correct_answer": 8,
+    "incorrect_answer": 4
+  },
+  {
+    "type": "subtraction",
+    "problem": "Michael had eleven stamps. Michael gave five stamps to Logan. How many stamps does Michael have left?",
+    "correct_statement": "There are six stamps left.",
+    "incorrect_statement": "There are one stamps left.",
+    "num_total": 11,
+    "num2": 5,
+    "correct_answer": 6,
+    "incorrect_answer": 1
+  },
+  {
+    "type": "subtraction",
+    "problem": "David had sixteen oranges. nine of them were eaten. How many oranges does David have now?",
+    "correct_statement": "David has seven oranges now.",
+    "incorrect_statement": "David has eight oranges now.",
+    "num_total": 16,
+    "num2": 9,
+    "correct_answer": 7,
+    "incorrect_answer": 8
+  },
+  {
+    "type": "subtraction",
+    "problem": "Emma had some apples. After Emma got six more apples, Emma had eighteen apples. How many apples did Emma have at first?",
+    "correct_statement": "Emma had twelve apples at first.",
+    "incorrect_statement": "Emma had thirteen apples at first.",
+    "num_total": 18,
+    "num2": 6,
+    "correct_answer": 12,
+    "incorrect_answer": 13
+  },
+  {
+    "type": "subtraction",
+    "problem": "Logan had nine stickers. seven of them were eaten. How many stickers does Logan have now?",
+    "correct_statement": "Logan has two stickers now.",
+    "incorrect_statement": "Logan has seven stickers now.",
+    "num_total": 9,
+    "num2": 7,
+    "correct_answer": 2,
+    "incorrect_answer": 7
+  },
+  {
+    "type": "addition",
+    "problem": "Mason baked nineteen toy cars. David baked nineteen toy cars. How many toy cars did they bake altogether?",
+    "correct_statement": "They have thirty-eight toy cars in total.",
+    "incorrect_statement": "They have thirty-six toy cars in total.",
+    "num1": 19,
+    "num2": 19,
+    "correct_answer": 38,
+    "incorrect_answer": 36
+  },
+  {
+    "type": "addition",
+    "problem": "There are ten flowers in the basket. Ella puts fifteen more flowers in the basket. How many flowers are in the basket now?",
+    "correct_statement": "They have twenty-five flowers in total.",
+    "incorrect_statement": "They have thirty-five flowers in total.",
+    "num1": 10,
+    "num2": 15,
+    "correct_answer": 25,
+    "incorrect_answer": 35
+  },
+  {
+    "type": "subtraction",
+    "problem": "There were fourteen apples on the table. Emily took six apples. How many apples remain on the table?",
+    "correct_statement": "Emily has eight apples now.",
+    "incorrect_statement": "Emily has twenty apples now.",
+    "num_total": 14,
+    "num2": 6,
+    "correct_answer": 8,
+    "incorrect_answer": 20
+  },
+  {
+    "type": "addition",
+    "problem": "Victoria collected nine cards on Monday and thirteen cards on Tuesday. How many cards did Victoria collect in these two days?",
+    "correct_statement": "They have twenty-two cards in total.",
+    "incorrect_statement": "They have thirty-two cards in total.",
+    "num1": 9,
+    "num2": 13,
+    "correct_answer": 22,
+    "incorrect_answer": 32
+  },
+  {
+    "type": "addition",
+    "problem": "There are ten oranges in the basket. Ethan puts twenty more oranges in the basket. How many oranges are in the basket now?",
+    "correct_statement": "They have thirty oranges in total.",
+    "incorrect_statement": "They have forty oranges in total.",
+    "num1": 10,
+    "num2": 20,
+    "correct_answer": 30,
+    "incorrect_answer": 40
+  },
+  {
+    "type": "subtraction",
+    "problem": "Isabella had fifteen marbles. Isabella gave eight marbles to Emily. How many marbles does Isabella have left?",
+    "correct_statement": "There are seven marbles left.",
+    "incorrect_statement": "There are two marbles left.",
+    "num_total": 15,
+    "num2": 8,
+    "correct_answer": 7,
+    "incorrect_answer": 2
+  },
+  {
+    "type": "subtraction",
+    "problem": "There were thirty coins on the table. Ethan took fifteen coins. How many coins remain on the table?",
+    "correct_statement": "Ethan has fifteen coins now.",
+    "incorrect_statement": "Ethan has forty-five coins now.",
+    "num_total": 30,
+    "num2": 15,
+    "correct_answer": 15,
+    "incorrect_answer": 45
+  },
+  {
+    "type": "addition",
+    "problem": "Mason has four toy cars. James has sixteen toy cars. How many toy cars do they have together?",
+    "correct_statement": "They have twenty toy cars in total.",
+    "incorrect_statement": "They have fifteen toy cars in total.",
+    "num1": 4,
+    "num2": 16,
+    "correct_answer": 20,
+    "incorrect_answer": 15
+  },
+  {
+    "type": "subtraction",
+    "problem": "Ella had eighteen marbles. Ella gave twelve marbles to Jackson. How many marbles does Ella have left?",
+    "correct_statement": "There are six marbles left.",
+    "incorrect_statement": "There are five marbles left.",
+    "num_total": 18,
+    "num2": 12,
+    "correct_answer": 6,
+    "incorrect_answer": 5
+  },
+  {
+    "type": "subtraction",
+    "problem": "Harper had nineteen cookies. After giving some to Amelia, Harper had eight cookies left. How many cookies did Harper give to Amelia?",
+    "correct_statement": "Harper gave eight cookies to Amelia.",
+    "incorrect_statement": "Harper gave thirty cookies to Amelia.",
+    "num_total": 19,
+    "num2": 11,
+    "correct_answer": 8,
+    "incorrect_answer": 30
+  },
+  {
+    "type": "subtraction",
+    "problem": "Ella had twelve coins. After giving some to Victoria, Ella had four coins left. How many coins did Ella give to Victoria?",
+    "correct_statement": "Ella gave four coins to Victoria.",
+    "incorrect_statement": "Ella gave four coins to Victoria.",
+    "num_total": 12,
+    "num2": 8,
+    "correct_answer": 4,
+    "incorrect_answer": 4
+  },
+  {
+    "type": "subtraction",
+    "problem": "Lucas had twenty-six balloons. After giving some to Lily, Lucas had fourteen balloons left. How many balloons did Lucas give to Lily?",
+    "correct_statement": "Lucas gave fourteen balloons to Lily.",
+    "incorrect_statement": "Lucas gave two balloons to Lily.",
+    "num_total": 26,
+    "num2": 12,
+    "correct_answer": 14,
+    "incorrect_answer": 2
+  },
+  {
+    "type": "subtraction",
+    "problem": "There were nineteen toy cars on the table. Victoria took twelve toy cars. How many toy cars remain on the table?",
+    "correct_statement": "Victoria has seven toy cars now.",
+    "incorrect_statement": "Victoria has nine toy cars now.",
+    "num_total": 19,
+    "num2": 12,
+    "correct_answer": 7,
+    "incorrect_answer": 9
+  },
+  {
+    "type": "subtraction",
+    "problem": "There were twenty-two cookies on the table. Isabella took fourteen cookies. How many cookies remain on the table?",
+    "correct_statement": "Isabella has eight cookies now.",
+    "incorrect_statement": "Isabella has six cookies now.",
+    "num_total": 22,
+    "num2": 14,
+    "correct_answer": 8,
+    "incorrect_answer": 6
+  },
+  {
+    "type": "subtraction",
+    "problem": "There were twelve toy cars on the table. Daniel took five toy cars. How many toy cars remain on the table?",
+    "correct_statement": "Daniel has seven toy cars now.",
+    "incorrect_statement": "Daniel has twelve toy cars now.",
+    "num_total": 12,
+    "num2": 5,
+    "correct_answer": 7,
+    "incorrect_answer": 12
+  },
+  {
+    "type": "addition",
+    "problem": "Scarlett found eight cards. Then Scarlett found eight more cards. How many cards did Scarlett find in total?",
+    "correct_statement": "They have sixteen cards in total.",
+    "incorrect_statement": "They have twenty cards in total.",
+    "num1": 8,
+    "num2": 8,
+    "correct_answer": 16,
+    "incorrect_answer": 20
+  },
+  {
+    "type": "addition",
+    "problem": "Ava collected nineteen flowers on Monday and eight flowers on Tuesday. How many flowers did Ava collect in these two days?",
+    "correct_statement": "They have twenty-seven flowers in total.",
+    "incorrect_statement": "They have twenty-six flowers in total.",
+    "num1": 19,
+    "num2": 8,
+    "correct_answer": 27,
+    "incorrect_answer": 26
+  },
+  {
+    "type": "subtraction",
+    "problem": "Charlotte had some dolls. After Charlotte got fourteen more dolls, Charlotte had twenty-five dolls. How many dolls did Charlotte have at first?",
+    "correct_statement": "Charlotte had eleven dolls at first.",
+    "incorrect_statement": "Charlotte had thirty-nine dolls at first.",
+    "num_total": 25,
+    "num2": 14,
+    "correct_answer": 11,
+    "incorrect_answer": 39
+  },
+  {
+    "type": "subtraction",
+    "problem": "Liam had ten books. Liam gave five books to Henry. How many books does Liam have left?",
+    "correct_statement": "There are five books left.",
+    "incorrect_statement": "There are fifteen books left.",
+    "num_total": 10,
+    "num2": 5,
+    "correct_answer": 5,
+    "incorrect_answer": 15
+  },
+  {
+    "type": "subtraction",
+    "problem": "There were fifteen books on the table. Michael took two books. How many books remain on the table?",
+    "correct_statement": "Michael has thirteen books now.",
+    "incorrect_statement": "Michael has fourteen books now.",
+    "num_total": 15,
+    "num2": 2,
+    "correct_answer": 13,
+    "incorrect_answer": 14
+  },
+  {
+    "type": "addition",
+    "problem": "There are fifteen dolls in the basket. Scarlett puts seventeen more dolls in the basket. How many dolls are in the basket now?",
+    "correct_statement": "They have thirty-two dolls in total.",
+    "incorrect_statement": "They have thirty dolls in total.",
+    "num1": 15,
+    "num2": 17,
+    "correct_answer": 32,
+    "incorrect_answer": 30
+  },
+  {
+    "type": "addition",
+    "problem": "Victoria has eleven books. Jacob has eleven books. How many books do they have together?",
+    "correct_statement": "They have twenty-two books in total.",
+    "incorrect_statement": "They have twenty-four books in total.",
+    "num1": 11,
+    "num2": 11,
+    "correct_answer": 22,
+    "incorrect_answer": 24
+  },
+  {
+    "type": "subtraction",
+    "problem": "There were twenty-one toy cars on the table. Madison took eleven toy cars. How many toy cars remain on the table?",
+    "correct_statement": "Madison has ten toy cars now.",
+    "incorrect_statement": "Madison has five toy cars now.",
+    "num_total": 21,
+    "num2": 11,
+    "correct_answer": 10,
+    "incorrect_answer": 5
+  },
+  {
+    "type": "subtraction",
+    "problem": "Madison had seven marbles. After giving some to Liam, Madison had four marbles left. How many marbles did Madison give to Liam?",
+    "correct_statement": "Madison gave four marbles to Liam.",
+    "incorrect_statement": "Madison gave five marbles to Liam.",
+    "num_total": 7,
+    "num2": 3,
+    "correct_answer": 4,
+    "incorrect_answer": 5
+  },
+  {
+    "type": "subtraction",
+    "problem": "Emma had nineteen dolls. seven of them were eaten. How many dolls does Emma have now?",
+    "correct_statement": "Emma has twelve dolls now.",
+    "incorrect_statement": "Emma has twenty-six dolls now.",
+    "num_total": 19,
+    "num2": 7,
+    "correct_answer": 12,
+    "incorrect_answer": 26
+  },
+  {
+    "type": "addition",
+    "problem": "There are eight oranges in the basket. Aiden puts eighteen more oranges in the basket. How many oranges are in the basket now?",
+    "correct_statement": "They have twenty-six oranges in total.",
+    "incorrect_statement": "They have twenty-eight oranges in total.",
+    "num1": 8,
+    "num2": 18,
+    "correct_answer": 26,
+    "incorrect_answer": 28
+  },
+  {
+    "type": "addition",
+    "problem": "James found five dolls. Then James found five more dolls. How many dolls did James find in total?",
+    "correct_statement": "They have ten dolls in total.",
+    "incorrect_statement": "They have twelve dolls in total.",
+    "num1": 5,
+    "num2": 5,
+    "correct_answer": 10,
+    "incorrect_answer": 12
+  },
+  {
+    "type": "addition",
+    "problem": "Abigail found four apples. Then Abigail found four more apples. How many apples did Abigail find in total?",
+    "correct_statement": "They have eight apples in total.",
+    "incorrect_statement": "They have seven apples in total.",
+    "num1": 4,
+    "num2": 4,
+    "correct_answer": 8,
+    "incorrect_answer": 7
+  },
+  {
+    "type": "subtraction",
+    "problem": "Liam had twelve books. seven of them were eaten. How many books does Liam have now?",
+    "correct_statement": "Liam has five books now.",
+    "incorrect_statement": "Liam has six books now.",
+    "num_total": 12,
+    "num2": 7,
+    "correct_answer": 5,
+    "incorrect_answer": 6
+  },
+  {
+    "type": "addition",
+    "problem": "Logan found four cards. Then Logan found four more cards. How many cards did Logan find in total?",
+    "correct_statement": "They have eight cards in total.",
+    "incorrect_statement": "They have nine cards in total.",
+    "num1": 4,
+    "num2": 4,
+    "correct_answer": 8,
+    "incorrect_answer": 9
+  },
+  {
+    "type": "addition",
+    "problem": "Emma found sixteen cookies. Then Emma found eighteen more cookies. How many cookies did Emma find in total?",
+    "correct_statement": "They have thirty-four cookies in total.",
+    "incorrect_statement": "They have thirty-two cookies in total.",
+    "num1": 16,
+    "num2": 18,
+    "correct_answer": 34,
+    "incorrect_answer": 32
+  },
+  {
+    "type": "subtraction",
+    "problem": "There were twenty-one marbles on the table. Daniel took six marbles. How many marbles remain on the table?",
+    "correct_statement": "Daniel has fifteen marbles now.",
+    "incorrect_statement": "Daniel has twenty-seven marbles now.",
+    "num_total": 21,
+    "num2": 6,
+    "correct_answer": 15,
+    "incorrect_answer": 27
+  },
+  {
+    "type": "addition",
+    "problem": "David has eleven stickers. Mia has five stickers. How many stickers do they have together?",
+    "correct_statement": "They have sixteen stickers in total.",
+    "incorrect_statement": "They have twenty stickers in total.",
+    "num1": 11,
+    "num2": 5,
+    "correct_answer": 16,
+    "incorrect_answer": 20
+  },
+  {
+    "type": "addition",
+    "problem": "Ethan has seventeen cards. Emily has eight cards. How many cards do they have together?",
+    "correct_statement": "They have twenty-five cards in total.",
+    "incorrect_statement": "They have thirty-five cards in total.",
+    "num1": 17,
+    "num2": 8,
+    "correct_answer": 25,
+    "incorrect_answer": 35
+  },
+  {
+    "type": "addition",
+    "problem": "Logan has two books. Evelyn has eight books. How many books do they have together?",
+    "correct_statement": "They have ten books in total.",
+    "incorrect_statement": "They have fifteen books in total.",
+    "num1": 2,
+    "num2": 8,
+    "correct_answer": 10,
+    "incorrect_answer": 15
+  },
+  {
+    "type": "addition",
+    "problem": "Emma found eight chocolates. Then Emma found fifteen more chocolates. How many chocolates did Emma find in total?",
+    "correct_statement": "They have twenty-three chocolates in total.",
+    "incorrect_statement": "They have twenty-seven chocolates in total.",
+    "num1": 8,
+    "num2": 15,
+    "correct_answer": 23,
+    "incorrect_answer": 27
+  },
+  {
+    "type": "subtraction",
+    "problem": "There were eleven pencils on the table. Benjamin took three pencils. How many pencils remain on the table?",
+    "correct_statement": "Benjamin has eight pencils now.",
+    "incorrect_statement": "Benjamin has seven pencils now.",
+    "num_total": 11,
+    "num2": 3,
+    "correct_answer": 8,
+    "incorrect_answer": 7
+  },
+  {
+    "type": "subtraction",
+    "problem": "Noah had eighteen coins. After giving some to Daniel, Noah had five coins left. How many coins did Noah give to Daniel?",
+    "correct_statement": "Noah gave five coins to Daniel.",
+    "incorrect_statement": "Noah gave eight coins to Daniel.",
+    "num_total": 18,
+    "num2": 13,
+    "correct_answer": 5,
+    "incorrect_answer": 8
+  },
+  {
+    "type": "addition",
+    "problem": "Madison has five dolls. James has twelve dolls. How many dolls do they have together?",
+    "correct_statement": "They have seventeen dolls in total.",
+    "incorrect_statement": "They have seven dolls in total.",
+    "num1": 5,
+    "num2": 12,
+    "correct_answer": 17,
+    "incorrect_answer": 7
+  },
+  {
+    "type": "addition",
+    "problem": "Ethan found four apples. Then Ethan found four more apples. How many apples did Ethan find in total?",
+    "correct_statement": "They have eight apples in total.",
+    "incorrect_statement": "They have fifteen apples in total.",
+    "num1": 4,
+    "num2": 4,
+    "correct_answer": 8,
+    "incorrect_answer": 15
+  },
+  {
+    "type": "subtraction",
+    "problem": "Sophia had some stamps. After Sophia got nine more stamps, Sophia had twenty-four stamps. How many stamps did Sophia have at first?",
+    "correct_statement": "Sophia had fifteen stamps at first.",
+    "incorrect_statement": "Sophia had six stamps at first.",
+    "num_total": 24,
+    "num2": 9,
+    "correct_answer": 15,
+    "incorrect_answer": 6
+  },
+  {
+    "type": "addition",
+    "problem": "Jackson has seven coins. Logan has nine coins. How many coins do they have together?",
+    "correct_statement": "They have sixteen coins in total.",
+    "incorrect_statement": "They have twelve coins in total.",
+    "num1": 7,
+    "num2": 9,
+    "correct_answer": 16,
+    "incorrect_answer": 12
+  },
+  {
+    "type": "addition",
+    "problem": "Liam collected eight oranges on Monday and nineteen oranges on Tuesday. How many oranges did Liam collect in these two days?",
+    "correct_statement": "They have twenty-seven oranges in total.",
+    "incorrect_statement": "They have twenty-eight oranges in total.",
+    "num1": 8,
+    "num2": 19,
+    "correct_answer": 27,
+    "incorrect_answer": 28
+  },
+  {
+    "type": "subtraction",
+    "problem": "Mason had twenty-one apples. twelve of them were eaten. How many apples does Mason have now?",
+    "correct_statement": "Mason has nine apples now.",
+    "incorrect_statement": "Mason has three apples now.",
+    "num_total": 21,
+    "num2": 12,
+    "correct_answer": 9,
+    "incorrect_answer": 3
+  },
+  {
+    "type": "addition",
+    "problem": "Evelyn collected four books on Monday and twenty books on Tuesday. How many books did Evelyn collect in these two days?",
+    "correct_statement": "They have twenty-four books in total.",
+    "incorrect_statement": "They have twenty-two books in total.",
+    "num1": 4,
+    "num2": 20,
+    "correct_answer": 24,
+    "incorrect_answer": 22
+  },
+  {
+    "type": "subtraction",
+    "problem": "There were seventeen coins on the table. Matthew took fourteen coins. How many coins remain on the table?",
+    "correct_statement": "Matthew has three coins now.",
+    "incorrect_statement": "Matthew has five coins now.",
+    "num_total": 17,
+    "num2": 14,
+    "correct_answer": 3,
+    "incorrect_answer": 5
+  },
+  {
+    "type": "subtraction",
+    "problem": "Harper had some toy cars. After Harper got four more toy cars, Harper had fourteen toy cars. How many toy cars did Harper have at first?",
+    "correct_statement": "Harper had ten toy cars at first.",
+    "incorrect_statement": "Harper had six toy cars at first.",
+    "num_total": 14,
+    "num2": 4,
+    "correct_answer": 10,
+    "incorrect_answer": 6
+  },
+  {
+    "type": "addition",
+    "problem": "Noah found four stamps. Then Noah found five more stamps. How many stamps did Noah find in total?",
+    "correct_statement": "They have nine stamps in total.",
+    "incorrect_statement": "They have eleven stamps in total.",
+    "num1": 4,
+    "num2": 5,
+    "correct_answer": 9,
+    "incorrect_answer": 11
+  },
+  {
+    "type": "subtraction",
+    "problem": "Emily had some books. After Emily got nine more books, Emily had twenty books. How many books did Emily have at first?",
+    "correct_statement": "Emily had eleven books at first.",
+    "incorrect_statement": "Emily had sixteen books at first.",
+    "num_total": 20,
+    "num2": 9,
+    "correct_answer": 11,
+    "incorrect_answer": 16
+  },
+  {
+    "type": "addition",
+    "problem": "Aiden collected three cards on Monday and fourteen cards on Tuesday. How many cards did Aiden collect in these two days?",
+    "correct_statement": "They have seventeen cards in total.",
+    "incorrect_statement": "They have twenty-seven cards in total.",
+    "num1": 3,
+    "num2": 14,
+    "correct_answer": 17,
+    "incorrect_answer": 27
+  },
+  {
+    "type": "addition",
+    "problem": "Liam collected two oranges on Monday and thirteen oranges on Tuesday. How many oranges did Liam collect in these two days?",
+    "correct_statement": "They have fifteen oranges in total.",
+    "incorrect_statement": "They have twenty-one oranges in total.",
+    "num1": 2,
+    "num2": 13,
+    "correct_answer": 15,
+    "incorrect_answer": 21
+  },
+  {
+    "type": "subtraction",
+    "problem": "Noah had sixteen cookies. nine of them were eaten. How many cookies does Noah have now?",
+    "correct_statement": "Noah has seven cookies now.",
+    "incorrect_statement": "Noah has twelve cookies now.",
+    "num_total": 16,
+    "num2": 9,
+    "correct_answer": 7,
+    "incorrect_answer": 12
+  },
+  {
+    "type": "subtraction",
+    "problem": "There were thirteen pencils on the table. Lucas took three pencils. How many pencils remain on the table?",
+    "correct_statement": "Lucas has ten pencils now.",
+    "incorrect_statement": "Lucas has eleven pencils now.",
+    "num_total": 13,
+    "num2": 3,
+    "correct_answer": 10,
+    "incorrect_answer": 11
+  },
+  {
+    "type": "subtraction",
+    "problem": "There were twenty-four marbles on the table. Emily took thirteen marbles. How many marbles remain on the table?",
+    "correct_statement": "Emily has eleven marbles now.",
+    "incorrect_statement": "Emily has nine marbles now.",
+    "num_total": 24,
+    "num2": 13,
+    "correct_answer": 11,
+    "incorrect_answer": 9
+  },
+  {
+    "type": "addition",
+    "problem": "Victoria has eight balloons. Scarlett has three balloons. How many balloons do they have together?",
+    "correct_statement": "They have eleven balloons in total.",
+    "incorrect_statement": "They have thirteen balloons in total.",
+    "num1": 8,
+    "num2": 3,
+    "correct_answer": 11,
+    "incorrect_answer": 13
+  },
+  {
+    "type": "addition",
+    "problem": "Henry baked five chocolates. James baked two chocolates. How many chocolates did they bake altogether?",
+    "correct_statement": "They have seven chocolates in total.",
+    "incorrect_statement": "They have five chocolates in total.",
+    "num1": 5,
+    "num2": 2,
+    "correct_answer": 7,
+    "incorrect_answer": 5
+  },
+  {
+    "type": "addition",
+    "problem": "Lily has five books. Emily has five books. How many books do they have together?",
+    "correct_statement": "They have ten books in total.",
+    "incorrect_statement": "They have eleven books in total.",
+    "num1": 5,
+    "num2": 5,
+    "correct_answer": 10,
+    "incorrect_answer": 11
+  },
+  {
+    "type": "addition",
+    "problem": "Lily found eight balloons. Then Lily found seventeen more balloons. How many balloons did Lily find in total?",
+    "correct_statement": "They have twenty-five balloons in total.",
+    "incorrect_statement": "They have twenty-seven balloons in total.",
+    "num1": 8,
+    "num2": 17,
+    "correct_answer": 25,
+    "incorrect_answer": 27
+  },
+  {
+    "type": "subtraction",
+    "problem": "Victoria had ten marbles. Victoria gave eight marbles to Lily. How many marbles does Victoria have left?",
+    "correct_statement": "There are two marbles left.",
+    "incorrect_statement": "There are six marbles left.",
+    "num_total": 10,
+    "num2": 8,
+    "correct_answer": 2,
+    "incorrect_answer": 6
+  },
+  {
+    "type": "addition",
+    "problem": "James found four cards. Then James found six more cards. How many cards did James find in total?",
+    "correct_statement": "They have ten cards in total.",
+    "incorrect_statement": "They have five cards in total.",
+    "num1": 4,
+    "num2": 6,
+    "correct_answer": 10,
+    "incorrect_answer": 5
+  },
+  {
+    "type": "subtraction",
+    "problem": "Liam had eleven cookies. Liam gave seven cookies to Daniel. How many cookies does Liam have left?",
+    "correct_statement": "There are four cookies left.",
+    "incorrect_statement": "There are eighteen cookies left.",
+    "num_total": 11,
+    "num2": 7,
+    "correct_answer": 4,
+    "incorrect_answer": 18
+  },
+  {
+    "type": "subtraction",
+    "problem": "David had fifteen apples. eight of them were eaten. How many apples does David have now?",
+    "correct_statement": "David has seven apples now.",
+    "incorrect_statement": "David has twenty-three apples now.",
+    "num_total": 15,
+    "num2": 8,
+    "correct_answer": 7,
+    "incorrect_answer": 23
+  },
+  {
+    "type": "subtraction",
+    "problem": "Matthew had twenty-two oranges. After giving some to Olivia, Matthew had fifteen oranges left. How many oranges did Matthew give to Olivia?",
+    "correct_statement": "Matthew gave fifteen oranges to Olivia.",
+    "incorrect_statement": "Matthew gave ten oranges to Olivia.",
+    "num_total": 22,
+    "num2": 7,
+    "correct_answer": 15,
+    "incorrect_answer": 10
+  },
+  {
+    "type": "subtraction",
+    "problem": "There were twenty-three cookies on the table. Jackson took thirteen cookies. How many cookies remain on the table?",
+    "correct_statement": "Jackson has ten cookies now.",
+    "incorrect_statement": "Jackson has five cookies now.",
+    "num_total": 23,
+    "num2": 13,
+    "correct_answer": 10,
+    "incorrect_answer": 5
+  },
+  {
+    "type": "addition",
+    "problem": "Lily collected nine stamps on Monday and seven stamps on Tuesday. How many stamps did Lily collect in these two days?",
+    "correct_statement": "They have sixteen stamps in total.",
+    "incorrect_statement": "They have fifteen stamps in total.",
+    "num1": 9,
+    "num2": 7,
+    "correct_answer": 16,
+    "incorrect_answer": 15
+  },
+  {
+    "type": "addition",
+    "problem": "Mia collected five stickers on Monday and six stickers on Tuesday. How many stickers did Mia collect in these two days?",
+    "correct_statement": "They have eleven stickers in total.",
+    "incorrect_statement": "They have six stickers in total.",
+    "num1": 5,
+    "num2": 6,
+    "correct_answer": 11,
+    "incorrect_answer": 6
+  },
+  {
+    "type": "addition",
+    "problem": "Michael found nineteen pencils. Then Michael found nine more pencils. How many pencils did Michael find in total?",
+    "correct_statement": "They have twenty-eight pencils in total.",
+    "incorrect_statement": "They have thirty pencils in total.",
+    "num1": 19,
+    "num2": 9,
+    "correct_answer": 28,
+    "incorrect_answer": 30
+  },
+  {
+    "type": "subtraction",
+    "problem": "Emily had thirty toy cars. After giving some to Ethan, Emily had fifteen toy cars left. How many toy cars did Emily give to Ethan?",
+    "correct_statement": "Emily gave fifteen toy cars to Ethan.",
+    "incorrect_statement": "Emily gave nineteen toy cars to Ethan.",
+    "num_total": 30,
+    "num2": 15,
+    "correct_answer": 15,
+    "incorrect_answer": 19
+  },
+  {
+    "type": "addition",
+    "problem": "Alex has three balloons. Harper has nine balloons. How many balloons do they have together?",
+    "correct_statement": "They have twelve balloons in total.",
+    "incorrect_statement": "They have ten balloons in total.",
+    "num1": 3,
+    "num2": 9,
+    "correct_answer": 12,
+    "incorrect_answer": 10
+  },
+  {
+    "type": "subtraction",
+    "problem": "Ava had twenty-three marbles. After giving some to Sophia, Ava had ten marbles left. How many marbles did Ava give to Sophia?",
+    "correct_statement": "Ava gave ten marbles to Sophia.",
+    "incorrect_statement": "Ava gave seven marbles to Sophia.",
+    "num_total": 23,
+    "num2": 13,
+    "correct_answer": 10,
+    "incorrect_answer": 7
+  },
+  {
+    "type": "subtraction",
+    "problem": "Amelia had seventeen dolls. After giving some to Liam, Amelia had fifteen dolls left. How many dolls did Amelia give to Liam?",
+    "correct_statement": "Amelia gave fifteen dolls to Liam.",
+    "incorrect_statement": "Amelia gave nineteen dolls to Liam.",
+    "num_total": 17,
+    "num2": 2,
+    "correct_answer": 15,
+    "incorrect_answer": 19
+  },
+  {
+    "type": "subtraction",
+    "problem": "There were seventeen marbles on the table. Noah took thirteen marbles. How many marbles remain on the table?",
+    "correct_statement": "Noah has four marbles now.",
+    "incorrect_statement": "Noah has nine marbles now.",
+    "num_total": 17,
+    "num2": 13,
+    "correct_answer": 4,
+    "incorrect_answer": 9
+  },
+  {
+    "type": "addition",
+    "problem": "There are eight oranges in the basket. Ethan puts eight more oranges in the basket. How many oranges are in the basket now?",
+    "correct_statement": "They have sixteen oranges in total.",
+    "incorrect_statement": "They have twenty-six oranges in total.",
+    "num1": 8,
+    "num2": 8,
+    "correct_answer": 16,
+    "incorrect_answer": 26
+  },
+  {
+    "type": "addition",
+    "problem": "Jacob found thirteen stickers. Then Jacob found fourteen more stickers. How many stickers did Jacob find in total?",
+    "correct_statement": "They have twenty-seven stickers in total.",
+    "incorrect_statement": "They have twenty-five stickers in total.",
+    "num1": 13,
+    "num2": 14,
+    "correct_answer": 27,
+    "incorrect_answer": 25
+  },
+  {
+    "type": "addition",
+    "problem": "Emily collected twelve flowers on Monday and eleven flowers on Tuesday. How many flowers did Emily collect in these two days?",
+    "correct_statement": "They have twenty-three flowers in total.",
+    "incorrect_statement": "They have twenty flowers in total.",
+    "num1": 12,
+    "num2": 11,
+    "correct_answer": 23,
+    "incorrect_answer": 20
+  },
+  {
+    "type": "addition",
+    "problem": "Ethan found three flowers. Then Ethan found nine more flowers. How many flowers did Ethan find in total?",
+    "correct_statement": "They have twelve flowers in total.",
+    "incorrect_statement": "They have six flowers in total.",
+    "num1": 3,
+    "num2": 9,
+    "correct_answer": 12,
+    "incorrect_answer": 6
+  },
+  {
+    "type": "addition",
+    "problem": "Lucas collected eight cookies on Monday and two cookies on Tuesday. How many cookies did Lucas collect in these two days?",
+    "correct_statement": "They have ten cookies in total.",
+    "incorrect_statement": "They have twenty cookies in total.",
+    "num1": 8,
+    "num2": 2,
+    "correct_answer": 10,
+    "incorrect_answer": 20
+  },
+  {
+    "type": "subtraction",
+    "problem": "There were twenty-one toy cars on the table. David took six toy cars. How many toy cars remain on the table?",
+    "correct_statement": "David has fifteen toy cars now.",
+    "incorrect_statement": "David has ten toy cars now.",
+    "num_total": 21,
+    "num2": 6,
+    "correct_answer": 15,
+    "incorrect_answer": 10
+  },
+  {
+    "type": "subtraction",
+    "problem": "Scarlett had thirteen apples. seven of them were eaten. How many apples does Scarlett have now?",
+    "correct_statement": "Scarlett has six apples now.",
+    "incorrect_statement": "Scarlett has four apples now.",
+    "num_total": 13,
+    "num2": 7,
+    "correct_answer": 6,
+    "incorrect_answer": 4
+  },
+  {
+    "type": "subtraction",
+    "problem": "There were six coins on the table. Noah took three coins. How many coins remain on the table?",
+    "correct_statement": "Noah has three coins now.",
+    "incorrect_statement": "Noah has one coins now.",
+    "num_total": 6,
+    "num2": 3,
+    "correct_answer": 3,
+    "incorrect_answer": 1
+  },
+  {
+    "type": "addition",
+    "problem": "Scarlett collected ten books on Monday and twenty books on Tuesday. How many books did Scarlett collect in these two days?",
+    "correct_statement": "They have thirty books in total.",
+    "incorrect_statement": "They have thirty-two books in total.",
+    "num1": 10,
+    "num2": 20,
+    "correct_answer": 30,
+    "incorrect_answer": 32
+  },
+  {
+    "type": "addition",
+    "problem": "Victoria found two coins. Then Victoria found two more coins. How many coins did Victoria find in total?",
+    "correct_statement": "They have four coins in total.",
+    "incorrect_statement": "They have six coins in total.",
+    "num1": 2,
+    "num2": 2,
+    "correct_answer": 4,
+    "incorrect_answer": 6
+  },
+  {
+    "type": "addition",
+    "problem": "David baked eight cookies. Isabella baked fourteen cookies. How many cookies did they bake altogether?",
+    "correct_statement": "They have twenty-two cookies in total.",
+    "incorrect_statement": "They have twenty cookies in total.",
+    "num1": 8,
+    "num2": 14,
+    "correct_answer": 22,
+    "incorrect_answer": 20
+  },
+  {
+    "type": "addition",
+    "problem": "There are seventeen stickers in the basket. Sophia puts nine more stickers in the basket. How many stickers are in the basket now?",
+    "correct_statement": "They have twenty-six stickers in total.",
+    "incorrect_statement": "They have twenty-two stickers in total.",
+    "num1": 17,
+    "num2": 9,
+    "correct_answer": 26,
+    "incorrect_answer": 22
+  },
+  {
+    "type": "subtraction",
+    "problem": "Henry had ten marbles. Henry gave three marbles to Benjamin. How many marbles does Henry have left?",
+    "correct_statement": "There are seven marbles left.",
+    "incorrect_statement": "There are five marbles left.",
+    "num_total": 10,
+    "num2": 3,
+    "correct_answer": 7,
+    "incorrect_answer": 5
+  },
+  {
+    "type": "subtraction",
+    "problem": "Ella had some oranges. After Ella got ten more oranges, Ella had nineteen oranges. How many oranges did Ella have at first?",
+    "correct_statement": "Ella had nine oranges at first.",
+    "incorrect_statement": "Ella had ten oranges at first.",
+    "num_total": 19,
+    "num2": 10,
+    "correct_answer": 9,
+    "incorrect_answer": 10
+  },
+  {
+    "type": "addition",
+    "problem": "Logan baked six oranges. Amelia baked ten oranges. How many oranges did they bake altogether?",
+    "correct_statement": "They have sixteen oranges in total.",
+    "incorrect_statement": "They have twenty-three oranges in total.",
+    "num1": 6,
+    "num2": 10,
+    "correct_answer": 16,
+    "incorrect_answer": 23
+  },
+  {
+    "type": "subtraction",
+    "problem": "Noah had some books. After Noah got fourteen more books, Noah had twenty-one books. How many books did Noah have at first?",
+    "correct_statement": "Noah had seven books at first.",
+    "incorrect_statement": "Noah had five books at first.",
+    "num_total": 21,
+    "num2": 14,
+    "correct_answer": 7,
+    "incorrect_answer": 5
+  },
+  {
+    "type": "subtraction",
+    "problem": "Daniel had some oranges. After Daniel got seven more oranges, Daniel had fourteen oranges. How many oranges did Daniel have at first?",
+    "correct_statement": "Daniel had seven oranges at first.",
+    "incorrect_statement": "Daniel had nine oranges at first.",
+    "num_total": 14,
+    "num2": 7,
+    "correct_answer": 7,
+    "incorrect_answer": 9
+  },
+  {
+    "type": "subtraction",
+    "problem": "Amelia had twenty books. After giving some to Madison, Amelia had eleven books left. How many books did Amelia give to Madison?",
+    "correct_statement": "Amelia gave eleven books to Madison.",
+    "incorrect_statement": "Amelia gave two books to Madison.",
+    "num_total": 20,
+    "num2": 9,
+    "correct_answer": 11,
+    "incorrect_answer": 2
+  },
+  {
+    "type": "addition",
+    "problem": "Daniel collected six pencils on Monday and eleven pencils on Tuesday. How many pencils did Daniel collect in these two days?",
+    "correct_statement": "They have seventeen pencils in total.",
+    "incorrect_statement": "They have twenty-seven pencils in total.",
+    "num1": 6,
+    "num2": 11,
+    "correct_answer": 17,
+    "incorrect_answer": 27
+  },
+  {
+    "type": "subtraction",
+    "problem": "Emma had eighteen marbles. After giving some to Charlotte, Emma had fifteen marbles left. How many marbles did Emma give to Charlotte?",
+    "correct_statement": "Emma gave fifteen marbles to Charlotte.",
+    "incorrect_statement": "Emma gave twelve marbles to Charlotte.",
+    "num_total": 18,
+    "num2": 3,
+    "correct_answer": 15,
+    "incorrect_answer": 12
+  },
+  {
+    "type": "addition",
+    "problem": "Mason has nineteen marbles. Lily has nineteen marbles. How many marbles do they have together?",
+    "correct_statement": "They have thirty-eight marbles in total.",
+    "incorrect_statement": "They have forty-three marbles in total.",
+    "num1": 19,
+    "num2": 19,
+    "correct_answer": 38,
+    "incorrect_answer": 43
+  },
+  {
+    "type": "addition",
+    "problem": "Daniel found fifteen balloons. Then Daniel found three more balloons. How many balloons did Daniel find in total?",
+    "correct_statement": "They have eighteen balloons in total.",
+    "incorrect_statement": "They have twelve balloons in total.",
+    "num1": 15,
+    "num2": 3,
+    "correct_answer": 18,
+    "incorrect_answer": 12
+  },
+  {
+    "type": "addition",
+    "problem": "Benjamin found fifteen stamps. Then Benjamin found nine more stamps. How many stamps did Benjamin find in total?",
+    "correct_statement": "They have twenty-four stamps in total.",
+    "incorrect_statement": "They have twenty-seven stamps in total.",
+    "num1": 15,
+    "num2": 9,
+    "correct_answer": 24,
+    "incorrect_answer": 27
+  },
+  {
+    "type": "addition",
+    "problem": "Matthew has twelve marbles. Abigail has thirteen marbles. How many marbles do they have together?",
+    "correct_statement": "They have twenty-five marbles in total.",
+    "incorrect_statement": "They have twenty-six marbles in total.",
+    "num1": 12,
+    "num2": 13,
+    "correct_answer": 25,
+    "incorrect_answer": 26
+  },
+  {
+    "type": "addition",
+    "problem": "Sophia found seventeen chocolates. Then Sophia found nine more chocolates. How many chocolates did Sophia find in total?",
+    "correct_statement": "They have twenty-six chocolates in total.",
+    "incorrect_statement": "They have twenty-one chocolates in total.",
+    "num1": 17,
+    "num2": 9,
+    "correct_answer": 26,
+    "incorrect_answer": 21
+  },
+  {
+    "type": "addition",
+    "problem": "Sofia baked five dolls. Scarlett baked thirteen dolls. How many dolls did they bake altogether?",
+    "correct_statement": "They have eighteen dolls in total.",
+    "incorrect_statement": "They have sixteen dolls in total.",
+    "num1": 5,
+    "num2": 13,
+    "correct_answer": 18,
+    "incorrect_answer": 16
+  },
+  {
+    "type": "subtraction",
+    "problem": "Lucas had nine cards. Lucas gave seven cards to Lily. How many cards does Lucas have left?",
+    "correct_statement": "There are two cards left.",
+    "incorrect_statement": "There are sixteen cards left.",
+    "num_total": 9,
+    "num2": 7,
+    "correct_answer": 2,
+    "incorrect_answer": 16
+  },
+  {
+    "type": "subtraction",
+    "problem": "Noah had sixteen oranges. Noah gave five oranges to Liam. How many oranges does Noah have left?",
+    "correct_statement": "There are eleven oranges left.",
+    "incorrect_statement": "There are fourteen oranges left.",
+    "num_total": 16,
+    "num2": 5,
+    "correct_answer": 11,
+    "incorrect_answer": 14
+  },
+  {
+    "type": "subtraction",
+    "problem": "Alex had sixteen apples. After giving some to Harper, Alex had six apples left. How many apples did Alex give to Harper?",
+    "correct_statement": "Alex gave six apples to Harper.",
+    "incorrect_statement": "Alex gave three apples to Harper.",
+    "num_total": 16,
+    "num2": 10,
+    "correct_answer": 6,
+    "incorrect_answer": 3
+  },
+  {
+    "type": "subtraction",
+    "problem": "Victoria had twenty-three apples. After giving some to Benjamin, Victoria had twelve apples left. How many apples did Victoria give to Benjamin?",
+    "correct_statement": "Victoria gave twelve apples to Benjamin.",
+    "incorrect_statement": "Victoria gave one apples to Benjamin.",
+    "num_total": 23,
+    "num2": 11,
+    "correct_answer": 12,
+    "incorrect_answer": 1
+  },
+  {
+    "type": "addition",
+    "problem": "Logan has sixteen flowers. Evelyn has six flowers. How many flowers do they have together?",
+    "correct_statement": "They have twenty-two flowers in total.",
+    "incorrect_statement": "They have twenty-one flowers in total.",
+    "num1": 16,
+    "num2": 6,
+    "correct_answer": 22,
+    "incorrect_answer": 21
+  },
+  {
+    "type": "addition",
+    "problem": "Madison found five stickers. Then Madison found four more stickers. How many stickers did Madison find in total?",
+    "correct_statement": "They have nine stickers in total.",
+    "incorrect_statement": "They have seven stickers in total.",
+    "num1": 5,
+    "num2": 4,
+    "correct_answer": 9,
+    "incorrect_answer": 7
+  },
+  {
+    "type": "subtraction",
+    "problem": "Alex had twenty-three balloons. After giving some to Scarlett, Alex had fourteen balloons left. How many balloons did Alex give to Scarlett?",
+    "correct_statement": "Alex gave fourteen balloons to Scarlett.",
+    "incorrect_statement": "Alex gave seventeen balloons to Scarlett.",
+    "num_total": 23,
+    "num2": 9,
+    "correct_answer": 14,
+    "incorrect_answer": 17
+  },
+  {
+    "type": "subtraction",
+    "problem": "Olivia had five flowers. two of them were eaten. How many flowers does Olivia have now?",
+    "correct_statement": "Olivia has three flowers now.",
+    "incorrect_statement": "Olivia has four flowers now.",
+    "num_total": 5,
+    "num2": 2,
+    "correct_answer": 3,
+    "incorrect_answer": 4
+  },
+  {
+    "type": "subtraction",
+    "problem": "Mason had some cookies. After Mason got eight more cookies, Mason had fourteen cookies. How many cookies did Mason have at first?",
+    "correct_statement": "Mason had six cookies at first.",
+    "incorrect_statement": "Mason had one cookies at first.",
+    "num_total": 14,
+    "num2": 8,
+    "correct_answer": 6,
+    "incorrect_answer": 1
+  },
+  {
+    "type": "subtraction",
+    "problem": "Mason had fifteen dolls. thirteen of them were eaten. How many dolls does Mason have now?",
+    "correct_statement": "Mason has two dolls now.",
+    "incorrect_statement": "Mason has twenty-eight dolls now.",
+    "num_total": 15,
+    "num2": 13,
+    "correct_answer": 2,
+    "incorrect_answer": 28
+  },
+  {
+    "type": "subtraction",
+    "problem": "There were nineteen oranges on the table. Ella took five oranges. How many oranges remain on the table?",
+    "correct_statement": "Ella has fourteen oranges now.",
+    "incorrect_statement": "Ella has eleven oranges now.",
+    "num_total": 19,
+    "num2": 5,
+    "correct_answer": 14,
+    "incorrect_answer": 11
+  },
+  {
+    "type": "addition",
+    "problem": "Michael found fifteen cards. Then Michael found twelve more cards. How many cards did Michael find in total?",
+    "correct_statement": "They have twenty-seven cards in total.",
+    "incorrect_statement": "They have twenty-three cards in total.",
+    "num1": 15,
+    "num2": 12,
+    "correct_answer": 27,
+    "incorrect_answer": 23
+  },
+  {
+    "type": "subtraction",
+    "problem": "There were eleven marbles on the table. Emily took four marbles. How many marbles remain on the table?",
+    "correct_statement": "Emily has seven marbles now.",
+    "incorrect_statement": "Emily has four marbles now.",
+    "num_total": 11,
+    "num2": 4,
+    "correct_answer": 7,
+    "incorrect_answer": 4
+  },
+  {
+    "type": "subtraction",
+    "problem": "There were nineteen flowers on the table. Alex took thirteen flowers. How many flowers remain on the table?",
+    "correct_statement": "Alex has six flowers now.",
+    "incorrect_statement": "Alex has one flowers now.",
+    "num_total": 19,
+    "num2": 13,
+    "correct_answer": 6,
+    "incorrect_answer": 1
+  },
+  {
+    "type": "subtraction",
+    "problem": "Lily had some stickers. After Lily got seven more stickers, Lily had fourteen stickers. How many stickers did Lily have at first?",
+    "correct_statement": "Lily had seven stickers at first.",
+    "incorrect_statement": "Lily had twenty-one stickers at first.",
+    "num_total": 14,
+    "num2": 7,
+    "correct_answer": 7,
+    "incorrect_answer": 21
+  },
+  {
+    "type": "addition",
+    "problem": "Olivia baked seven toy cars. Henry baked five toy cars. How many toy cars did they bake altogether?",
+    "correct_statement": "They have twelve toy cars in total.",
+    "incorrect_statement": "They have thirteen toy cars in total.",
+    "num1": 7,
+    "num2": 5,
+    "correct_answer": 12,
+    "incorrect_answer": 13
+  },
+  {
+    "type": "addition",
+    "problem": "Benjamin collected nine stickers on Monday and seven stickers on Tuesday. How many stickers did Benjamin collect in these two days?",
+    "correct_statement": "They have sixteen stickers in total.",
+    "incorrect_statement": "They have fifteen stickers in total.",
+    "num1": 9,
+    "num2": 7,
+    "correct_answer": 16,
+    "incorrect_answer": 15
+  },
+  {
+    "type": "subtraction",
+    "problem": "Olivia had twenty-four stamps. Olivia gave thirteen stamps to Emma. How many stamps does Olivia have left?",
+    "correct_statement": "There are eleven stamps left.",
+    "incorrect_statement": "There are two stamps left.",
+    "num_total": 24,
+    "num2": 13,
+    "correct_answer": 11,
+    "incorrect_answer": 2
+  },
+  {
+    "type": "subtraction",
+    "problem": "Amelia had some cookies. After Amelia got fifteen more cookies, Amelia had twenty-three cookies. How many cookies did Amelia have at first?",
+    "correct_statement": "Amelia had eight cookies at first.",
+    "incorrect_statement": "Amelia had thirty-eight cookies at first.",
+    "num_total": 23,
+    "num2": 15,
+    "correct_answer": 8,
+    "incorrect_answer": 38
+  },
+  {
+    "type": "addition",
+    "problem": "Matthew collected nineteen balloons on Monday and two balloons on Tuesday. How many balloons did Matthew collect in these two days?",
+    "correct_statement": "They have twenty-one balloons in total.",
+    "incorrect_statement": "They have twenty-two balloons in total.",
+    "num1": 19,
+    "num2": 2,
+    "correct_answer": 21,
+    "incorrect_answer": 22
+  },
+  {
+    "type": "addition",
+    "problem": "Amelia baked two pencils. Jackson baked fifteen pencils. How many pencils did they bake altogether?",
+    "correct_statement": "They have seventeen pencils in total.",
+    "incorrect_statement": "They have fifteen pencils in total.",
+    "num1": 2,
+    "num2": 15,
+    "correct_answer": 17,
+    "incorrect_answer": 15
+  },
+  {
+    "type": "addition",
+    "problem": "Benjamin has three balloons. Aiden has twelve balloons. How many balloons do they have together?",
+    "correct_statement": "They have fifteen balloons in total.",
+    "incorrect_statement": "They have nine balloons in total.",
+    "num1": 3,
+    "num2": 12,
+    "correct_answer": 15,
+    "incorrect_answer": 9
+  },
+  {
+    "type": "subtraction",
+    "problem": "Logan had twenty-four balloons. Logan gave fourteen balloons to Matthew. How many balloons does Logan have left?",
+    "correct_statement": "There are ten balloons left.",
+    "incorrect_statement": "There are nine balloons left.",
+    "num_total": 24,
+    "num2": 14,
+    "correct_answer": 10,
+    "incorrect_answer": 9
+  },
+  {
+    "type": "subtraction",
+    "problem": "Amelia had some chocolates. After Amelia got eight more chocolates, Amelia had twenty-three chocolates. How many chocolates did Amelia have at first?",
+    "correct_statement": "Amelia had fifteen chocolates at first.",
+    "incorrect_statement": "Amelia had sixteen chocolates at first.",
+    "num_total": 23,
+    "num2": 8,
+    "correct_answer": 15,
+    "incorrect_answer": 16
+  },
+  {
+    "type": "addition",
+    "problem": "Logan found two dolls. Then Logan found eleven more dolls. How many dolls did Logan find in total?",
+    "correct_statement": "They have thirteen dolls in total.",
+    "incorrect_statement": "They have nine dolls in total.",
+    "num1": 2,
+    "num2": 11,
+    "correct_answer": 13,
+    "incorrect_answer": 9
+  },
+  {
+    "type": "subtraction",
+    "problem": "Benjamin had thirteen flowers. Benjamin gave four flowers to Victoria. How many flowers does Benjamin have left?",
+    "correct_statement": "There are nine flowers left.",
+    "incorrect_statement": "There are seventeen flowers left.",
+    "num_total": 13,
+    "num2": 4,
+    "correct_answer": 9,
+    "incorrect_answer": 17
+  },
+  {
+    "type": "addition",
+    "problem": "Sofia found fourteen balloons. Then Sofia found fourteen more balloons. How many balloons did Sofia find in total?",
+    "correct_statement": "They have twenty-eight balloons in total.",
+    "incorrect_statement": "They have thirty-two balloons in total.",
+    "num1": 14,
+    "num2": 14,
+    "correct_answer": 28,
+    "incorrect_answer": 32
+  },
+  {
+    "type": "addition",
+    "problem": "There are fifteen books in the basket. Amelia puts fourteen more books in the basket. How many books are in the basket now?",
+    "correct_statement": "They have twenty-nine books in total.",
+    "incorrect_statement": "They have thirty books in total.",
+    "num1": 15,
+    "num2": 14,
+    "correct_answer": 29,
+    "incorrect_answer": 30
+  },
+  {
+    "type": "addition",
+    "problem": "Charlotte has sixteen dolls. Harper has sixteen dolls. How many dolls do they have together?",
+    "correct_statement": "They have thirty-two dolls in total.",
+    "incorrect_statement": "They have thirty-four dolls in total.",
+    "num1": 16,
+    "num2": 16,
+    "correct_answer": 32,
+    "incorrect_answer": 34
+  },
+  {
+    "type": "addition",
+    "problem": "Lily found seven toy cars. Then Lily found twelve more toy cars. How many toy cars did Lily find in total?",
+    "correct_statement": "They have nineteen toy cars in total.",
+    "incorrect_statement": "They have seventeen toy cars in total.",
+    "num1": 7,
+    "num2": 12,
+    "correct_answer": 19,
+    "incorrect_answer": 17
+  },
+  {
+    "type": "addition",
+    "problem": "Scarlett has eleven stamps. Aiden has nine stamps. How many stamps do they have together?",
+    "correct_statement": "They have twenty stamps in total.",
+    "incorrect_statement": "They have thirty stamps in total.",
+    "num1": 11,
+    "num2": 9,
+    "correct_answer": 20,
+    "incorrect_answer": 30
+  },
+  {
+    "type": "addition",
+    "problem": "Matthew collected five stickers on Monday and twenty stickers on Tuesday. How many stickers did Matthew collect in these two days?",
+    "correct_statement": "They have twenty-five stickers in total.",
+    "incorrect_statement": "They have twenty-three stickers in total.",
+    "num1": 5,
+    "num2": 20,
+    "correct_answer": 25,
+    "incorrect_answer": 23
+  },
+  {
+    "type": "addition",
+    "problem": "There are nineteen pencils in the basket. Mia puts five more pencils in the basket. How many pencils are in the basket now?",
+    "correct_statement": "They have twenty-four pencils in total.",
+    "incorrect_statement": "They have twenty-two pencils in total.",
+    "num1": 19,
+    "num2": 5,
+    "correct_answer": 24,
+    "incorrect_answer": 22
+  },
+  {
+    "type": "subtraction",
+    "problem": "Noah had twenty-two chocolates. Noah gave eleven chocolates to Alex. How many chocolates does Noah have left?",
+    "correct_statement": "There are eleven chocolates left.",
+    "incorrect_statement": "There are nine chocolates left.",
+    "num_total": 22,
+    "num2": 11,
+    "correct_answer": 11,
+    "incorrect_answer": 9
+  },
+  {
+    "type": "addition",
+    "problem": "Jackson baked seventeen toy cars. Ella baked ten toy cars. How many toy cars did they bake altogether?",
+    "correct_statement": "They have twenty-seven toy cars in total.",
+    "incorrect_statement": "They have thirty-two toy cars in total.",
+    "num1": 17,
+    "num2": 10,
+    "correct_answer": 27,
+    "incorrect_answer": 32
+  },
+  {
+    "type": "addition",
+    "problem": "Victoria found three cards. Then Victoria found six more cards. How many cards did Victoria find in total?",
+    "correct_statement": "They have nine cards in total.",
+    "incorrect_statement": "They have eight cards in total.",
+    "num1": 3,
+    "num2": 6,
+    "correct_answer": 9,
+    "incorrect_answer": 8
+  },
+  {
+    "type": "addition",
+    "problem": "Victoria found nine chocolates. Then Victoria found fourteen more chocolates. How many chocolates did Victoria find in total?",
+    "correct_statement": "They have twenty-three chocolates in total.",
+    "incorrect_statement": "They have twenty-five chocolates in total.",
+    "num1": 9,
+    "num2": 14,
+    "correct_answer": 23,
+    "incorrect_answer": 25
+  },
+  {
+    "type": "addition",
+    "problem": "Benjamin collected twenty balloons on Monday and sixteen balloons on Tuesday. How many balloons did Benjamin collect in these two days?",
+    "correct_statement": "They have thirty-six balloons in total.",
+    "incorrect_statement": "They have forty-six balloons in total.",
+    "num1": 20,
+    "num2": 16,
+    "correct_answer": 36,
+    "incorrect_answer": 46
+  },
+  {
+    "type": "subtraction",
+    "problem": "There were twenty-eight cookies on the table. Lucas took fourteen cookies. How many cookies remain on the table?",
+    "correct_statement": "Lucas has fourteen cookies now.",
+    "incorrect_statement": "Lucas has twelve cookies now.",
+    "num_total": 28,
+    "num2": 14,
+    "correct_answer": 14,
+    "incorrect_answer": 12
+  },
+  {
+    "type": "addition",
+    "problem": "Logan collected eighteen marbles on Monday and eleven marbles on Tuesday. How many marbles did Logan collect in these two days?",
+    "correct_statement": "They have twenty-nine marbles in total.",
+    "incorrect_statement": "They have thirty marbles in total.",
+    "num1": 18,
+    "num2": 11,
+    "correct_answer": 29,
+    "incorrect_answer": 30
+  },
+  {
+    "type": "subtraction",
+    "problem": "Samuel had twenty-three dolls. Samuel gave eleven dolls to Liam. How many dolls does Samuel have left?",
+    "correct_statement": "There are twelve dolls left.",
+    "incorrect_statement": "There are one dolls left.",
+    "num_total": 23,
+    "num2": 11,
+    "correct_answer": 12,
+    "incorrect_answer": 1
+  },
+  {
+    "type": "addition",
+    "problem": "Lily has fifteen books. Jackson has seventeen books. How many books do they have together?",
+    "correct_statement": "They have thirty-two books in total.",
+    "incorrect_statement": "They have two books in total.",
+    "num1": 15,
+    "num2": 17,
+    "correct_answer": 32,
+    "incorrect_answer": 2
+  },
+  {
+    "type": "subtraction",
+    "problem": "Evelyn had thirteen stickers. Evelyn gave nine stickers to Emily. How many stickers does Evelyn have left?",
+    "correct_statement": "There are four stickers left.",
+    "incorrect_statement": "There are nine stickers left.",
+    "num_total": 13,
+    "num2": 9,
+    "correct_answer": 4,
+    "incorrect_answer": 9
+  },
+  {
+    "type": "subtraction",
+    "problem": "Madison had twenty-five stickers. twelve of them were eaten. How many stickers does Madison have now?",
+    "correct_statement": "Madison has thirteen stickers now.",
+    "incorrect_statement": "Madison has eighteen stickers now.",
+    "num_total": 25,
+    "num2": 12,
+    "correct_answer": 13,
+    "incorrect_answer": 18
+  },
+  {
+    "type": "subtraction",
+    "problem": "Mason had seventeen oranges. After giving some to Isabella, Mason had eleven oranges left. How many oranges did Mason give to Isabella?",
+    "correct_statement": "Mason gave eleven oranges to Isabella.",
+    "incorrect_statement": "Mason gave six oranges to Isabella.",
+    "num_total": 17,
+    "num2": 6,
+    "correct_answer": 11,
+    "incorrect_answer": 6
+  },
+  {
+    "type": "addition",
+    "problem": "There are nineteen coins in the basket. Harper puts fourteen more coins in the basket. How many coins are in the basket now?",
+    "correct_statement": "They have thirty-three coins in total.",
+    "incorrect_statement": "They have five coins in total.",
+    "num1": 19,
+    "num2": 14,
+    "correct_answer": 33,
+    "incorrect_answer": 5
+  },
+  {
+    "type": "subtraction",
+    "problem": "Daniel had sixteen books. Daniel gave twelve books to Noah. How many books does Daniel have left?",
+    "correct_statement": "There are four books left.",
+    "incorrect_statement": "There are twenty-eight books left.",
+    "num_total": 16,
+    "num2": 12,
+    "correct_answer": 4,
+    "incorrect_answer": 28
+  },
+  {
+    "type": "subtraction",
+    "problem": "Ethan had some cookies. After Ethan got three more cookies, Ethan had sixteen cookies. How many cookies did Ethan have at first?",
+    "correct_statement": "Ethan had thirteen cookies at first.",
+    "incorrect_statement": "Ethan had twelve cookies at first.",
+    "num_total": 16,
+    "num2": 3,
+    "correct_answer": 13,
+    "incorrect_answer": 12
+  },
+  {
+    "type": "subtraction",
+    "problem": "Scarlett had some books. After Scarlett got three more books, Scarlett had seven books. How many books did Scarlett have at first?",
+    "correct_statement": "Scarlett had four books at first.",
+    "incorrect_statement": "Scarlett had nine books at first.",
+    "num_total": 7,
+    "num2": 3,
+    "correct_answer": 4,
+    "incorrect_answer": 9
+  },
+  {
+    "type": "addition",
+    "problem": "Ava has eighteen stamps. Benjamin has nineteen stamps. How many stamps do they have together?",
+    "correct_statement": "They have thirty-seven stamps in total.",
+    "incorrect_statement": "They have forty-seven stamps in total.",
+    "num1": 18,
+    "num2": 19,
+    "correct_answer": 37,
+    "incorrect_answer": 47
+  },
+  {
+    "type": "addition",
+    "problem": "Michael baked eight dolls. Samuel baked seven dolls. How many dolls did they bake altogether?",
+    "correct_statement": "They have fifteen dolls in total.",
+    "incorrect_statement": "They have seventeen dolls in total.",
+    "num1": 8,
+    "num2": 7,
+    "correct_answer": 15,
+    "incorrect_answer": 17
+  },
+  {
+    "type": "addition",
+    "problem": "Victoria baked six marbles. David baked nineteen marbles. How many marbles did they bake altogether?",
+    "correct_statement": "They have twenty-five marbles in total.",
+    "incorrect_statement": "They have twenty-two marbles in total.",
+    "num1": 6,
+    "num2": 19,
+    "correct_answer": 25,
+    "incorrect_answer": 22
+  },
+  {
+    "type": "subtraction",
+    "problem": "There were twenty-five dolls on the table. Ella took thirteen dolls. How many dolls remain on the table?",
+    "correct_statement": "Ella has twelve dolls now.",
+    "incorrect_statement": "Ella has thirty-eight dolls now.",
+    "num_total": 25,
+    "num2": 13,
+    "correct_answer": 12,
+    "incorrect_answer": 38
+  },
+  {
+    "type": "subtraction",
+    "problem": "There were twenty-five marbles on the table. Lily took eleven marbles. How many marbles remain on the table?",
+    "correct_statement": "Lily has fourteen marbles now.",
+    "incorrect_statement": "Lily has thirty-six marbles now.",
+    "num_total": 25,
+    "num2": 11,
+    "correct_answer": 14,
+    "incorrect_answer": 36
+  },
+  {
+    "type": "subtraction",
+    "problem": "There were fourteen chocolates on the table. Samuel took nine chocolates. How many chocolates remain on the table?",
+    "correct_statement": "Samuel has five chocolates now.",
+    "incorrect_statement": "Samuel has two chocolates now.",
+    "num_total": 14,
+    "num2": 9,
+    "correct_answer": 5,
+    "incorrect_answer": 2
+  },
+  {
+    "type": "subtraction",
+    "problem": "Emily had eleven chocolates. After giving some to Benjamin, Emily had eight chocolates left. How many chocolates did Emily give to Benjamin?",
+    "correct_statement": "Emily gave eight chocolates to Benjamin.",
+    "incorrect_statement": "Emily gave fourteen chocolates to Benjamin.",
+    "num_total": 11,
+    "num2": 3,
+    "correct_answer": 8,
+    "incorrect_answer": 14
+  },
+  {
+    "type": "subtraction",
+    "problem": "There were twenty-nine books on the table. Sofia took fourteen books. How many books remain on the table?",
+    "correct_statement": "Sofia has fifteen books now.",
+    "incorrect_statement": "Sofia has thirteen books now.",
+    "num_total": 29,
+    "num2": 14,
+    "correct_answer": 15,
+    "incorrect_answer": 13
+  },
+  {
+    "type": "addition",
+    "problem": "Madison collected fifteen oranges on Monday and two oranges on Tuesday. How many oranges did Madison collect in these two days?",
+    "correct_statement": "They have seventeen oranges in total.",
+    "incorrect_statement": "They have twenty-one oranges in total.",
+    "num1": 15,
+    "num2": 2,
+    "correct_answer": 17,
+    "incorrect_answer": 21
+  },
+  {
+    "type": "subtraction",
+    "problem": "Madison had eighteen apples. Madison gave seven apples to Harper. How many apples does Madison have left?",
+    "correct_statement": "There are eleven apples left.",
+    "incorrect_statement": "There are ten apples left.",
+    "num_total": 18,
+    "num2": 7,
+    "correct_answer": 11,
+    "incorrect_answer": 10
+  },
+  {
+    "type": "subtraction",
+    "problem": "Scarlett had some balloons. After Scarlett got eleven more balloons, Scarlett had thirteen balloons. How many balloons did Scarlett have at first?",
+    "correct_statement": "Scarlett had two balloons at first.",
+    "incorrect_statement": "Scarlett had nine balloons at first.",
+    "num_total": 13,
+    "num2": 11,
+    "correct_answer": 2,
+    "incorrect_answer": 9
+  },
+  {
+    "type": "subtraction",
+    "problem": "Victoria had ten apples. After giving some to Sophia, Victoria had two apples left. How many apples did Victoria give to Sophia?",
+    "correct_statement": "Victoria gave two apples to Sophia.",
+    "incorrect_statement": "Victoria gave eighteen apples to Sophia.",
+    "num_total": 10,
+    "num2": 8,
+    "correct_answer": 2,
+    "incorrect_answer": 18
+  },
+  {
+    "type": "subtraction",
+    "problem": "Victoria had twenty-eight pencils. After giving some to Daniel, Victoria had thirteen pencils left. How many pencils did Victoria give to Daniel?",
+    "correct_statement": "Victoria gave thirteen pencils to Daniel.",
+    "incorrect_statement": "Victoria gave forty-three pencils to Daniel.",
+    "num_total": 28,
+    "num2": 15,
+    "correct_answer": 13,
+    "incorrect_answer": 43
+  },
+  {
+    "type": "addition",
+    "problem": "Victoria found fifteen coins. Then Victoria found three more coins. How many coins did Victoria find in total?",
+    "correct_statement": "They have eighteen coins in total.",
+    "incorrect_statement": "They have twenty coins in total.",
+    "num1": 15,
+    "num2": 3,
+    "correct_answer": 18,
+    "incorrect_answer": 20
+  },
+  {
+    "type": "addition",
+    "problem": "There are sixteen balloons in the basket. Lily puts seven more balloons in the basket. How many balloons are in the basket now?",
+    "correct_statement": "They have twenty-three balloons in total.",
+    "incorrect_statement": "They have twenty-one balloons in total.",
+    "num1": 16,
+    "num2": 7,
+    "correct_answer": 23,
+    "incorrect_answer": 21
+  },
+  {
+    "type": "addition",
+    "problem": "There are five chocolates in the basket. Henry puts fourteen more chocolates in the basket. How many chocolates are in the basket now?",
+    "correct_statement": "They have nineteen chocolates in total.",
+    "incorrect_statement": "They have twenty-five chocolates in total.",
+    "num1": 5,
+    "num2": 14,
+    "correct_answer": 19,
+    "incorrect_answer": 25
+  },
+  {
+    "type": "addition",
+    "problem": "Mason baked fifteen stickers. James baked nine stickers. How many stickers did they bake altogether?",
+    "correct_statement": "They have twenty-four stickers in total.",
+    "incorrect_statement": "They have thirty-four stickers in total.",
+    "num1": 15,
+    "num2": 9,
+    "correct_answer": 24,
+    "incorrect_answer": 34
+  },
+  {
+    "type": "subtraction",
+    "problem": "Emily had twenty-three marbles. Emily gave thirteen marbles to Henry. How many marbles does Emily have left?",
+    "correct_statement": "There are ten marbles left.",
+    "incorrect_statement": "There are fifteen marbles left.",
+    "num_total": 23,
+    "num2": 13,
+    "correct_answer": 10,
+    "incorrect_answer": 15
+  },
+  {
+    "type": "addition",
+    "problem": "James collected eighteen toy cars on Monday and fifteen toy cars on Tuesday. How many toy cars did James collect in these two days?",
+    "correct_statement": "They have thirty-three toy cars in total.",
+    "incorrect_statement": "They have thirty-eight toy cars in total.",
+    "num1": 18,
+    "num2": 15,
+    "correct_answer": 33,
+    "incorrect_answer": 38
+  },
+  {
+    "type": "addition",
+    "problem": "Victoria has sixteen chocolates. David has nine chocolates. How many chocolates do they have together?",
+    "correct_statement": "They have twenty-five chocolates in total.",
+    "incorrect_statement": "They have twenty-six chocolates in total.",
+    "num1": 16,
+    "num2": 9,
+    "correct_answer": 25,
+    "incorrect_answer": 26
+  },
+  {
+    "type": "subtraction",
+    "problem": "There were twenty-four coins on the table. Ava took eleven coins. How many coins remain on the table?",
+    "correct_statement": "Ava has thirteen coins now.",
+    "incorrect_statement": "Ava has two coins now.",
+    "num_total": 24,
+    "num2": 11,
+    "correct_answer": 13,
+    "incorrect_answer": 2
+  },
+  {
+    "type": "subtraction",
+    "problem": "Scarlett had twenty-one oranges. After giving some to Sophia, Scarlett had fifteen oranges left. How many oranges did Scarlett give to Sophia?",
+    "correct_statement": "Scarlett gave fifteen oranges to Sophia.",
+    "incorrect_statement": "Scarlett gave nine oranges to Sophia.",
+    "num_total": 21,
+    "num2": 6,
+    "correct_answer": 15,
+    "incorrect_answer": 9
+  },
+  {
+    "type": "subtraction",
+    "problem": "Charlotte had twenty-five toy cars. After giving some to David, Charlotte had thirteen toy cars left. How many toy cars did Charlotte give to David?",
+    "correct_statement": "Charlotte gave thirteen toy cars to David.",
+    "incorrect_statement": "Charlotte gave fourteen toy cars to David.",
+    "num_total": 25,
+    "num2": 12,
+    "correct_answer": 13,
+    "incorrect_answer": 14
+  },
+  {
+    "type": "addition",
+    "problem": "Charlotte found eleven cookies. Then Charlotte found seven more cookies. How many cookies did Charlotte find in total?",
+    "correct_statement": "They have eighteen cookies in total.",
+    "incorrect_statement": "They have seventeen cookies in total.",
+    "num1": 11,
+    "num2": 7,
+    "correct_answer": 18,
+    "incorrect_answer": 17
+  },
+  {
+    "type": "addition",
+    "problem": "There are sixteen marbles in the basket. Evelyn puts ten more marbles in the basket. How many marbles are in the basket now?",
+    "correct_statement": "They have twenty-six marbles in total.",
+    "incorrect_statement": "They have twenty-four marbles in total.",
+    "num1": 16,
+    "num2": 10,
+    "correct_answer": 26,
+    "incorrect_answer": 24
+  },
+  {
+    "type": "addition",
+    "problem": "There are six stamps in the basket. Charlotte puts twelve more stamps in the basket. How many stamps are in the basket now?",
+    "correct_statement": "They have eighteen stamps in total.",
+    "incorrect_statement": "They have twenty-two stamps in total.",
+    "num1": 6,
+    "num2": 12,
+    "correct_answer": 18,
+    "incorrect_answer": 22
+  },
+  {
+    "type": "subtraction",
+    "problem": "Mia had some chocolates. After Mia got twelve more chocolates, Mia had fifteen chocolates. How many chocolates did Mia have at first?",
+    "correct_statement": "Mia had three chocolates at first.",
+    "incorrect_statement": "Mia had five chocolates at first.",
+    "num_total": 15,
+    "num2": 12,
+    "correct_answer": 3,
+    "incorrect_answer": 5
+  },
+  {
+    "type": "subtraction",
+    "problem": "Ella had eleven cookies. nine of them were eaten. How many cookies does Ella have now?",
+    "correct_statement": "Ella has two cookies now.",
+    "incorrect_statement": "Ella has seven cookies now.",
+    "num_total": 11,
+    "num2": 9,
+    "correct_answer": 2,
+    "incorrect_answer": 7
+  },
+  {
+    "type": "subtraction",
+    "problem": "Logan had twenty-one cookies. Logan gave twelve cookies to Daniel. How many cookies does Logan have left?",
+    "correct_statement": "There are nine cookies left.",
+    "incorrect_statement": "There are three cookies left.",
+    "num_total": 21,
+    "num2": 12,
+    "correct_answer": 9,
+    "incorrect_answer": 3
+  },
+  {
+    "type": "subtraction",
+    "problem": "Isabella had some dolls. After Isabella got fourteen more dolls, Isabella had nineteen dolls. How many dolls did Isabella have at first?",
+    "correct_statement": "Isabella had five dolls at first.",
+    "incorrect_statement": "Isabella had nine dolls at first.",
+    "num_total": 19,
+    "num2": 14,
+    "correct_answer": 5,
+    "incorrect_answer": 9
+  },
+  {
+    "type": "subtraction",
+    "problem": "There were twenty-seven pencils on the table. Matthew took fourteen pencils. How many pencils remain on the table?",
+    "correct_statement": "Matthew has thirteen pencils now.",
+    "incorrect_statement": "Matthew has forty-one pencils now.",
+    "num_total": 27,
+    "num2": 14,
+    "correct_answer": 13,
+    "incorrect_answer": 41
+  },
+  {
+    "type": "subtraction",
+    "problem": "Alex had twenty-five books. After giving some to Benjamin, Alex had fourteen books left. How many books did Alex give to Benjamin?",
+    "correct_statement": "Alex gave fourteen books to Benjamin.",
+    "incorrect_statement": "Alex gave three books to Benjamin.",
+    "num_total": 25,
+    "num2": 11,
+    "correct_answer": 14,
+    "incorrect_answer": 3
+  },
+  {
+    "type": "subtraction",
+    "problem": "Emily had twenty books. fifteen of them were eaten. How many books does Emily have now?",
+    "correct_statement": "Emily has five books now.",
+    "incorrect_statement": "Emily has two books now.",
+    "num_total": 20,
+    "num2": 15,
+    "correct_answer": 5,
+    "incorrect_answer": 2
+  },
+  {
+    "type": "subtraction",
+    "problem": "Ethan had some pencils. After Ethan got thirteen more pencils, Ethan had seventeen pencils. How many pencils did Ethan have at first?",
+    "correct_statement": "Ethan had four pencils at first.",
+    "incorrect_statement": "Ethan had nine pencils at first.",
+    "num_total": 17,
+    "num2": 13,
+    "correct_answer": 4,
+    "incorrect_answer": 9
+  },
+  {
+    "type": "subtraction",
+    "problem": "Samuel had some cookies. After Samuel got five more cookies, Samuel had thirteen cookies. How many cookies did Samuel have at first?",
+    "correct_statement": "Samuel had eight cookies at first.",
+    "incorrect_statement": "Samuel had three cookies at first.",
+    "num_total": 13,
+    "num2": 5,
+    "correct_answer": 8,
+    "incorrect_answer": 3
+  },
+  {
+    "type": "subtraction",
+    "problem": "Matthew had nineteen marbles. Matthew gave eleven marbles to Victoria. How many marbles does Matthew have left?",
+    "correct_statement": "There are eight marbles left.",
+    "incorrect_statement": "There are three marbles left.",
+    "num_total": 19,
+    "num2": 11,
+    "correct_answer": 8,
+    "incorrect_answer": 3
+  },
+  {
+    "type": "subtraction",
+    "problem": "There were fifteen stickers on the table. Ava took seven stickers. How many stickers remain on the table?",
+    "correct_statement": "Ava has eight stickers now.",
+    "incorrect_statement": "Ava has six stickers now.",
+    "num_total": 15,
+    "num2": 7,
+    "correct_answer": 8,
+    "incorrect_answer": 6
+  },
+  {
+    "type": "addition",
+    "problem": "There are eighteen cookies in the basket. Emma puts sixteen more cookies in the basket. How many cookies are in the basket now?",
+    "correct_statement": "They have thirty-four cookies in total.",
+    "incorrect_statement": "They have thirty-two cookies in total.",
+    "num1": 18,
+    "num2": 16,
+    "correct_answer": 34,
+    "incorrect_answer": 32
+  },
+  {
+    "type": "addition",
+    "problem": "There are seven stickers in the basket. Scarlett puts twelve more stickers in the basket. How many stickers are in the basket now?",
+    "correct_statement": "They have nineteen stickers in total.",
+    "incorrect_statement": "They have twenty stickers in total.",
+    "num1": 7,
+    "num2": 12,
+    "correct_answer": 19,
+    "incorrect_answer": 20
+  },
+  {
+    "type": "subtraction",
+    "problem": "Charlotte had twenty-three cards. After giving some to Alex, Charlotte had twelve cards left. How many cards did Charlotte give to Alex?",
+    "correct_statement": "Charlotte gave twelve cards to Alex.",
+    "incorrect_statement": "Charlotte gave one cards to Alex.",
+    "num_total": 23,
+    "num2": 11,
+    "correct_answer": 12,
+    "incorrect_answer": 1
+  },
+  {
+    "type": "subtraction",
+    "problem": "There were twenty-two cards on the table. Jackson took eleven cards. How many cards remain on the table?",
+    "correct_statement": "Jackson has eleven cards now.",
+    "incorrect_statement": "Jackson has fourteen cards now.",
+    "num_total": 22,
+    "num2": 11,
+    "correct_answer": 11,
+    "incorrect_answer": 14
+  },
+  {
+    "type": "addition",
+    "problem": "Mason found eleven oranges. Then Mason found thirteen more oranges. How many oranges did Mason find in total?",
+    "correct_statement": "They have twenty-four oranges in total.",
+    "incorrect_statement": "They have twenty oranges in total.",
+    "num1": 11,
+    "num2": 13,
+    "correct_answer": 24,
+    "incorrect_answer": 20
+  },
+  {
+    "type": "addition",
+    "problem": "Emma baked nineteen stickers. Victoria baked ten stickers. How many stickers did they bake altogether?",
+    "correct_statement": "They have twenty-nine stickers in total.",
+    "incorrect_statement": "They have twenty-six stickers in total.",
+    "num1": 19,
+    "num2": 10,
+    "correct_answer": 29,
+    "incorrect_answer": 26
+  },
+  {
+    "type": "subtraction",
+    "problem": "Ethan had some books. After Ethan got six more books, Ethan had nine books. How many books did Ethan have at first?",
+    "correct_statement": "Ethan had three books at first.",
+    "incorrect_statement": "Ethan had five books at first.",
+    "num_total": 9,
+    "num2": 6,
+    "correct_answer": 3,
+    "incorrect_answer": 5
+  },
+  {
+    "type": "addition",
+    "problem": "Mia has fourteen cookies. Sophia has ten cookies. How many cookies do they have together?",
+    "correct_statement": "They have twenty-four cookies in total.",
+    "incorrect_statement": "They have twenty-three cookies in total.",
+    "num1": 14,
+    "num2": 10,
+    "correct_answer": 24,
+    "incorrect_answer": 23
+  },
+  {
+    "type": "subtraction",
+    "problem": "Ethan had fourteen oranges. Ethan gave eleven oranges to Isabella. How many oranges does Ethan have left?",
+    "correct_statement": "There are three oranges left.",
+    "incorrect_statement": "There are twenty-five oranges left.",
+    "num_total": 14,
+    "num2": 11,
+    "correct_answer": 3,
+    "incorrect_answer": 25
+  },
+  {
+    "type": "subtraction",
+    "problem": "Henry had twenty-four apples. Henry gave fourteen apples to Jackson. How many apples does Henry have left?",
+    "correct_statement": "There are ten apples left.",
+    "incorrect_statement": "There are eight apples left.",
+    "num_total": 24,
+    "num2": 14,
+    "correct_answer": 10,
+    "incorrect_answer": 8
+  },
+  {
+    "type": "addition",
+    "problem": "Emily has five coins. Mason has two coins. How many coins do they have together?",
+    "correct_statement": "They have seven coins in total.",
+    "incorrect_statement": "They have six coins in total.",
+    "num1": 5,
+    "num2": 2,
+    "correct_answer": 7,
+    "incorrect_answer": 6
+  },
+  {
+    "type": "subtraction",
+    "problem": "Madison had eleven dolls. six of them were eaten. How many dolls does Madison have now?",
+    "correct_statement": "Madison has five dolls now.",
+    "incorrect_statement": "Madison has ten dolls now.",
+    "num_total": 11,
+    "num2": 6,
+    "correct_answer": 5,
+    "incorrect_answer": 10
+  },
+  {
+    "type": "addition",
+    "problem": "Mason baked ten books. Scarlett baked seven books. How many books did they bake altogether?",
+    "correct_statement": "They have seventeen books in total.",
+    "incorrect_statement": "They have twenty-seven books in total.",
+    "num1": 10,
+    "num2": 7,
+    "correct_answer": 17,
+    "incorrect_answer": 27
+  },
+  {
+    "type": "addition",
+    "problem": "Sophia collected two flowers on Monday and twenty flowers on Tuesday. How many flowers did Sophia collect in these two days?",
+    "correct_statement": "They have twenty-two flowers in total.",
+    "incorrect_statement": "They have twenty flowers in total.",
+    "num1": 2,
+    "num2": 20,
+    "correct_answer": 22,
+    "incorrect_answer": 20
+  },
+  {
+    "type": "addition",
+    "problem": "Liam collected eighteen toy cars on Monday and twenty toy cars on Tuesday. How many toy cars did Liam collect in these two days?",
+    "correct_statement": "They have thirty-eight toy cars in total.",
+    "incorrect_statement": "They have forty toy cars in total.",
+    "num1": 18,
+    "num2": 20,
+    "correct_answer": 38,
+    "incorrect_answer": 40
+  },
+  {
+    "type": "subtraction",
+    "problem": "Lucas had fifteen stamps. three of them were eaten. How many stamps does Lucas have now?",
+    "correct_statement": "Lucas has twelve stamps now.",
+    "incorrect_statement": "Lucas has seventeen stamps now.",
+    "num_total": 15,
+    "num2": 3,
+    "correct_answer": 12,
+    "incorrect_answer": 17
+  },
+  {
+    "type": "addition",
+    "problem": "Emma found nineteen coins. Then Emma found eight more coins. How many coins did Emma find in total?",
+    "correct_statement": "They have twenty-seven coins in total.",
+    "incorrect_statement": "They have twenty-eight coins in total.",
+    "num1": 19,
+    "num2": 8,
+    "correct_answer": 27,
+    "incorrect_answer": 28
+  },
+  {
+    "type": "addition",
+    "problem": "Scarlett baked eight pencils. Henry baked fifteen pencils. How many pencils did they bake altogether?",
+    "correct_statement": "They have twenty-three pencils in total.",
+    "incorrect_statement": "They have twenty-one pencils in total.",
+    "num1": 8,
+    "num2": 15,
+    "correct_answer": 23,
+    "incorrect_answer": 21
+  },
+  {
+    "type": "subtraction",
+    "problem": "Jackson had nineteen oranges. eleven of them were eaten. How many oranges does Jackson have now?",
+    "correct_statement": "Jackson has eight oranges now.",
+    "incorrect_statement": "Jackson has three oranges now.",
+    "num_total": 19,
+    "num2": 11,
+    "correct_answer": 8,
+    "incorrect_answer": 3
+  },
+  {
+    "type": "addition",
+    "problem": "Isabella collected five apples on Monday and five apples on Tuesday. How many apples did Isabella collect in these two days?",
+    "correct_statement": "They have ten apples in total.",
+    "incorrect_statement": "They have fourteen apples in total.",
+    "num1": 5,
+    "num2": 5,
+    "correct_answer": 10,
+    "incorrect_answer": 14
+  },
+  {
+    "type": "subtraction",
+    "problem": "There were twenty-one stamps on the table. Sophia took eleven stamps. How many stamps remain on the table?",
+    "correct_statement": "Sophia has ten stamps now.",
+    "incorrect_statement": "Sophia has thirteen stamps now.",
+    "num_total": 21,
+    "num2": 11,
+    "correct_answer": 10,
+    "incorrect_answer": 13
+  },
+  {
+    "type": "addition",
+    "problem": "David baked six cookies. Harper baked six cookies. How many cookies did they bake altogether?",
+    "correct_statement": "They have twelve cookies in total.",
+    "incorrect_statement": "They have thirteen cookies in total.",
+    "num1": 6,
+    "num2": 6,
+    "correct_answer": 12,
+    "incorrect_answer": 13
+  },
+  {
+    "type": "subtraction",
+    "problem": "Mia had twenty-two stickers. After giving some to Samuel, Mia had eleven stickers left. How many stickers did Mia give to Samuel?",
+    "correct_statement": "Mia gave eleven stickers to Samuel.",
+    "incorrect_statement": "Mia gave sixteen stickers to Samuel.",
+    "num_total": 22,
+    "num2": 11,
+    "correct_answer": 11,
+    "incorrect_answer": 16
+  },
+  {
+    "type": "addition",
+    "problem": "Matthew baked six cards. Mason baked thirteen cards. How many cards did they bake altogether?",
+    "correct_statement": "They have nineteen cards in total.",
+    "incorrect_statement": "They have twenty-four cards in total.",
+    "num1": 6,
+    "num2": 13,
+    "correct_answer": 19,
+    "incorrect_answer": 24
+  }
+]
