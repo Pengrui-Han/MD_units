@@ -61,7 +61,7 @@ Selected top 1% of units with highest absolute t-statistic values
 Example Findings on Llama-3.2-1B:
 
 ```
-Found 327 MD units with highly skewed distribution:
+Top 1% Units Distribution:
 
 Layer 13: 66 units (20.18%)
 Layer 14: 107 units (32.72%)
