@@ -53,7 +53,7 @@
 ### MD Units 
 Methodology
 
-* Identified Math Detection (MD) units by comparing activations in correct vs. incorrect arithmetic solutions
+* Identified MD units by comparing activations in correct vs. incorrect arithmetic solutions
 * Captured MLP down projection activations across all transformer layers
 * Applied paired t-tests to measure activation differences
 Selected top 1% of units with highest absolute t-statistic values
